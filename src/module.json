@@ -1,7 +1,7 @@
 {
   "id": "my-names-jeff",
-  "title": "Typescript Template",
-  "description": "",
+  "title": "My names Jeff",
+  "description": "generate random name when dropping token on canvas",
   "authors": [
     {
       "name": "chrisjbrown",
