@@ -19,6 +19,7 @@ export default defineConfig({
         format: "es",
       },
     },
+    assetsDir: ".",
   },
   plugins: [
     updateModuleManifestPlugin(),
