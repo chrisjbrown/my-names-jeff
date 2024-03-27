@@ -1,16 +1,17 @@
 {
-  "name": "foundry-typescript-template",
+  "name": "my-names-jeff",
   "title": "Typescript Template",
-  "description": "", 
+  "description": "",
   "authors": [
     {
-      "name": "spacemandev",
-      "discord": "spacemandev#6256"
+      "name": "chrisjbrown",
+      "discord": "bluegreymouse"
     }
   ],
   "version": "0.0.1",
-  "minimumCoreVersion": "0.6.0",
-  "compatibleCoreVersion": "0.7.2",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "manifestPlusVersion": "1.0.0",
   "url": "",
   "manifest": "",
   "download": "",
@@ -18,6 +19,7 @@
   "includes": [
     "./assets/**",
     "./lang/**",
+    "./packs/**",
     "./scripts/**",
     "./styles/**",
     "./templates/**",
@@ -28,7 +30,7 @@
     {
       "type": "icon",
       "location": ""
-    }, 
+    },
     {
       "type": "cover",
       "location": ""
@@ -38,12 +40,8 @@
       "location": ""
     }
   ],
-  "esmodules": [
-    "scripts/module.js"
-  ],
-  "styles": [
-    "styles/module.css"
-  ],
+  "esmodules": ["scripts/module.js"],
+  "styles": ["styles/module.css"],
   "languages": [
     {
       "lang": "en",
