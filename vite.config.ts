@@ -17,6 +17,9 @@ export default defineConfig({
       output: {
         dir: "dist/scripts",
         format: "es",
+        entryFileNames: `[name].js`,
+        chunkFileNames: `[name].js`,
+        assetFileNames: `[name].[ext]`,
       },
     },
     assetsDir: ".",
