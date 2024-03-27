@@ -17,7 +17,6 @@
   "download": "",
   "type": "module",
   "includes": [
-    "./assets/**",
     "./lang/**",
     "./packs/**",
     "./scripts/**",
