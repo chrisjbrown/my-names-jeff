@@ -19,7 +19,7 @@ export default defineConfig({
         format: "es",
         entryFileNames: `[name].js`,
         chunkFileNames: `[name].js`,
-        assetFileNames: `[name].[ext]`,
+        assetFileNames: `styles/[name].[ext]`,
       },
     },
     assetsDir: ".",
