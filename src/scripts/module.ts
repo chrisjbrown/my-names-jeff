@@ -1,6 +1,6 @@
 // Do not remove this import. If you do Vite will think your styles are dead
 // code and not include them in the build output.
-import "../styles/module.scss";
+import "../styles/module.css";
 import { moduleId } from "./constants";
 // import { MyModule } from "./types";
 
