@@ -17,13 +17,13 @@
   "download": "",
   "type": "module",
   "includes": [
-    "./lang/**",
+    "./languages/**",
     "./packs/**",
     "./scripts/**",
     "./styles/**",
     "./templates/**",
     "./module.json",
-    "./README.md"
+    "../README.md"
   ],
   "media": [
     {
