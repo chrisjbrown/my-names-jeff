@@ -6,6 +6,9 @@ import { moduleId } from "./constants";
 
 // let module: MyModule;
 
+// load templates
+loadTemplates(["../templates/token-config.hbs"]);
+
 Hooks.once("init", () => {
   console.log(`Initializing ${moduleId}`);
 

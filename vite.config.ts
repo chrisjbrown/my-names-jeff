@@ -10,7 +10,8 @@ console.log(process.env.VSCODE_INJECTION);
 
 export default defineConfig({
   build: {
-    sourcemap: true,
+    sourcemap: false,
+    minify: false,
     rollupOptions: {
       input: "src/scripts/module.ts",
       output: {
