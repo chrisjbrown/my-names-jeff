@@ -9,23 +9,6 @@ import { moduleId } from "./constants";
 // load templates
 loadTemplates(["../templates/token-config.hbs"]);
 
-const types = [
-  "Human",
-  "Dragon",
-  "Dwarf",
-  "Elf",
-  "Gnome",
-  "Goblin",
-  "Halfling",
-  "Orc",
-  "Tiefling",
-].map((type, index) => {
-  return {
-    name: type,
-    selected: index === 0,
-  };
-});
-
 async function getTableFromPack(name: string) {
   const pack = game.packs.get("person-names");
   const entry = Array.from(pack.index).find((e: any) => e.name == name);
@@ -45,6 +28,26 @@ Hooks.on("renderTokenConfig", async function (app: any, html: JQuery) {
 
   const enableTokenRename: boolean =
     app.token.getFlag("my-names-jeff", "enableTokenRename") || false;
+
+  const selectedType =
+    app.token.flags["my-names-jeff"]?.["nameType"] || "Human";
+  const types = [
+    "Human",
+    "Dragon",
+    "Dwarf",
+    "Elf",
+    "Gnome",
+    "Goblin",
+    "Halfling",
+    "Orc",
+    "Tiefling",
+  ].map((type) => {
+    return {
+      name: type,
+      selected: type === selectedType,
+    };
+  });
+
   const characterTab = html.find(`div[data-tab="character"]`);
   const tokenConfig = await renderTemplate(
     "modules/my-names-jeff/templates/token-config.hbs",
@@ -55,7 +58,7 @@ Hooks.on("renderTokenConfig", async function (app: any, html: JQuery) {
 });
 
 Hooks.on("preCreateToken", async function (tokenDocument: any) {
-  if (tokenDocument.actor?.flags["my-names-jeff"]?.["enableTokenRename"]) {
+  if (tokenDocument?.flags["my-names-jeff"]?.["enableTokenRename"]) {
     const type = tokenDocument.flags["my-names-jeff"]?.["nameType"];
     if (type === "Dragon") {
       const dragonTable = await getTableFromPack(`Dragon Name`);
