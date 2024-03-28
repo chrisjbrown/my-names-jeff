@@ -5,7 +5,7 @@
   "author": "chrisjbrown",
   "license": "MIT",
   "scripts": {
-    "build": "tsc && vite build",
+    "build": "vite build",
     "watch": "tsc && vite build --watch"
   },
   "devDependencies": {
