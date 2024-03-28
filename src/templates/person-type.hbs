@@ -1,0 +1,10 @@
+
+<div class="form-group" data-my-names-jeff="type-dropdown">
+    <div class="form-fields">
+    <select name="flags.my-names-jeff.nameType">
+        {{#each types}}
+            <option value="{{this.name}}" {{#if this.selected }}selected{{/if}}>{{this.name}}</option>
+        {{/each}}
+    </select>
+    </div>
+</div>

@@ -1,4 +1,4 @@
-<fieldset>
+<fieldset data-my-names-jeff="token-config">
   <legend>My names Jeff</legend>
   <div class="form-group">
     <label>Enable token rename</label>
@@ -12,22 +12,4 @@
     <p class="notes">When enabled the token will be renamed when dropped to
       canvas</p>
   </div>
-  {{#if enableTokenRename}}
-    <div class="form-group">
-      <div class="form-fields">
-        <select
-          name="flags.my-names-jeff.nameType">
-          <option value="Human" {{#if nameType == 'Human'}}selected{{/if}}>Human</option>
-          <option value="Dragon" {{#if nameType == 'Dragon'}}selected{{/if}}>Dragon</option>
-          <option value="Elf" {{#if nameType == 'Elf'}}selected{{/if}}>Elf</option>
-          <option value="Dwarf" {{#if nameType == 'Dwarf'}}selected{{/if}}>Dwarf</option>
-          <option value="Dragon" {{#if nameType == 'Dragon'}}selected{{/if}}>Dragon</option>
-          <option value="Gnome" {{#if nameType == 'Gnome'}}selected{{/if}}>Gnome</option>
-          <option value="Halfling" {{#if nameType == 'Halfling'}}selected{{/if}}>Halfling</option>
-          <option value="Orc" {{#if nameType == 'Orc'}}selected{{/if}}>Orc</option>
-          <option value="Tiefling" {{#if nameType == 'Tiefling'}}selected{{/if}}>Tiefling</option>
-        </select>
-      </div>
-    </div>
-  {{/if}}
 </fieldset>
