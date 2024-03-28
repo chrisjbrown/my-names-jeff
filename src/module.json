@@ -25,6 +25,15 @@
     "./module.json",
     "../README.md"
   ],
+  "packs": [
+    {
+      "name": "person-names",
+      "label": "Person Names",
+      "path": "src/packs/person-names.db",
+      "type": "RollTable",
+      "private": false
+    }
+  ],
   "media": [
     {
       "type": "icon",
