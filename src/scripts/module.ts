@@ -17,11 +17,11 @@ Hooks.once("init", () => {
 
 Hooks.on("renderTokenConfig", async function (app: any, html: JQuery) {
   console.log("renderTokenConfig Hook");
-  const enableTokenRename =
-    app.token.getFlag("my-names-jeff", "enableTokenRename") || "";
+  const enableTokenRename: boolean =
+    app.token.getFlag("my-names-jeff", "enableTokenRename") || false;
   const characterTab = html.find(`div[data-tab="character"]`);
   const tokenConfig = await renderTemplate(
-    "modules/my-names-jeff/templates/token-config.html",
+    "modules/my-names-jeff/templates/token-config.hbs",
     { enableTokenRename }
   );
 
