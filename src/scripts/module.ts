@@ -10,7 +10,7 @@ import { moduleId } from "./constants";
 loadTemplates(["../templates/token-config.hbs"]);
 
 async function getTableFromPack(name: string) {
-  const pack = game.packs.get("person-names");
+  const pack = game.packs.get("my-names-jeff.person-names");
   const entry = Array.from(pack.index).find((e: any) => e.name == name);
   return await pack.getDocument(entry?._id);
 }
