@@ -4,6 +4,7 @@
   "description": "",
   "author": "chrisjbrown",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "build": "vite build",
     "watch": "tsc && vite build --watch"
