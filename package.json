@@ -10,7 +10,6 @@
     "watch": "tsc && vite build --watch"
   },
   "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^1.0.2",
     "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0",
     "rollup-plugin-copy": "^3.4.0",
     "sass": "^1.54.8",
