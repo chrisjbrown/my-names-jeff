@@ -29,7 +29,7 @@
     {
       "name": "person-names",
       "label": "Person Names",
-      "path": "src/packs/person-names.db",
+      "path": "packs/person-names.db",
       "type": "RollTable",
       "private": false,
       "flags": {}
