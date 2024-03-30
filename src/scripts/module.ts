@@ -57,13 +57,13 @@ Hooks.on("renderTokenConfig", async function (app: any, html: JQuery) {
   characterTab.append(tokenConfig);
 });
 
-Hooks.on("preCreateToken", async function (tokenDocument: any, data: any) {
-  if (tokenDocument?.flags["my-names-jeff"]?.["enableTokenRename"]) {
-    const type = tokenDocument.flags["my-names-jeff"]?.["nameType"];
+Hooks.on("createToken", async function (actor: any) {
+  if (actor?.flags["my-names-jeff"]?.["enableTokenRename"]) {
+    const type = actor.flags["my-names-jeff"]?.["nameType"];
     if (type === "Dragon") {
       const dragonTable = await getTableFromPack(`Dragon Name`);
       let dragonName = await dragonTable.roll();
-      tokenDocument.update({ name: `${dragonName.results[0].text}` });
+      actor.update({ name: `${dragonName.results[0].text}` });
       return;
     } else {
       const name1 = await getTableFromPack(`${type} First Name`);
@@ -72,7 +72,7 @@ Hooks.on("preCreateToken", async function (tokenDocument: any, data: any) {
       let n1 = await name1.roll();
       let n2 = await name2.roll();
 
-      tokenDocument.updateSource({
+      actor.update({
         name: `${n1.results[0].text} ${n2.results[0].text}`,
       });
       return;
