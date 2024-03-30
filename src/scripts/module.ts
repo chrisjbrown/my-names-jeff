@@ -15,14 +15,6 @@ async function getTableFromPack(name: string) {
   return await pack.getDocument(entry?._id);
 }
 
-function getTokenData(data: any, newName: string) {
-  const actor = game.actors.get(data.actorId);
-  const newData = { _id: data._id };
-  setProperty(newData, "delta.name", newName);
-
-  return newData;
-}
-
 Hooks.once("init", () => {
   console.log(`Initializing ${moduleId}`);
 
@@ -80,16 +72,14 @@ Hooks.on("preCreateToken", async function (tokenDocument: any, data: any) {
       let n1 = await name1.roll();
       let n2 = await name2.roll();
 
-      const tokenData = getTokenData(
-        data,
-        `${n1.results[0].text} ${n2.results[0].text}`
-      );
-      tokenDocument.updateSource(tokenData);
-
-      // tokenDocument.update({
-      //   name: `${n1.results[0].text} ${n2.results[0].text}`,
-      // });
+      tokenDocument.updateSource({
+        name: `${n1.results[0].text} ${n2.results[0].text}`,
+      });
       return;
     }
   }
+});
+
+Hooks.on("preCreateToken", async function (tokenDocument) {
+  tokenDocument.actor.update({ name: "some dude" });
 });
