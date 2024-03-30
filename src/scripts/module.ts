@@ -79,7 +79,3 @@ Hooks.on("preCreateToken", async function (tokenDocument: any, data: any) {
     }
   }
 });
-
-Hooks.on("preCreateToken", async function (tokenDocument) {
-  tokenDocument.actor.update({ name: "some dude" });
-});
