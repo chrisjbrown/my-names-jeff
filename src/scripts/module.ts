@@ -15,6 +15,14 @@ async function getTableFromPack(name: string) {
   return await pack.getDocument(entry?._id);
 }
 
+function getTokenData(data: any, newName: string) {
+  const actor = game.actors.get(data.actorId);
+  const newData = { _id: data._id };
+  setProperty(newData, "delta.name", newName);
+
+  return newData;
+}
+
 Hooks.once("init", () => {
   console.log(`Initializing ${moduleId}`);
 
@@ -57,7 +65,7 @@ Hooks.on("renderTokenConfig", async function (app: any, html: JQuery) {
   characterTab.append(tokenConfig);
 });
 
-Hooks.on("preCreateToken", async function (tokenDocument: any) {
+Hooks.on("preCreateToken", async function (tokenDocument: any, data: any) {
   if (tokenDocument?.flags["my-names-jeff"]?.["enableTokenRename"]) {
     const type = tokenDocument.flags["my-names-jeff"]?.["nameType"];
     if (type === "Dragon") {
@@ -72,9 +80,15 @@ Hooks.on("preCreateToken", async function (tokenDocument: any) {
       let n1 = await name1.roll();
       let n2 = await name2.roll();
 
-      tokenDocument.update({
-        name: `${n1.results[0].text} ${n2.results[0].text}`,
-      });
+      const tokenData = getTokenData(
+        data,
+        `${n1.results[0].text} ${n2.results[0].text}`
+      );
+      tokenDocument.updateSource(tokenData);
+
+      // tokenDocument.update({
+      //   name: `${n1.results[0].text} ${n2.results[0].text}`,
+      // });
       return;
     }
   }
