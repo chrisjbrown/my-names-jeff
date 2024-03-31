@@ -1,18 +1,17 @@
 {
   "name": "my-names-jeff",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "author": "chrisjbrown",
   "license": "MIT",
   "type": "module",
   "scripts": {
     "build": "vite build",
-    "watch": "tsc && vite build --watch"
+    "watch": "vite build --watch"
   },
   "devDependencies": {
     "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0",
     "rollup-plugin-copy": "^3.4.0",
-    "sass": "^1.54.8",
     "typescript": "^4.8.2",
     "vite": "^3.1.0"
   }

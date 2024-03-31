@@ -1,10 +1,7 @@
 // Do not remove this import. If you do Vite will think your styles are dead
 // code and not include them in the build output.
 import "../styles/module.css";
-import { moduleId } from "./constants";
-// import { MyModule } from "./types";
-
-// let module: MyModule;
+import { moduleId, tokenTypes } from "./constants";
 
 // load templates
 loadTemplates(["../templates/token-config.hbs"]);
@@ -17,8 +14,6 @@ async function getTableFromPack(name: string) {
 
 Hooks.once("init", () => {
   console.log(`Initializing ${moduleId}`);
-
-  // module = (game as Game).modules.get(moduleId) as MyModule;
 });
 
 Hooks.on("renderTokenConfig", async function (app: any, html: JQuery) {
@@ -31,17 +26,7 @@ Hooks.on("renderTokenConfig", async function (app: any, html: JQuery) {
 
   const selectedType =
     app.token.flags["my-names-jeff"]?.["nameType"] || "Human";
-  const types = [
-    "Human",
-    "Dragon",
-    "Dwarf",
-    "Elf",
-    "Gnome",
-    "Goblin",
-    "Halfling",
-    "Orc",
-    "Tiefling",
-  ].map((type) => {
+  const types = tokenTypes.map((type) => {
     return {
       name: type,
       selected: type === selectedType,
@@ -61,20 +46,31 @@ Hooks.on("createToken", async function (actor: any) {
   if (actor?.flags["my-names-jeff"]?.["enableTokenRename"]) {
     const type = actor.flags["my-names-jeff"]?.["nameType"];
     if (type === "Dragon") {
-      const dragonTable = await getTableFromPack(`Dragon Name`);
-      let dragonName = await dragonTable.roll();
-      actor.update({ name: `${dragonName.results[0].text}` });
+      try {
+        const dragonNameTable = await getTableFromPack(`Dragon Name`);
+        const dragonName = await dragonNameTable.roll();
+        actor.update({ name: `${dragonName.results[0].text}` });
+      } catch (error) {
+        console.error("my-names-jeff", "Error getting Dragon name");
+      }
       return;
     } else {
-      const name1 = await getTableFromPack(`${type} First Name`);
-      const name2 = await getTableFromPack(`${type} Last Name`);
+      try {
+        const [firstNameTable, lastNameTable] = await Promise.all([
+          getTableFromPack(`${type} First Name`),
+          getTableFromPack(`${type} Last Name`),
+        ]);
+        const [firstName, lastName] = await Promise.all([
+          firstNameTable.roll(),
+          lastNameTable.roll(),
+        ]);
 
-      let n1 = await name1.roll();
-      let n2 = await name2.roll();
-
-      actor.update({
-        name: `${n1.results[0].text} ${n2.results[0].text}`,
-      });
+        actor.update({
+          name: `${firstName.results[0].text} ${lastName.results[0].text}`,
+        });
+      } catch (error) {
+        console.error("my-names-jeff", `Error getting ${type} name`);
+      }
       return;
     }
   }
