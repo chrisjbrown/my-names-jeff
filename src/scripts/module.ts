@@ -4,7 +4,10 @@ import "../styles/module.css";
 import { moduleId, tokenTypes } from "./constants";
 
 // load templates
-loadTemplates(["../templates/token-config.hbs", "../templates/token-types.hbs"]);
+loadTemplates([
+  "../templates/token-config.hbs",
+  "../templates/token-types.hbs",
+]);
 
 async function getTableFromPack(name: string) {
   const pack = game.packs.get("my-names-jeff.person-names");
@@ -56,7 +59,7 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
   html[0].querySelector(`.control-icon[data-action="target"]`)
     .insertAdjacentHTML("beforebegin", `
       <div class="control-icon" data-action="token-name">
-          <i class="fas fa-person"></i>
+        <i class="fas fa-person"></i>
       </div>
     `);
 
@@ -64,12 +67,11 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
 
   tokenNameButton.addEventListener("click", async (event: MouseEvent) => {
     event.preventDefault();
-    console.log('token name click');
     const tokenNameButtonTemplate = await renderTemplate(
       "modules/my-names-jeff/templates/token-types.hbs",
       { types: tokenTypes }
     );
-    tokenNameButton.after(tokenNameButtonTemplate);
+    tokenNameButton.parent.insertAdjacentHTML("beforebegin", tokenNameButtonTemplate);
 
     const buttons = tokenTypes.reduce((acc: any, type: string) => {
       acc[type] = {
@@ -80,7 +82,7 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
       return acc;
     }, {});
 
-    const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").findAll("button")
+    const tokenNameButtons = html[0].querySelector(".my-names-jeff.token-names-wrap").querySelectorAll("button")
     tokenNameButtons.forEach((button: HTMLButtonElement) => {
       button.addEventListener("click", () => {
         new Dialog({
