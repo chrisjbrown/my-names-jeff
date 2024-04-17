@@ -4,7 +4,7 @@ import "../styles/module.css";
 import { moduleId, tokenTypes } from "./constants";
 
 // load templates
-loadTemplates(["../templates/token-config.hbs"]);
+loadTemplates(["../templates/token-config.hbs", "../templates/token-types.hbs"]);
 
 async function getTableFromPack(name: string) {
   const pack = game.packs.get("my-names-jeff.person-names");
@@ -12,12 +12,47 @@ async function getTableFromPack(name: string) {
   return await pack.getDocument(entry?._id);
 }
 
+async function setName(type: string, token: TokenDocument) {
+  if (!token) {
+    return;
+  }
+
+  if (type === "Dragon") {
+    try {
+      const dragonNameTable = await getTableFromPack(`Dragon Name`);
+      const dragonName = await dragonNameTable.roll();
+      token.update({ name: `${dragonName.results[0].text}` });
+    } catch (error) {
+      console.error("my-names-jeff", "Error getting Dragon name");
+    }
+    return;
+  } else {
+    try {
+      const [firstNameTable, lastNameTable] = await Promise.all([
+        getTableFromPack(`${type} First Name`),
+        getTableFromPack(`${type} Last Name`),
+      ]);
+      const [firstName, lastName] = await Promise.all([
+        firstNameTable.roll(),
+        lastNameTable.roll(),
+      ]);
+
+      token.update({
+        name: `${firstName.results[0].text} ${lastName.results[0].text}`,
+      });
+    } catch (error) {
+      console.error("my-names-jeff", `Error getting ${type} name`);
+    }
+    return;
+  }
+}
+
 Hooks.once("init", () => {
   console.log(`Initializing ${moduleId}`);
 });
 
 Hooks.on("renderTokenHUD", (hud: any, html: any) => {
-  // const token = hud.object;
+  const token = hud.object;
   html[0].querySelector(`.control-icon[data-action="target"]`)
     .insertAdjacentHTML("beforebegin", `
       <div class="control-icon" data-action="token-name">
@@ -27,9 +62,36 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
 
   const tokenNameButton = html[0].querySelector(`.control-icon[data-action="token-name"]`);
 
-  tokenNameButton.addEventListener("click", (event) => {
+  tokenNameButton.addEventListener("click", async (event: MouseEvent) => {
     event.preventDefault();
     console.log('token name click');
+    const tokenNameButtonTemplate = await renderTemplate(
+      "modules/my-names-jeff/templates/token-types.hbs",
+      { types: tokenTypes }
+    );
+    tokenNameButton.after(tokenNameButtonTemplate);
+
+    const buttons = tokenTypes.reduce((acc: any, type: string) => {
+      acc[type] = {
+        label: type,
+        callback: () => setName(type, token),
+        icon: `<i class="fas fa-check"></i>`
+      }
+      return acc;
+    }, {});
+
+    const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").findAll("button")
+    tokenNameButtons.forEach((button: HTMLButtonElement) => {
+      button.addEventListener("click", () => {
+        new Dialog({
+          title: "Choose type of name",
+          content: "My dialog content",
+          buttons: buttons
+        }).render(true);
+      });
+    })
+
+//   characterTab.append(tokenConfig);
 
     // const button = event.currentTarget;
 
