@@ -1,0 +1,6 @@
+.my-names-jeff.token-names-wrap {
+    left: -140px;
+    display: flex;
+    gap: 10px;
+    pointer-events: all;
+}

@@ -15,7 +15,7 @@ async function getTableFromPack(name: string) {
   return await pack.getDocument(entry?._id);
 }
 
-async function setName(type: string, token: TokenDocument) {
+async function setName(type: string, token: Token) {
   if (!token) {
     return;
   }
@@ -24,7 +24,7 @@ async function setName(type: string, token: TokenDocument) {
     try {
       const dragonNameTable = await getTableFromPack(`Dragon Name`);
       const dragonName = await dragonNameTable.roll();
-      token.update({ name: `${dragonName.results[0].text}` });
+      token.document.update({ name: `${dragonName.results[0].text}` });
     } catch (error) {
       console.error("my-names-jeff", "Error getting Dragon name");
     }
@@ -40,7 +40,7 @@ async function setName(type: string, token: TokenDocument) {
         lastNameTable.roll(),
       ]);
 
-      token.update({
+      token.document.update({
         name: `${firstName.results[0].text} ${lastName.results[0].text}`,
       });
     } catch (error) {
@@ -71,25 +71,16 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
       "modules/my-names-jeff/templates/token-types.hbs",
       { types: tokenTypes }
     );
-    tokenNameButton.parent.insertAdjacentHTML("beforebegin", tokenNameButtonTemplate);
 
-    const buttons = tokenTypes.reduce((acc: any, type: string) => {
-      acc[type] = {
-        label: type,
-        callback: () => setName(type, token),
-        icon: `<i class="fas fa-check"></i>`
-      }
-      return acc;
-    }, {});
+    const infoContainer = html[0].querySelector(".token-info-container");
+    if (!infoContainer) return
+    
+    infoContainer.append(tokenNameButtonTemplate);
 
     const tokenNameButtons = html[0].querySelector(".my-names-jeff.token-names-wrap").querySelectorAll("button")
     tokenNameButtons.forEach((button: HTMLButtonElement) => {
-      button.addEventListener("click", () => {
-        new Dialog({
-          title: "Choose type of name",
-          content: "My dialog content",
-          buttons: buttons
-        }).render(true);
+      button.addEventListener("click", (e) => {
+        setName(e.target.value, token)
       });
     })
 
