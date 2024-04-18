@@ -84,12 +84,10 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
     
     infoContainer.append(tokenNameButtonTemplate);
 
-    const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").findAll("button")
-    tokenNameButtons.forEach((button: any) => {
-      button.on("click", (e) => {
-        setName(e.target.value, token)
-      });
-    })
+    const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").find("button")
+    tokenNameButtons.on("click", (e) => {
+      setName(e.target.value, token)
+    });
   })
 })
 
