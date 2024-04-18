@@ -55,6 +55,8 @@ Hooks.once("init", () => {
 });
 
 Hooks.on("renderTokenHUD", (hud: any, html: any) => {
+  if (!game.user.isGM) return;
+
   let optionsShown = false;
   const token = hud.object;
   html[0].querySelector(`.control-icon[data-action="target"]`)
