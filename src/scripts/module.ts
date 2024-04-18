@@ -55,6 +55,7 @@ Hooks.once("init", () => {
 });
 
 Hooks.on("renderTokenHUD", (hud: any, html: any) => {
+  let optionsShown = false;
   const token = hud.object;
   html[0].querySelector(`.control-icon[data-action="target"]`)
     .insertAdjacentHTML("beforebegin", `
@@ -63,26 +64,34 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
       </div>
     `);
 
-  const tokenNameButton = html[0].querySelector(`.control-icon[data-action="token-name"]`);
+  const tokenNameButton = html.find(`.control-icon[data-action="token-name"]`);
 
-  tokenNameButton.addEventListener("click", async (event: MouseEvent) => {
+  tokenNameButton.on("click", async (event: MouseEvent) => {
     event.preventDefault();
+    const infoContainer = html.find(".token-info-container");
+    
+    if (optionsShown) {
+      html.find(".my-names-jeff.token-names-wrap")?.remove();
+      optionsShown = false;
+      return;
+    }
+
+    optionsShown = true;
     const tokenNameButtonTemplate = await renderTemplate(
       "modules/my-names-jeff/templates/token-types.hbs",
       { types: tokenTypes }
     );
-
-    const infoContainer = html[0].querySelector(".token-info-container");
-    if (!infoContainer) return
     
     infoContainer.append(tokenNameButtonTemplate);
 
-    const tokenNameButtons = html[0].querySelector(".my-names-jeff.token-names-wrap").querySelectorAll("button")
-    tokenNameButtons.forEach((button: HTMLButtonElement) => {
-      button.addEventListener("click", (e) => {
+    const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").findAll("button")
+    tokenNameButtons.forEach((button: any) => {
+      button.on("click", (e) => {
         setName(e.target.value, token)
       });
     })
+  })
+})
 
 //   characterTab.append(tokenConfig);
 
@@ -90,7 +99,7 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
 
     // button.classList.toggle("active");
     // button.querySelector(`.my-names-jeff.token-names`).classList.toggle("active");
-  });
+  // });
 
   // tokenNameButton.insertAdjacentHTML("beforeend", `
   //     <div class="my-names-jeff token-names">
