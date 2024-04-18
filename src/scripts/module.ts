@@ -109,7 +109,7 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
   //         </div>`).join("")}
   //     </div>
   // `);
-});
+// });
 
 // Hooks.on("renderTokenConfig", async function (app: any, html: JQuery) {
 //   if (!game.user.isGM) {
