@@ -9,6 +9,8 @@ loadTemplates([
   "../templates/token-types.hbs",
 ]);
 
+let NAME_TYPES_SHOWN = false;
+
 async function getTableFromPack(name: string) {
   const pack = game.packs.get("my-names-jeff.person-names");
   const entry = Array.from(pack.index).find((e: any) => e.name == name);
@@ -50,6 +52,27 @@ async function setName(type: string, token: Token) {
   }
 }
 
+async function renderNameTypes(html: any, token: Token) {
+  if (NAME_TYPES_SHOWN) {
+    html.find(".my-names-jeff.token-names-wrap")?.remove();
+    NAME_TYPES_SHOWN = false;
+    return;
+  }
+
+  NAME_TYPES_SHOWN = true;
+  const tokenNameButtonTemplate = await renderTemplate(
+    "modules/my-names-jeff/templates/token-types.hbs",
+    { types: tokenTypes }
+  );
+  
+  html.find(".token-info-container")?.append(tokenNameButtonTemplate);
+
+  const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").find("button")
+  tokenNameButtons.on("click", (e) => {
+    setName(e.target.value, token)
+  });
+}
+
 Hooks.once("init", () => {
   console.log(`Initializing ${moduleId}`);
 });
@@ -57,7 +80,6 @@ Hooks.once("init", () => {
 Hooks.on("renderTokenHUD", (hud: any, html: any) => {
   if (!game.user.isGM) return;
 
-  let optionsShown = false;
   const token = hud.object;
   html[0].querySelector(`.control-icon[data-action="target"]`)
     .insertAdjacentHTML("beforebegin", `
@@ -70,24 +92,6 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
 
   tokenNameButton.on("click", async (event: MouseEvent) => {
     event.preventDefault();
-    
-    if (optionsShown) {
-      html.find(".my-names-jeff.token-names-wrap")?.remove();
-      optionsShown = false;
-      return;
-    }
-
-    optionsShown = true;
-    const tokenNameButtonTemplate = await renderTemplate(
-      "modules/my-names-jeff/templates/token-types.hbs",
-      { types: tokenTypes }
-    );
-    
-    html.find(".token-info-container")?.append(tokenNameButtonTemplate);
-
-    const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").find("button")
-    tokenNameButtons.on("click", (e) => {
-      setName(e.target.value, token)
-    });
+    renderNameTypes(html, token);
   })
 })

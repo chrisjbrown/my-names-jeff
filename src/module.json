@@ -1,20 +1,26 @@
 {
   "id": "my-names-jeff",
   "title": "My names Jeff",
-  "description": "generate random name when dropping token on canvas",
+  "description": "Gives token hud option for generating random name",
   "authors": [
     {
       "name": "chrisjbrown",
       "discord": "bluegreymouse"
     }
   ],
-  "version": "0.0.1",
+  "url": "https://github.com/chrisjbrown/my-names-jeff",
+  "manifest": "https://github.com/chrisjbrown/my-names-jeff/releases/latest/download/module.json",
+  "download": "https://github.com/chrisjbrown/my-names-jeff/releases/latest/download/module.zip",
+  "bugs": "https://github.com/chrisjbrown/my-names-jeff/issues",
+  "allowBugReporter": true,
+  "version": "1.1.2",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11",
   "manifestPlusVersion": "1.0.0",
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "compatibility": {
+    "minimum": "11",
+    "verified": 11
+  },
   "type": "module",
   "includes": [
     "./languages/**",

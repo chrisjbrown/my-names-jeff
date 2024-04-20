@@ -12,9 +12,13 @@
     pointer-events: all;
 
     button {
-        color: gray;
+        background: rgba(0, 0, 0, 0.6);
+        box-shadow: 0 0 15px var(--color-shadow-dark);
+        border: 1px solid #333;
+        border-radius: 8px;
+        color: var(--color-text-light-2);
         &:hover {
-            color: white;
+            color: var(--color-text-light-1);
         }
     }
 }
