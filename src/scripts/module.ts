@@ -19,6 +19,7 @@ async function getTableFromPack(name: string) {
 
 async function setName(type: string, token: Token) {
   if (!token) {
+    console.error("my-names-jeff", "Token not found");
     return;
   }
 
@@ -68,8 +69,9 @@ async function renderNameTypes(html: any, token: Token) {
   html.find(".token-info-container")?.append(tokenNameButtonTemplate);
 
   const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").find("button")
-  tokenNameButtons.on("click", (e) => {
-    setName(e.target.value, token)
+  tokenNameButtons.on("click", async (e) => {
+    await setName(e.target.value, token)
+    NAME_TYPES_SHOWN = false;
   });
 }
 
@@ -78,7 +80,7 @@ Hooks.once("init", () => {
 });
 
 Hooks.on("renderTokenHUD", (hud: any, html: any) => {
-  if (!game.user.isGM) return;
+  if (!game.user.isGM || hud.object.document.actorLink ) return;
 
   const token = hud.object;
   html[0].querySelector(`.control-icon[data-action="target"]`)
