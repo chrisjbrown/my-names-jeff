@@ -16,8 +16,8 @@ Search in module list, install, profit
 
 Drop an unlinked token on a scene. Right click. See a new person icon button to left of token. Click this icon button. See a list of token name types to choose from. Select one and Notice that your tokens name has been updated to a random first/last name based on your selection.
 
-!["Step-1"](./media/step-1.png)
-!["Step-2"](./media/step-2.png)
+<div><img src="./media/step-1.png" alt="Step-1" width="300"/></div>
+<div><img src="./media/step-2.png" alt="Step-2" width="300"/></div>
 
 ## Reasoning
 This module is born out of a need for better name randomization. Large story games have a lot of side characters which led my players to immediately recognizing "Commoner(2)" or "Lazy Commoner" as side characters and thus less important. Token mold has an interesting name generation algorithm however I found quite some bugs related to it and, at least at time of writing, conflicts with [Token Variant Art](https://github.com/Aedif/TokenVariants/tree/master) which I use heavily.
