@@ -66,7 +66,7 @@ async function renderNameTypes(html: any, token: Token) {
     { types: tokenTypes }
   );
   
-  html.find(".token-info-container")?.append(tokenNameButtonTemplate);
+  html.find("#token-hud .col.left")?.append(tokenNameButtonTemplate);
 
   const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").find("button")
   tokenNameButtons.on("click", async (e) => {

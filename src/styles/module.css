@@ -6,7 +6,7 @@
     position: absolute;
     height: calc(100% + 100px);
     top: -50px;
-    left: -140px;
+    left: -60px;
     display: flex;
     gap: 10px;
     pointer-events: all;
