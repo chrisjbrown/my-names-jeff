@@ -83,7 +83,7 @@ Hooks.on("renderTokenHUD", (hud: any, html: any) => {
   if (!game.user.isGM || hud.object.document.actorLink ) return;
 
   const token = hud.object;
-  html[0].querySelector(`.control-icon[data-action="target"]`)
+  html[0].querySelector(`.control-icon[data-action="config"]`)
     .insertAdjacentHTML("beforebegin", `
       <div class="control-icon" data-action="token-name">
         <i class="fas fa-person"></i>
