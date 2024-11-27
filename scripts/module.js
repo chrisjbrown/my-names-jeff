@@ -4,26 +4,27 @@ import { moduleId, tokenTypes } from "./constants";
 
 // Load templates
 loadTemplates([
-  "../templates/token-config.hbs",
-  "../templates/token-types.hbs"
+  "./templates/token-config.hbs",
+  "./templates/token-types.hbs"
 ]);
 
 let NAME_TYPES_SHOWN = false;
 
 /**
- *
- * @param name
+ * // get table from pack
+ * @param {string} name
+ * @returns {document}
  */
 async function getTableFromPack(name) {
   const pack = game.packs.get("my-names-jeff.person-names");
-  const entry = Array.from(pack.index).find(e => e.name == name);
+  const entry = Array.from(pack.index).find(e => e.name === name);
   return await pack.getDocument(entry?._id);
 }
 
 /**
- *
- * @param type
- * @param token
+ * // set name of token
+ * @param {string} type
+ * @param {Token} token
  */
 async function setName(type, token) {
   if (!token) {
@@ -60,9 +61,9 @@ async function setName(type, token) {
 }
 
 /**
- *
- * @param html
- * @param token
+ * // render types of names beside token
+ * @param {HTMLElement} html
+ * @param {Token} token
  */
 async function renderNameTypes(html, token) {
   if (NAME_TYPES_SHOWN) {
