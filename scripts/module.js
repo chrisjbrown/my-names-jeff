@@ -1,23 +1,31 @@
 // Do not remove this import. If you do Vite will think your styles are dead
 // code and not include them in the build output.
-import "../styles/module.css";
 import { moduleId, tokenTypes } from "./constants";
 
-// load templates
+// Load templates
 loadTemplates([
   "../templates/token-config.hbs",
-  "../templates/token-types.hbs",
+  "../templates/token-types.hbs"
 ]);
 
 let NAME_TYPES_SHOWN = false;
 
-async function getTableFromPack(name: string) {
+/**
+ *
+ * @param name
+ */
+async function getTableFromPack(name) {
   const pack = game.packs.get("my-names-jeff.person-names");
-  const entry = Array.from(pack.index).find((e: any) => e.name == name);
+  const entry = Array.from(pack.index).find(e => e.name == name);
   return await pack.getDocument(entry?._id);
 }
 
-async function setName(type: string, token: Token) {
+/**
+ *
+ * @param type
+ * @param token
+ */
+async function setName(type, token) {
   if (!token) {
     console.error("my-names-jeff", "Token not found");
     return;
@@ -25,35 +33,38 @@ async function setName(type: string, token: Token) {
 
   if (type === "Dragon") {
     try {
-      const dragonNameTable = await getTableFromPack(`Dragon Name`);
+      const dragonNameTable = await getTableFromPack("Dragon Name");
       const dragonName = await dragonNameTable.roll();
       token.document.update({ name: `${dragonName.results[0].text}` });
-    } catch (error) {
+    } catch(error) {
       console.error("my-names-jeff", "Error getting Dragon name");
     }
-    return;
   } else {
     try {
       const [firstNameTable, lastNameTable] = await Promise.all([
         getTableFromPack(`${type} First Name`),
-        getTableFromPack(`${type} Last Name`),
+        getTableFromPack(`${type} Last Name`)
       ]);
       const [firstName, lastName] = await Promise.all([
         firstNameTable.roll(),
-        lastNameTable.roll(),
+        lastNameTable.roll()
       ]);
 
       token.document.update({
-        name: `${firstName.results[0].text} ${lastName.results[0].text}`,
+        name: `${firstName.results[0].text} ${lastName.results[0].text}`
       });
-    } catch (error) {
+    } catch(error) {
       console.error("my-names-jeff", `Error getting ${type} name`);
     }
-    return;
   }
 }
 
-async function renderNameTypes(html: any, token: Token) {
+/**
+ *
+ * @param html
+ * @param token
+ */
+async function renderNameTypes(html, token) {
   if (NAME_TYPES_SHOWN) {
     html.find(".my-names-jeff.token-names-wrap")?.remove();
     NAME_TYPES_SHOWN = false;
@@ -65,12 +76,12 @@ async function renderNameTypes(html: any, token: Token) {
     "modules/my-names-jeff/templates/token-types.hbs",
     { types: tokenTypes }
   );
-  
+
   html.find(".col.left")?.append(tokenNameButtonTemplate);
 
-  const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").find("button")
-  tokenNameButtons.on("click", async (e) => {
-    await setName(e.target.value, token)
+  const tokenNameButtons = html.find(".my-names-jeff.token-names-wrap").find("button");
+  tokenNameButtons.on("click", async e => {
+    await setName(e.target.value, token);
     NAME_TYPES_SHOWN = false;
   });
 }
@@ -79,21 +90,21 @@ Hooks.once("init", () => {
   console.log(`Initializing ${moduleId}`);
 });
 
-Hooks.on("renderTokenHUD", (hud: any, html: any) => {
+Hooks.on("renderTokenHUD", (hud, html) => {
   if (!game.user.isGM || hud.object.document.actorLink ) return;
 
   const token = hud.object;
-  html[0].querySelector(`.control-icon[data-action="config"]`)
+  html[0].querySelector(".control-icon[data-action=\"config\"]")
     .insertAdjacentHTML("beforebegin", `
       <div class="control-icon" data-action="token-name">
         <i class="fas fa-person"></i>
       </div>
     `);
 
-  const tokenNameButton = html.find(`.control-icon[data-action="token-name"]`);
+  const tokenNameButton = html.find(".control-icon[data-action=\"token-name\"]");
 
-  tokenNameButton.on("click", async (event: MouseEvent) => {
+  tokenNameButton.on("click", async event => {
     event.preventDefault();
     renderNameTypes(html, token);
-  })
-})
+  });
+});
