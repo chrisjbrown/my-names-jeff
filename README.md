@@ -2,7 +2,6 @@
 
 # My Names Jeff
 
-## Description
 **Only for unlinked tokens and GM users
 
 Drop an unlinked token on a scene. Right click. See a new person icon button to left of token. Click this icon button. See a list of token name types to choose from. Select one and Notice that your tokens name has been updated to a random first/last name based on your selection.
