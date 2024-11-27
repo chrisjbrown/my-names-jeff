@@ -1,0 +1,46 @@
+{
+  "id": "my-names-jeff",
+  "title": "My Names Jeff",
+  "description": "Gives token hud option for generating random name",
+  "authors": [
+    {
+      "name": "chrisjbrown",
+      "url": "https://github.com/chrisjbrown"
+    }
+  ],
+  "url": "This is auto replaced",
+  "flags": {},
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "esmodules": ["./scripts/my-names-jeff.min.js"],
+  "scripts": [],
+  "styles": ["./styles/my-names-jeff.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "person-names",
+      "label": "Person Names",
+      "path": "packs/person-names",
+      "type": "RollTable",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "relationships": {},
+  "socket": false,
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "readme": "https://github.com/chrisjrown/my-names-jeff#readme",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}

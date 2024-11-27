@@ -8,5 +8,5 @@ export const tokenTypes = [
   "Goblin",
   "Halfling",
   "Orc",
-  "Tiefling",
+  "Tiefling"
 ];
