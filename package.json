@@ -1,20 +1,27 @@
 {
-  "scripts": {
-    "build": "rollup -c",
-    "dev": "rollup -wcm"
+  "name": "my-names-jeff",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "imports": {
+    "#runtime/*": "@typhonjs-fvtt/runtime/*",
+    "#standard/*": "@typhonjs-fvtt/standard/*"
+  },
+  "dependencies": {
+    "@typhonjs-fvtt/runtime": "^0.2.0-next.6",
+    "@typhonjs-fvtt/standard": "^0.2.0-next.3",
+    "svelte": "^4.2.19"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2",
-    "@babel/eslint-parser": "^7.25.1",
-    "@rollup/plugin-multi-entry": "^6.0.1",
-    "@rollup/plugin-terser": "^0.4.4",
-    "eslint": "^8.57.1",
-    "eslint-config-standard": "^17.0.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsdoc": "^50.3.1",
-    "eslint-plugin-n": "^15.3.0",
-    "eslint-plugin-promise": "^6.1.0",
-    "rollup": "^4.22.4"
+    "foundry-pf2e": "github:7H3LaughingMan/foundry-pf2e",
+    "typescript": "^5.7.2"
   },
-  "type": "module"
+  "browserslist": [
+    ">5%",
+    "not IE 11"
+  ],
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  }
 }
