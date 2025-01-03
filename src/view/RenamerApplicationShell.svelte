@@ -7,9 +7,8 @@
    export let settingStore = void 0;
    export let document = void 0;
    let types = $settingStore.types
-   const enabledBuiltIns = (() => {
-      return Object.keys($settingStore.enabledBuiltIns).map((key) => $settingStore.enabledBuiltIns[key]).some((builtIn) => builtIn === true)
-   }) ()
+   const enabledBuiltIns = Object.keys($settingStore.enabledBuiltIns).map((key) => $settingStore.enabledBuiltIns[key]).some((builtIn) => builtIn === true)
+   const noNames = types.length === 0 && !enabledBuiltIns
 
   async function onRollName (type) {
       try {
@@ -32,30 +31,37 @@
 <ApplicationShell bind:elementRoot>
    <main>
       <h1>Select a name type</h1>
-      <div class="list">
-         {#if types.length > 0}
-         <h2>Custom types</h2>
-         {#each types as type}
-            <button on:click={() => onRollName(type)}>
-               {type.label}
-            </button>
-         {/each}
-         {/if}
+      <div class="groups">
+         {#if noNames }
+            <span>no names configured</span>
+         {:else}
+            {#if types.length > 0}
+               <div class="group">
+                  <h3>Custom</h3>
+                  <div class="list">
+                     {#each types as type}
+                        <button on:click={() => onRollName(type)}>
+                           {type.label}
+                        </button>
+                     {/each}
+                  </div>
+               </div>
+            {/if}
 
-         {#if enabledBuiltIns}
-         <h2>Built ins</h2>
-         {#each Object.keys($settingStore.enabledBuiltIns) as builtInKey }
-            <h3>{builtIns[builtInKey].label}</h3>
-            {#each builtIns[builtInKey].types as type }
-            <button on:click={() => onRollName(type)}>
-               {type.label}
-            </button>
-            {/each}
-         {/each}
-         {/if}
-
-         {#if types.length === 0 && !enabledBuiltIns }
-         <span>no names configured</span>
+            {#if enabledBuiltIns}
+               {#each Object.keys($settingStore.enabledBuiltIns) as builtInKey }
+                  <div class="group">
+                     <h3>{builtIns[builtInKey].label}</h3>
+                     <div class="list">
+                        {#each builtIns[builtInKey].types as type }
+                        <button on:click={() => onRollName(type)}>
+                           {type.label}
+                        </button>
+                        {/each}
+                     </div>
+                  </div>
+               {/each}
+            {/if}
          {/if}
       </div>
    </main>
@@ -68,9 +74,25 @@
       flex-direction: column;
    }
 
+   .groups {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+
+      .group {
+         padding: 10px;
+         border: 1px solid maroon;
+
+         h3: {
+            white-space: nowrap;
+         }
+      }
+   }
+
    .list {
       button {
          margin-top: 5px;
+         white-space: nowrap;
       }
    }
 </style>
