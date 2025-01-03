@@ -1,29 +1,10 @@
 import { SvelteApplication }  from '#runtime/svelte/application';
 
-import BuiltInNamesShell  from './BuiltInNamesShell.svelte';
+import RenamerApplicationShell from './RenamerApplicationShell.svelte';
+import { gameSettings } from '../gameSettings';
+import { constants, settings } from '../constants';
 
-import {
-   constants,
-   settings }                 from '../constants';
-
-import { gameSettings } from '../gamesettings';
-
-export class FormShim extends FormApplication
-{
-   /**
-    * @inheritDoc
-    */
-   constructor(options = {})
-   {
-      super({}, options);
-      new TLRTestClientSettingApp().render(true, { focus: true });
-   }
-
-   async _updateObject() {}
-   render() { this.close(); }
-}
-
-export class TLRTestClientSettingApp extends SvelteApplication
+export default class RenamerApplication extends SvelteApplication
 {
    constructor(options)
    {
@@ -51,29 +32,27 @@ export class TLRTestClientSettingApp extends SvelteApplication
       }
       catch (err) { /**/ }
    }
-
    /**
     * Default Application options
     *
     * @returns {object} options - Application options.
-    * @see https://foundryvtt.com/api/interfaces/client.ApplicationOptions.html
+    * @see https://foundryvtt.com/api/Application.html#options
     */
    static get defaultOptions()
    {
       return foundry.utils.mergeObject(super.defaultOptions, {
-         id: 'built-in-names-client-setting',
-         classes: ['trl'],
-         title: 'Built in names',
-         resizable: true,
-         width: 500,
-         height: 'auto',
+         title: 'TemplateESM.title',  // Automatically localized from `lang/en.json`.
+         width: 300,
 
          svelte: {
-            class: BuiltInNamesShell,
+            class: RenamerApplicationShell,
             target: document.body,
-
             /**
              * You can provide a function and the `this` context is the application when invoked.
+             *
+             * @param args
+             *
+             * @param props
              *
              * @this {AppStateClientSettingApp}
              *
@@ -82,7 +61,7 @@ export class TLRTestClientSettingApp extends SvelteApplication
             props: function()
             {
                // Creates a store
-               return { settingStore: gameSettings.getStore(settings.appStateClient) };
+               return { ...this.options.props, settingStore: gameSettings.getStore(settings.appStateClient) };
             }
          }
       });

@@ -19,13 +19,4 @@ export default class BuiltInNames extends SvelteApplication
       target: document.body
     }
   };
-
-//   _prepareContext(options) 
-// {
-//     return {};
-//   }
-
-  // _onRender(context, options) {}
-
-  // _onSubmit(event, form, formData) {}
 }
