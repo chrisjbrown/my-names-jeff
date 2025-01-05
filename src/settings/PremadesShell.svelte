@@ -109,7 +109,7 @@
             <legend>Enable premades</legend>
             {#each Object.keys(premades) as premadeKey}
             <label class="premade">
-               <input type="checkbox" on:change={(e) => onSettingChange(e, premadeKey)} checked={$enabledPremades[premadeKey]} />
+               <input type="checkbox" on:change={(e) => onSettingChange(e, premadeKey)} checked={$enabledPremades.includes(premadeKey)} />
                {premades[premadeKey].label}
             </label>
             {/each}
