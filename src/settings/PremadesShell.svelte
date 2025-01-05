@@ -1,22 +1,16 @@
-<script>
+<script lang=ts>
    import { ApplicationShell }   from '#runtime/svelte/component/application';
-   import { builtIns } from "../constants";
+   import { premades } from "../constants";
    import ExampleName from './ExampleName.svelte';
+   import { gameSettings } from './settingsStore';
    export let elementRoot = void 0;
-   export let settingStore = void 0;
-   let types = $settingStore.types ?? []
-   let enabledBuiltIns = $settingStore.enabledBuiltIns ?? {}
-   let openAccordionsIndexes = []
-
-   $: (() => {
-      $settingStore.types = types
-   }) ()
-   $: (() => {
-      $settingStore.enabledBuiltIns = enabledBuiltIns
-   }) ()
+   
+   let types = gameSettings.getStore('types');
+   let enabledPremades = gameSettings.getStore('enabledPremades');
+   let openAccordionsIndexes: number[] = []
 
   async function onAddType () {
-      types = [...types, {
+      $types = [...$types, {
          label: '',
          names: []
       }]
@@ -40,35 +34,45 @@
 
       const item = await fromUuid(dropData.uuid)
 
-      let newTypes = types
+      if (!item) {
+         ui.notifications.warn('Drop item not found')
+         return
+      }
+
+      const newTypes = $types
       newTypes[index].names.push({
          label: item.name,
          uuid: dropData.uuid
       })
-      types = newTypes
+      $types = newTypes
   }
 
   async function onRollName (name) {
       const table = await fromUuid(name.uuid);
+
+      if (!table) {
+         ui.notifications.warn('Roll table not found')
+         return
+      }
 
       const {results} = await table.roll()
       table.toMessage(results)
   }
 
   function onRemoveName(typeIndex, nameIndex) {
-      let newTypes = types
+      const newTypes = $types
       newTypes[typeIndex].names.splice(nameIndex, 1)
-      types = newTypes
+      $types = newTypes
   }
   function onMoveUp(typeIndex, nameIndex) {
-      let newTypes = types
-      newTypes[typeIndex].names.splice(nameIndex - 1, 0, newTypes[typeIndex].names.splice(nameIndex, 1)[0]);
-      types = newTypes
+      const newTypes = $types
+      newTypes[typeIndex].names.splice(nameIndex - 1, 0, $types[typeIndex].names.splice(nameIndex, 1)[0]);
+      $types = newTypes
    }
   function onMoveDown(typeIndex, nameIndex) {
-      let newTypes = types
-      newTypes[typeIndex].names.splice(nameIndex + 1, 0, newTypes[typeIndex].names.splice(nameIndex, 1)[0]);
-      types = newTypes
+      const newTypes = $types
+      newTypes[typeIndex].names.splice(nameIndex + 1, 0, $types[typeIndex].names.splice(nameIndex, 1)[0]);
+      $types = newTypes
    }
   function onToggleAccordion(index) {
       const newIndexes = openAccordionsIndexes
@@ -81,12 +85,18 @@
       openAccordionsIndexes = newIndexes
    }
    function onDelete(index) {
-      let newTypes = types
+      const newTypes = $types
       newTypes.splice(index, 1)
-      types = newTypes
+      $types = newTypes
    }
-   function onSettingChange(event, setting) {
-      enabledBuiltIns[setting] = event.currentTarget.checked
+   function onSettingChange(event, key) {
+      let newEnabledPremades = $enabledPremades
+      if (event.currentTarget.checked) {
+         newEnabledPremades.push(key)
+      } else {
+         newEnabledPremades = newEnabledPremades.filter((p) => p !== key)
+      }
+      $enabledPremades = newEnabledPremades
    }
 </script>
 
@@ -96,18 +106,18 @@
    <div>
       <div>
          <fieldset>
-            <legend>Enable built ins</legend>
-            {#each Object.keys(builtIns) as builtInKey}
-            <label class="built-in">
-               <input type="checkbox" on:change={(e) => onSettingChange(e, builtInKey)} checked={enabledBuiltIns[builtInKey]} />
-               {builtIns[builtInKey].label}
+            <legend>Enable premades</legend>
+            {#each Object.keys(premades) as premadeKey}
+            <label class="premade">
+               <input type="checkbox" on:change={(e) => onSettingChange(e, premadeKey)} checked={$enabledPremades[premadeKey]} />
+               {premades[premadeKey].label}
             </label>
             {/each}
          </fieldset>
       </div>
       <div class="custom-types">
          <button on:click={onAddType}>Add type</button>
-         {#each types as type, typeIndex}
+         {#each $types as type, typeIndex}
             <fieldset class="type" on:drop={(e) => onDrop(e, typeIndex)}>
                <legend class="legend">
                   <button on:click={() => onToggleAccordion(typeIndex)} class="toggle">
@@ -157,7 +167,7 @@
    i {
       margin-right: 0;
    }
-   .built-in {
+   .premade {
       display: flex;
       align-items: center;
    }

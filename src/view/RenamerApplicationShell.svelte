@@ -1,14 +1,18 @@
-<script>
-   import { builtIns } from "../constants";
+<script lang=ts>
+   import { premades as allPremades } from "../constants";
    import { ApplicationShell }   from '#runtime/svelte/component/application';
    import { getContext }            from 'svelte';
+   import { gameSettings } from '../settings/settingsStore';
+
    const { application } = getContext('#external');
    export let elementRoot;
-   export let settingStore = void 0;
    export let document = void 0;
-   let types = $settingStore.types
-   const enabledBuiltIns = Object.keys($settingStore.enabledBuiltIns).map((key) => $settingStore.enabledBuiltIns[key]).some((builtIn) => builtIn === true)
-   const noNames = types.length === 0 && !enabledBuiltIns
+
+   let types = gameSettings.getStore('types');
+   let enabledPremades = gameSettings.getStore('enabledPremades');
+   const premades = Object.entries(allPremades).filter(([key]) => $enabledPremades.includes(key)).map(([_, value]) => value)
+
+   const noNames = $types.length === 0 && premades.length === 0
 
   async function onRollName (type) {
       try {
@@ -30,16 +34,16 @@
 <!-- ApplicationShell exports `elementRoot` which is the outer application shell element -->
 <ApplicationShell bind:elementRoot>
    <main>
-      <h1>Select a name type</h1>
+      <h1>Select a name group</h1>
       <div class="groups">
          {#if noNames }
             <span>no names configured</span>
          {:else}
-            {#if types.length > 0}
+            {#if $types.length > 0}
                <div class="group">
                   <h3>Custom</h3>
                   <div class="list">
-                     {#each types as type}
+                     {#each $types as type}
                         <button on:click={() => onRollName(type)}>
                            {type.label}
                         </button>
@@ -48,20 +52,18 @@
                </div>
             {/if}
 
-            {#if enabledBuiltIns}
-               {#each Object.keys($settingStore.enabledBuiltIns) as builtInKey }
-                  <div class="group">
-                     <h3>{builtIns[builtInKey].label}</h3>
-                     <div class="list">
-                        {#each builtIns[builtInKey].types as type }
-                        <button on:click={() => onRollName(type)}>
-                           {type.label}
-                        </button>
-                        {/each}
-                     </div>
+            {#each premades as premade }
+               <div class="group">
+                  <h3>{premade.label}</h3>
+                  <div class="list">
+                     {#each premade.types as type }
+                     <button on:click={() => onRollName(type)}>
+                        {type.label}
+                     </button>
+                     {/each}
                   </div>
-               {/each}
-            {/if}
+               </div>
+            {/each}
          {/if}
       </div>
    </main>

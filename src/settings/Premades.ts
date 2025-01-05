@@ -1,11 +1,11 @@
 
 import { SvelteApplication }  from '#runtime/svelte/application';
-import BuiltInNamesShell          from './BuiltInNamesShell.svelte';
+import PremadesShell          from './PremadesShell.svelte';
 
-export default class BuiltInNames extends SvelteApplication
+export default class Premades extends SvelteApplication
 {
   static DEFAULT_OPTIONS = {
-    id: "built-in-names-form",
+    id: "premade-names-form",
     position: {
       width: 640,
       height: "auto"
@@ -15,7 +15,7 @@ export default class BuiltInNames extends SvelteApplication
       title: "title"
     },
     svelte: {
-      class: BuiltInNamesShell,
+      class: PremadesShell,
       target: document.body
     }
   };

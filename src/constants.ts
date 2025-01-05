@@ -12,21 +12,21 @@ const constants = {
  * @type {ESSettingConstants} Defines the Foundry game setting keys.
  */
 const settings = {
-  enabledNamesClient: 'enabledNamesClient',
-  appStateClient: 'appStateClient',
-  sideSlideLayer: 'sideSlideLayer'
+  types: 'types',
+  premades: 'premades',
+  enabledPremades: 'enabledPremades',
 };
 
 /**
  * @type {ESSessionConstants} Defines all the module session storage static constants.
  */
 const sessionConstants = {
-  appStateClient: `${constants.moduleId}.${settings.appStateClient}`,
-  themeDarkMode: `${constants.moduleId}.theme.dark`,
-  sidebarCustomTab: `${constants.moduleId}.sidebar.custom-tab`
+  types: `${constants.moduleId}.${settings.types}`,
+  premades: `${constants.moduleId}.${settings.premades}`,
+  enabledPremades: `${constants.moduleId}.${settings.enabledPremades}`,
 };
 
-const builtIns = {
+const premades = {
   dnd: {
     label: 'D&D5e',
     types: [
@@ -147,22 +147,5 @@ const builtIns = {
   }
 };
 
-export { builtIns, constants, sessionConstants, settings };
+export { premades, constants, sessionConstants, settings };
 
-/**
- * @typedef {object} ESSessionConstants
- *
- * @property {string} appStateClient Stores the current app state in /src/view/app-state demo.
- *
- * @property {string} themeDarkMode Indicates whether dark mode is enabled.
- *
- * @property {string} sidebarCustomTab Indicates whether to load a custom Svelte sidebar tab.
- */
-
-/**
- * @typedef {object} ESSettingConstants
- *
- * @property {string} appStateClient Stores the current app state in /src/view/app-state demo.
- *
- * @property {string} sideSlideLayer Stores the props persisted to Foundry settings as an object.
- */
