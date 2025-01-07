@@ -6,7 +6,7 @@
 
    const { application } = getContext('#external');
    export let elementRoot;
-   export let document = void 0;
+   export let documents = void 0;
 
    let types = gameSettings.getStore('types');
    let enabledPremades = gameSettings.getStore('enabledPremades');
@@ -16,10 +16,12 @@
 
   async function onRollName (type) {
       try {
-         const [...nameTables] = await Promise.all(type.names.map(async (name) => await fromUuid(name.uuid)))
-         const [...nameRolls] = await Promise.all(nameTables.map(async (table) => await table.roll()))
-         const names = nameRolls.map((roll) => roll.results[0].text)
-         document.update({ name: `${names.join(' ')}` });
+         documents.forEach( async (doc) => {
+            const [...nameTables] = await Promise.all(type.names.map(async (name) => await fromUuid(name.uuid)))
+            const [...nameRolls] = await Promise.all(nameTables.map(async (table) => await table.roll()))
+            const names = nameRolls.map((roll) => roll.results[0].text)
+            doc.update({ name: `${names.join(' ')}` });
+         })
          return application.close()
       } catch (error) {
          console.error('Error replacing document name', error)
