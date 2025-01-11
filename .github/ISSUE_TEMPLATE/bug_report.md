@@ -4,24 +4,33 @@ about: Create a report to help us improve
 title: "[BUG]"
 labels: bug
 assignees: ''
+
 ---
 
+**Module Version:** v0.0.0
+
 **Describe the bug**
-A description of the bug and any screenshots.
+A clear and concise description of what the bug is.
 
-**Steps to reproduce**
-
+**To Reproduce**
+Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Versions:**
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-- my-names-jeff: [e.g. my-names-jeff 0.1.0]
-- System: [e.g. d&d 2.0.3]
-- Foundry VTT: [e.g. 10.291]
-- Browser: [e.g. Google Chrome 108.0.5359.124]
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Browser:**
+ - 
+
+**Foundry Version:** 
+
+**Game System:** 
 
 **Additional context**
-Any additional context.
+Add any other context (like other modules installed) about the problem here.

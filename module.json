@@ -8,21 +8,32 @@
       "url": "https://github.com/chrisjbrown"
     }
   ],
-  "url": "This is auto replaced",
-  "flags": {},
-  "version": "0.0.1",
+  "version": "0.0.0",
   "compatibility": {
-    "minimum": "12.331",
-    "verified": "12.331"
+    "minimum": "12",
+    "verified": "12"
   },
-  "esmodules": ["./scripts/my-names-jeff.min.js"],
-  "scripts": [],
-  "styles": ["./styles/my-names-jeff.css"],
+  "esmodules": [
+    "dist/my-names-jeff.js"
+  ],
+  "styles": [
+    "dist/my-names-jeff.css"
+  ],
+  "flags": {
+    "hotReload": {
+      "extensions": [
+        "json"
+      ],
+      "paths": [
+        "lang"
+      ]
+    }
+  },
   "languages": [
     {
       "lang": "en",
       "name": "English",
-      "path": "languages/en.json"
+      "path": "lang/en.json"
     }
   ],
   "packs": [
@@ -35,11 +46,13 @@
       "flags": {}
     }
   ],
-  "relationships": {},
-  "socket": false,
+  "url": "https://github.com/typhonjs-fvtt-demo/my-names-jeff",
+  "readme": "https://github.com/typhonjs-fvtt-demo/my-names-jeff/blob/master/README.md",
+  "bugs": "https://github.com/typhonjs-fvtt-demo/my-names-jeff/issues",
+  "changelog": "https://github.com/typhonjs-fvtt-demo/my-names-jeff/releases/latest/",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
-  "readme": "https://github.com/chrisjbrown/my-names-jeff#readme",
+  "socket": false,
   "protected": false,
   "coreTranslation": false,
   "library": false

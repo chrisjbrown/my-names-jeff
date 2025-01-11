@@ -1,0 +1,779 @@
+{
+  "name": "Athamaru name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Auryth",
+      "_id": "H9InBkEDQx4CRSas",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.H9InBkEDQx4CRSas"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Velmara",
+      "_id": "NMMOXjAvCWXJ7w9Y",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.NMMOXjAvCWXJ7w9Y"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Cayvaris",
+      "_id": "oVNTKiVJWUSoa8mt",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.oVNTKiVJWUSoa8mt"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Mythralis",
+      "_id": "zzcO8E55LOXN3C44",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.zzcO8E55LOXN3C44"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Korinth",
+      "_id": "ZRzonnctLONEW4sY",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.ZRzonnctLONEW4sY"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Selvyn",
+      "_id": "IipFC05eb0Ag00eT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.IipFC05eb0Ag00eT"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Thalmar",
+      "_id": "C0eumKfiMPAPeMQp",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.C0eumKfiMPAPeMQp"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Nalyth",
+      "_id": "G7CcIi9QvasoarS7",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.G7CcIi9QvasoarS7"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Xoryn",
+      "_id": "ES1KPQZAlshv1lqC",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.ES1KPQZAlshv1lqC"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Ilaris",
+      "_id": "EhRvTtaODfaQjC6A",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.EhRvTtaODfaQjC6A"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Zalvyn",
+      "_id": "sFGxn1t71H3iiEpk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.sFGxn1t71H3iiEpk"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Vorynth",
+      "_id": "7s7Q57GcXynvcc1L",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.7s7Q57GcXynvcc1L"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Nythera",
+      "_id": "1B5qtadE7hhm2w0N",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.1B5qtadE7hhm2w0N"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Quisara",
+      "_id": "6cHrsgqsmxRNpkqU",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.6cHrsgqsmxRNpkqU"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Elvarin",
+      "_id": "c0Dx6LPsYaZiTwiJ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.c0Dx6LPsYaZiTwiJ"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Loryth",
+      "_id": "8tc2NywB20zbeDJ3",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.8tc2NywB20zbeDJ3"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Calyth",
+      "_id": "7UW055NMfwpJZ0jE",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.7UW055NMfwpJZ0jE"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Sylvessa",
+      "_id": "n3Df7dA83GXid0ih",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.n3Df7dA83GXid0ih"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Isaril",
+      "_id": "ctWw5xuxgF15pZ6t",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.ctWw5xuxgF15pZ6t"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Therial",
+      "_id": "qpUBLapDkOuyeF08",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.qpUBLapDkOuyeF08"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Auranth",
+      "_id": "mb2bWK2WxU9H86hJ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.mb2bWK2WxU9H86hJ"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Xaloris",
+      "_id": "IOIWDOBY8T6umjZ3",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.IOIWDOBY8T6umjZ3"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Velanith",
+      "_id": "sacFn1VNrfB0HGW6",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.sacFn1VNrfB0HGW6"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Eryndal",
+      "_id": "AXFkRhyJYPRcQKmR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.AXFkRhyJYPRcQKmR"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Noryss",
+      "_id": "7wvOSG5a2YnKMdb7",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.7wvOSG5a2YnKMdb7"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Zynther",
+      "_id": "LCr4Wvgfcmwnn3RA",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.LCr4Wvgfcmwnn3RA"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Koralyth",
+      "_id": "y3plAfHezejhRHnX",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.y3plAfHezejhRHnX"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Onithar",
+      "_id": "Ovn8pOso8O8YvE7j",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.Ovn8pOso8O8YvE7j"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Tylaris",
+      "_id": "dJ7iHtGAynvHbKGD",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.dJ7iHtGAynvHbKGD"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Quilath",
+      "_id": "4nDfGfCmghg6a1Yb",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.4nDfGfCmghg6a1Yb"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Aeryth",
+      "_id": "X1TQ2GgKnLnavsM3",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.X1TQ2GgKnLnavsM3"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Myndral",
+      "_id": "RDGlX6TV4pWawbo2",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.RDGlX6TV4pWawbo2"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Korynth",
+      "_id": "rtVrTa0rEoSwYlCb",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.rtVrTa0rEoSwYlCb"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Selveth",
+      "_id": "B5345VUp5MhKHZdh",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.B5345VUp5MhKHZdh"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Thaloran",
+      "_id": "ykYeQsjhksXUQND6",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.ykYeQsjhksXUQND6"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Zorynth",
+      "_id": "8ngScXyO6nIGSmRA",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.8ngScXyO6nIGSmRA"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Vylana",
+      "_id": "C4UNcWn1CpuiXHSR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.C4UNcWn1CpuiXHSR"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Lorynthal",
+      "_id": "jboV3kpp7ylEmZWg",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.jboV3kpp7ylEmZWg"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Eryndis",
+      "_id": "FTnv79c8I07sdSRs",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.FTnv79c8I07sdSRs"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Calvaris",
+      "_id": "UC279E2cQtuJr2dt",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.UC279E2cQtuJr2dt"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Nyssar",
+      "_id": "lEul3E55RrkNEtXK",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.lEul3E55RrkNEtXK"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Auriel",
+      "_id": "6p7LtQbSfKTHzQIJ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.6p7LtQbSfKTHzQIJ"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Therith",
+      "_id": "Im8c0JtP4viFakGP",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.Im8c0JtP4viFakGP"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Ilvyris",
+      "_id": "ZCDSF00nhEhDKphd",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.ZCDSF00nhEhDKphd"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Sylvarin",
+      "_id": "n0KsgrK1g2GPiZsn",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.n0KsgrK1g2GPiZsn"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Nythal",
+      "_id": "hNdJnglQ5ROl7wxM",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.hNdJnglQ5ROl7wxM"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Velorith",
+      "_id": "AwrRDmair8T6v3ES",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.AwrRDmair8T6v3ES"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Xeralis",
+      "_id": "HKaV5kZwFBbKUt3J",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.HKaV5kZwFBbKUt3J"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Oralyn",
+      "_id": "USKt1BCjZGkt3lFa",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.USKt1BCjZGkt3lFa"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Quylar",
+      "_id": "PFua7nE8yOZd7Gnf",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!RZGUBTTEekd7ZG8L.PFua7nE8yOZd7Gnf"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "KatzFPRsgckb3yk9",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.J0VtTOTnCcFqf5r4",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "RZGUBTTEekd7ZG8L",
+  "sort": 0,
+  "_key": "!tables!RZGUBTTEekd7ZG8L"
+}

@@ -1,0 +1,1393 @@
+{
+  "name": "Dragon Name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "text": "Drakon",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "NRxgBmVDH2xkqafQ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.NRxgBmVDH2xkqafQ"
+    },
+    {
+      "type": "text",
+      "text": "Zephyrion",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "rslNPZVJDu4kSCIJ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.rslNPZVJDu4kSCIJ"
+    },
+    {
+      "type": "text",
+      "text": "Vermithrax",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "dppkzMBE9JeCkhCc",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.dppkzMBE9JeCkhCc"
+    },
+    {
+      "type": "text",
+      "text": "Pyroth",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Hop2rgQHzG6jXgci",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Hop2rgQHzG6jXgci"
+    },
+    {
+      "type": "text",
+      "text": "Aurelion",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "UstphMTdtpFEIVYJ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.UstphMTdtpFEIVYJ"
+    },
+    {
+      "type": "text",
+      "text": "Nyx",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "43q9fhhwK72VYrhg",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.43q9fhhwK72VYrhg"
+    },
+    {
+      "type": "text",
+      "text": "Smaug",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "zQbCoqJCKPpBLla7",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.zQbCoqJCKPpBLla7"
+    },
+    {
+      "type": "text",
+      "text": "Ignis",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Z18PLjaYOgCwecRx",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Z18PLjaYOgCwecRx"
+    },
+    {
+      "type": "text",
+      "text": "Fafnir",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ydeOluYhCwy4EOm7",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.ydeOluYhCwy4EOm7"
+    },
+    {
+      "type": "text",
+      "text": "Loreth",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ilFakQjxf1CQIrkv",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.ilFakQjxf1CQIrkv"
+    },
+    {
+      "type": "text",
+      "text": "Astaroth",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "VMCX073XvzP35iOP",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.VMCX073XvzP35iOP"
+    },
+    {
+      "type": "text",
+      "text": "Vespera",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "3NSma2MtwivmqG6q",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.3NSma2MtwivmqG6q"
+    },
+    {
+      "type": "text",
+      "text": "Balerion",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "wEUDaf2kFT7APfpS",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.wEUDaf2kFT7APfpS"
+    },
+    {
+      "type": "text",
+      "text": "Tiamat",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "xXp5N7cAmSny1QxE",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.xXp5N7cAmSny1QxE"
+    },
+    {
+      "type": "text",
+      "text": "Cynder",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ujVhXqg5MGS4FfK0",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.ujVhXqg5MGS4FfK0"
+    },
+    {
+      "type": "text",
+      "text": "Scorch",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "HY0DYF9PIhMrknaQ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.HY0DYF9PIhMrknaQ"
+    },
+    {
+      "type": "text",
+      "text": "Grendel",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "cOaw4W9WnkcVKAgW",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.cOaw4W9WnkcVKAgW"
+    },
+    {
+      "type": "text",
+      "text": "Zirconia",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "j0QZLti4uZ3jxHhz",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.j0QZLti4uZ3jxHhz"
+    },
+    {
+      "type": "text",
+      "text": "Inferno",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "w6Gu0oFMe5v5AcCi",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.w6Gu0oFMe5v5AcCi"
+    },
+    {
+      "type": "text",
+      "text": "Nefarian",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "5bBtQ98wugcEh0rh",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.5bBtQ98wugcEh0rh"
+    },
+    {
+      "type": "text",
+      "text": "Ryvern",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "tZkL7T9lfBJ5cVpC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.tZkL7T9lfBJ5cVpC"
+    },
+    {
+      "type": "text",
+      "text": "Onyxia",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Ov51glwvC0sVt2SW",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Ov51glwvC0sVt2SW"
+    },
+    {
+      "type": "text",
+      "text": "Phosphoros",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "e2uUh0NyeDiX2s6j",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.e2uUh0NyeDiX2s6j"
+    },
+    {
+      "type": "text",
+      "text": "Glaurung",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "CriOVDgvl36gZXxY",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.CriOVDgvl36gZXxY"
+    },
+    {
+      "type": "text",
+      "text": "Saphira",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "1LaneJL0nRKYcVxu",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.1LaneJL0nRKYcVxu"
+    },
+    {
+      "type": "text",
+      "text": "Havoc",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "znH8mU9l6sm86Z5h",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.znH8mU9l6sm86Z5h"
+    },
+    {
+      "type": "text",
+      "text": "Draco",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "UJuZsuX3hchkadE9",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.UJuZsuX3hchkadE9"
+    },
+    {
+      "type": "text",
+      "text": "Argentum",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "lu3TuxPYAoebmH7o",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.lu3TuxPYAoebmH7o"
+    },
+    {
+      "type": "text",
+      "text": "Nidhogg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Efqux9wMQKJbPUNN",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Efqux9wMQKJbPUNN"
+    },
+    {
+      "type": "text",
+      "text": "Belthrax",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "EqndiSX1jGwM6hpU",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.EqndiSX1jGwM6hpU"
+    },
+    {
+      "type": "text",
+      "text": "Zephyrus",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "5STyq09KWcN0pbAC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.5STyq09KWcN0pbAC"
+    },
+    {
+      "type": "text",
+      "text": "Nightscale",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "GCYo5thldAyXVKOc",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.GCYo5thldAyXVKOc"
+    },
+    {
+      "type": "text",
+      "text": "Flamewing",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "soRq8h3jDRLPTDrq",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.soRq8h3jDRLPTDrq"
+    },
+    {
+      "type": "text",
+      "text": "Oblivion",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Mqar1q4EWjNzEzKp",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Mqar1q4EWjNzEzKp"
+    },
+    {
+      "type": "text",
+      "text": "Sylveron",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "kAEI5RrPwEW6GjtD",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.kAEI5RrPwEW6GjtD"
+    },
+    {
+      "type": "text",
+      "text": "Abyssion",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "802ai61xDAkodIMW",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.802ai61xDAkodIMW"
+    },
+    {
+      "type": "text",
+      "text": "Volcanus",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "pTe6jbO3TDR2xM6Z",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.pTe6jbO3TDR2xM6Z"
+    },
+    {
+      "type": "text",
+      "text": "Hydra",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "OLhHUNDwl8vtSl1I",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.OLhHUNDwl8vtSl1I"
+    },
+    {
+      "type": "text",
+      "text": "Leviathan",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "eiasN4juSHnMhgJ0",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.eiasN4juSHnMhgJ0"
+    },
+    {
+      "type": "text",
+      "text": "Ragnarok",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "jFHP1ubyAfeInNaE",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.jFHP1ubyAfeInNaE"
+    },
+    {
+      "type": "text",
+      "text": "Venomfang",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Fw9uoCJVqt9AlxSk",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Fw9uoCJVqt9AlxSk"
+    },
+    {
+      "type": "text",
+      "text": "Shadowmaw",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "OQIymHVTt0BXoFBX",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.OQIymHVTt0BXoFBX"
+    },
+    {
+      "type": "text",
+      "text": "Frostbite",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Wft9CNeldNUuHtI3",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Wft9CNeldNUuHtI3"
+    },
+    {
+      "type": "text",
+      "text": "Solarius",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "qq4oLwmoSWcz1BNs",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.qq4oLwmoSWcz1BNs"
+    },
+    {
+      "type": "text",
+      "text": "Eclipse",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "uMrqxblXRigSIFgo",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.uMrqxblXRigSIFgo"
+    },
+    {
+      "type": "text",
+      "text": "Crimson",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "wpNXWAKZa2t9WWAG",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.wpNXWAKZa2t9WWAG"
+    },
+    {
+      "type": "text",
+      "text": "Zalmora",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ruOwwOXNAPvmzGk4",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.ruOwwOXNAPvmzGk4"
+    },
+    {
+      "type": "text",
+      "text": "Golddrake",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "CVO2FidgrZizGGwH",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.CVO2FidgrZizGGwH"
+    },
+    {
+      "type": "text",
+      "text": "Emberax",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Ihn2zJ0bZWunRn6L",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Ihn2zJ0bZWunRn6L"
+    },
+    {
+      "type": "text",
+      "text": "Stormclaw",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "weQmDs0LuumzQ0pF",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.weQmDs0LuumzQ0pF"
+    },
+    {
+      "type": "text",
+      "text": "Blazewing",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "bBeZX8XTgfjKC97A",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.bBeZX8XTgfjKC97A"
+    },
+    {
+      "type": "text",
+      "text": "Dreadclaw",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "F313s4suYqKr9AWZ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.F313s4suYqKr9AWZ"
+    },
+    {
+      "type": "text",
+      "text": "Voidbreath",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "9sOFXl9G6bC6JfNa",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.9sOFXl9G6bC6JfNa"
+    },
+    {
+      "type": "text",
+      "text": "Moltenclaw",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "UNENjrERa6SlbQvp",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.UNENjrERa6SlbQvp"
+    },
+    {
+      "type": "text",
+      "text": "Ebonthorn",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "nEiPWbQOCaQyO0v9",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.nEiPWbQOCaQyO0v9"
+    },
+    {
+      "type": "text",
+      "text": "Ashenscale",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "PWDSPJjkltdS0HEM",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.PWDSPJjkltdS0HEM"
+    },
+    {
+      "type": "text",
+      "text": "Doomscale",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "OEU99T7zn0RiGBGi",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.OEU99T7zn0RiGBGi"
+    },
+    {
+      "type": "text",
+      "text": "Wyrmfang",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ApFvjIBYg7D959M1",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.ApFvjIBYg7D959M1"
+    },
+    {
+      "type": "text",
+      "text": "Nightflare",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "RobcDqX5dZ3n0HOm",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.RobcDqX5dZ3n0HOm"
+    },
+    {
+      "type": "text",
+      "text": "Ironclaw",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "3OvOv99pPQcMtgkw",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.3OvOv99pPQcMtgkw"
+    },
+    {
+      "type": "text",
+      "text": "Thunderstrike",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "OJvCuEEKdWP0Rn0Y",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.OJvCuEEKdWP0Rn0Y"
+    },
+    {
+      "type": "text",
+      "text": "Shadowflame",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "3QCHvdv2hJXH1gow",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.3QCHvdv2hJXH1gow"
+    },
+    {
+      "type": "text",
+      "text": "Obsidianwing",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "tnsBHQIy53iyVSqC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.tnsBHQIy53iyVSqC"
+    },
+    {
+      "type": "text",
+      "text": "Bloodscale",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "3TuL8Dcjz6c2qkka",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.3TuL8Dcjz6c2qkka"
+    },
+    {
+      "type": "text",
+      "text": "Thunderwing",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "IpK0s6iOn9xNLcXO",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.IpK0s6iOn9xNLcXO"
+    },
+    {
+      "type": "text",
+      "text": "Venomtalon",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ffOBicYz0PzTvwJp",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.ffOBicYz0PzTvwJp"
+    },
+    {
+      "type": "text",
+      "text": "Sunchaser",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Eu42ILvgE6KKbls8",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Eu42ILvgE6KKbls8"
+    },
+    {
+      "type": "text",
+      "text": "Razorfang",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "PPV3cgqkTzGdFFal",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.PPV3cgqkTzGdFFal"
+    },
+    {
+      "type": "text",
+      "text": "Frostclaw",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "MAMkBGlVHRg3wJdz",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.MAMkBGlVHRg3wJdz"
+    },
+    {
+      "type": "text",
+      "text": "Ashenwing",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Q75vAxNbkVzB9r2Q",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.Q75vAxNbkVzB9r2Q"
+    },
+    {
+      "type": "text",
+      "text": "Flameheart",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "E0CRr7eWan3gDhHL",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.E0CRr7eWan3gDhHL"
+    },
+    {
+      "type": "text",
+      "text": "Voidclaw",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "lkXlTubJoG4EDXMz",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.lkXlTubJoG4EDXMz"
+    },
+    {
+      "type": "text",
+      "text": "Stormscale",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "5ywLzVdvxkUIWSEk",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.5ywLzVdvxkUIWSEk"
+    },
+    {
+      "type": "text",
+      "text": "Baneclaw",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "WUvCTRDMFUZcpOjE",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.WUvCTRDMFUZcpOjE"
+    },
+    {
+      "type": "text",
+      "text": "Obsidianclaw",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "lCsSji6NGAe8arVn",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.lCsSji6NGAe8arVn"
+    },
+    {
+      "type": "text",
+      "text": "Blazefang",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "h0X5VmkJbta2A4kU",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.h0X5VmkJbta2A4kU"
+    },
+    {
+      "type": "text",
+      "text": "Soulclaw",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "XDPNMGMKZOXpfcCj",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.XDPNMGMKZOXpfcCj"
+    },
+    {
+      "type": "text",
+      "text": "Ironscale",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "LEXM6pwV63f5umc8",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.LEXM6pwV63f5umc8"
+    },
+    {
+      "type": "text",
+      "text": "Nightslash",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "2zU7VC8Qa8JMBli3",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.2zU7VC8Qa8JMBli3"
+    },
+    {
+      "type": "text",
+      "text": "Magmafang",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ay1FyAIDwvsRdoes",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.ay1FyAIDwvsRdoes"
+    },
+    {
+      "type": "text",
+      "text": "Shadowthorn",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "WmGyCfwc5tU1DeyU",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.WmGyCfwc5tU1DeyU"
+    },
+    {
+      "type": "text",
+      "text": "Solarflare",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "8qleZAgkE7rvrKSN",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.8qleZAgkE7rvrKSN"
+    },
+    {
+      "type": "text",
+      "text": "Eclipsewing",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "JT8NtxJtacmO6BUx",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.JT8NtxJtacmO6BUx"
+    },
+    {
+      "type": "text",
+      "text": "Dreadscale",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "HMN66pKtuPnqr29q",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.HMN66pKtuPnqr29q"
+    },
+    {
+      "type": "text",
+      "text": "Scorchclaw",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "UVmPHzdZea6rhiEm",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!rlWetH2LKYBuUm4Q.UVmPHzdZea6rhiEm"
+    }
+  ],
+  "formula": "1d85",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.pBWzw3dTp8Ua9Wr4"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.Ahblwav3O2D2YGOA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "folder": "PjNn0KvMdMEq0zXI",
+  "_id": "rlWetH2LKYBuUm4Q",
+  "sort": 0,
+  "_key": "!tables!rlWetH2LKYBuUm4Q"
+}

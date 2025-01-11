@@ -1,0 +1,779 @@
+{
+  "name": "Hobgoblin name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Zrakor Bloodtooth",
+      "_id": "zdweoM2WVEZbfkWW",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.zdweoM2WVEZbfkWW"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Gronvek Ironhide",
+      "_id": "AiUApfAVUdT3w5Ly",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.AiUApfAVUdT3w5Ly"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Vakzarn",
+      "_id": "Ss2DIPRlsXulw85w",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.Ss2DIPRlsXulw85w"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Jargal Thorns",
+      "_id": "xyCT7ZtwJMlYI9Ud",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.xyCT7ZtwJMlYI9Ud"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Orkaz Blight",
+      "_id": "CnCmdCK8Y1dGbrZG",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.CnCmdCK8Y1dGbrZG"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Brentoz the Risen",
+      "_id": "jUE7uGjZ3NxprLZj",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.jUE7uGjZ3NxprLZj"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Krizzik",
+      "_id": "id7WYHaHf01zpR47",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.id7WYHaHf01zpR47"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Dravzun Ironclaw",
+      "_id": "DHijNwkMcpTPOZLk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.DHijNwkMcpTPOZLk"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Nokzirg Flame",
+      "_id": "MUUPCASJ2CiJZKwc",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.MUUPCASJ2CiJZKwc"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Kolvar Skullmark",
+      "_id": "JozxfR7SCe4NBeUE",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.JozxfR7SCe4NBeUE"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Renvak the Cruel",
+      "_id": "XV2zR9rI9uCUDNZy",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.XV2zR9rI9uCUDNZy"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Tarkozar",
+      "_id": "ZEFfaXKOvBMfDblq",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.ZEFfaXKOvBMfDblq"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Draznor Wildfang",
+      "_id": "EPlDrgRwIkDiwoCm",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.EPlDrgRwIkDiwoCm"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Gnurzag Bleak",
+      "_id": "GlS8z66N7Vh36Ylb",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.GlS8z66N7Vh36Ylb"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Havzren the Scarred",
+      "_id": "2myo51dO7yTIZgFO",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.2myo51dO7yTIZgFO"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Kralvek Blacktusk",
+      "_id": "4J6f2H9zsQzKc621",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.4J6f2H9zsQzKc621"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Zrokar Doomclaw",
+      "_id": "xF8WsEcLaQRFTkkl",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.xF8WsEcLaQRFTkkl"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Yozgar Flamebrand",
+      "_id": "5sZhCn4JSPjnQ8Vc",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.5sZhCn4JSPjnQ8Vc"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Vreznor",
+      "_id": "NzOjNsmzi3jFYvOx",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.NzOjNsmzi3jFYvOx"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Torvuk the Ruthless",
+      "_id": "LPYKkoljp46qdIR1",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.LPYKkoljp46qdIR1"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Graktar Boneblade",
+      "_id": "UP2Fg2OV86Tudyw9",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.UP2Fg2OV86Tudyw9"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Krindaz Frostfang",
+      "_id": "qiiSigFha0hb7Tel",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.qiiSigFha0hb7Tel"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Norvuk Ironfist",
+      "_id": "nX6YV7K8eIZQ5y5c",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.nX6YV7K8eIZQ5y5c"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Blizark",
+      "_id": "Oc3NXjRKFXawRllx",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.Oc3NXjRKFXawRllx"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Drozrak Battlehowl",
+      "_id": "h8G36EArbNTD1woG",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.h8G36EArbNTD1woG"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Gorzum the Grim",
+      "_id": "aRG99ypmxngUU5Vz",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.aRG99ypmxngUU5Vz"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Rukzan Shadowtusk",
+      "_id": "0EamSkFUM9ZpqBqk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.0EamSkFUM9ZpqBqk"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Vazgrin Flameborn",
+      "_id": "ykezVxqSaP6JU3eY",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.ykezVxqSaP6JU3eY"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Zoklar",
+      "_id": "tAEKePIIALsmQTau",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.tAEKePIIALsmQTau"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Ovnaz Redmark",
+      "_id": "T9zO2UAl0OgZ4x7H",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.T9zO2UAl0OgZ4x7H"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Nakthor Ironlash",
+      "_id": "KWSs9wTHpRcwEPYg",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.KWSs9wTHpRcwEPYg"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Jorvok Steeltooth",
+      "_id": "ER4Agjt56iUZVMYf",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.ER4Agjt56iUZVMYf"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Vrekzor Ashfang",
+      "_id": "sxKtzJs1YCvy021L",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.sxKtzJs1YCvy021L"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Grizlek the Warden",
+      "_id": "BCJwqZAU4SOvV6GK",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.BCJwqZAU4SOvV6GK"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Tarkoz Steelblade",
+      "_id": "gTdIUfbGIMmriRgw",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.gTdIUfbGIMmriRgw"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Zurkar Bloodfang",
+      "_id": "nZzGsiNo2hco92Vb",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.nZzGsiNo2hco92Vb"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Harnok Doomscar",
+      "_id": "9cP56QM7j5ZkgjA2",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.9cP56QM7j5ZkgjA2"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Kazrul Brokenfang",
+      "_id": "6DQac7WO2EeBZcpf",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.6DQac7WO2EeBZcpf"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Orvan Frostlash",
+      "_id": "z8JI17vNLL3RAj2r",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.z8JI17vNLL3RAj2r"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Vulkar the Unyielding",
+      "_id": "j1Ugpt0TrmsUn1xY",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.j1Ugpt0TrmsUn1xY"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Gnorrak Bladewind",
+      "_id": "iXZGKkWBVntvgBbK",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.iXZGKkWBVntvgBbK"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Thalkar Redscar",
+      "_id": "K5iMeLv3BkWrvodR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.K5iMeLv3BkWrvodR"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Ruzrak Steelclaw",
+      "_id": "7qQSYt82IXRoinaQ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.7qQSYt82IXRoinaQ"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Krezlor Ashblade",
+      "_id": "3XKGxHXiGX9GnOf4",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.3XKGxHXiGX9GnOf4"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Durgal Wraith",
+      "_id": "1TYnvnArdyLwoKQ7",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.1TYnvnArdyLwoKQ7"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Zarnak Stoneclaw",
+      "_id": "SIk1sD8Q3NuHhtyG",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.SIk1sD8Q3NuHhtyG"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Rorgal Flamewrought",
+      "_id": "VUO7y3vgpF5eeSfW",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.VUO7y3vgpF5eeSfW"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Drokzar Burnblade",
+      "_id": "exYUJRsfLXYgYfpk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.exYUJRsfLXYgYfpk"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Kolvor the Ravager",
+      "_id": "AqaP45WBcr1hYV8N",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.AqaP45WBcr1hYV8N"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Nakzor Shadowbrand",
+      "_id": "8KpJ6wRszQ6XQzxU",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!iQk73TkVjjqy1EqL.8KpJ6wRszQ6XQzxU"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "Inys1Sliyar7qRmO",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.C89qZBSrjZD0eApH",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "iQk73TkVjjqy1EqL",
+  "sort": 0,
+  "_key": "!tables!iQk73TkVjjqy1EqL"
+}

@@ -1,0 +1,779 @@
+{
+  "name": "Kholo name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Amber Fang",
+      "_id": "RP6LAb1sOznaIaAX",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.RP6LAb1sOznaIaAX"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Silver Baobab",
+      "_id": "EaYWEUNKOfiVwlo2",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.EaYWEUNKOfiVwlo2"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Crimson Thorn",
+      "_id": "lVGfD47KV6vCiIAG",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.lVGfD47KV6vCiIAG"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Obsidian Jackal",
+      "_id": "YD5HjXaZwjsFUNC5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.YD5HjXaZwjsFUNC5"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Swaying Ebony Grass",
+      "_id": "nTbeOgppCB2B2Y4G",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.nTbeOgppCB2B2Y4G"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Iron Bark Sentinel",
+      "_id": "8Vco0ochLTMJ9Sah",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.8Vco0ochLTMJ9Sah"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Moonlit Acacia",
+      "_id": "XKAWOIDuKEG5HND5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.XKAWOIDuKEG5HND5"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Swift Reed in Wind",
+      "_id": "7KsDAjmlfyoilq6m",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.7KsDAjmlfyoilq6m"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Twilight Coyote",
+      "_id": "MVytEcDQuE9TQkVj",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.MVytEcDQuE9TQkVj"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Golden River Root",
+      "_id": "5QZe6jFTo4tdYsnh",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.5QZe6jFTo4tdYsnh"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Unyielding Stone",
+      "_id": "jsGKtrM7mqj56XJV",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.jsGKtrM7mqj56XJV"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Sable Thorn Blossom",
+      "_id": "hVUdSYXNnlzaaWeD",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.hVUdSYXNnlzaaWeD"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Dancing Acacia Shadow",
+      "_id": "CpJiBZ0HMBirPX94",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.CpJiBZ0HMBirPX94"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Scarlet Willow",
+      "_id": "wEfNhFV5riMOaH3S",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.wEfNhFV5riMOaH3S"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Emerald Fang",
+      "_id": "zjrLgBULHLrtD5IQ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.zjrLgBULHLrtD5IQ"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Crested Ibex",
+      "_id": "vTTXL8VOCbdmxxVw",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.vTTXL8VOCbdmxxVw"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Sunlit Iron Thorn",
+      "_id": "BLbk9WOMk8o6KsYo",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.BLbk9WOMk8o6KsYo"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Shifting Sand Root",
+      "_id": "Dg7Wv4IOpFYd3yJ0",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.Dg7Wv4IOpFYd3yJ0"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Duskwind Jackal",
+      "_id": "oVtkoOMLpUQzYke9",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.oVtkoOMLpUQzYke9"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Whispering Birch",
+      "_id": "obteaSOdU7q7NqlR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.obteaSOdU7q7NqlR"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Nightshade Blossom",
+      "_id": "6L9eCYHN2k2pA2RC",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.6L9eCYHN2k2pA2RC"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Jagged Granite Thorn",
+      "_id": "TnFnt3IWRVdqje15",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.TnFnt3IWRVdqje15"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Bold Mahogany Fang",
+      "_id": "ku8KffIuTIGcj9Zu",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.ku8KffIuTIGcj9Zu"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Onyx River Reed",
+      "_id": "JA89Taxh4vhdXdZs",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.JA89Taxh4vhdXdZs"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Howling Timberwolf",
+      "_id": "xf4x1xm0vwS6uJtL",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.xf4x1xm0vwS6uJtL"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Bronze Sabretooth",
+      "_id": "QwwZfe1u2h0FxQRw",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.QwwZfe1u2h0FxQRw"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Winding Olive Branch",
+      "_id": "Pw1X56u0Ep2OJPaS",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.Pw1X56u0Ep2OJPaS"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Radiant Iron Vine",
+      "_id": "234OMBGBS0jhuLzB",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.234OMBGBS0jhuLzB"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Ashen Thornbark",
+      "_id": "2yjDVxejWnOdYUQu",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.2yjDVxejWnOdYUQu"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Savanna Willow",
+      "_id": "RtG3NMMAbKJfiCYR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.RtG3NMMAbKJfiCYR"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Lone Acacia Sentinel",
+      "_id": "PCeuyI5gfyGKT6mh",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.PCeuyI5gfyGKT6mh"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Thunderous Redwood",
+      "_id": "MT9W4EWRV9yWOOaj",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.MT9W4EWRV9yWOOaj"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Frosted Pine Blossom",
+      "_id": "F07FtUMLIpnFvkKV",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.F07FtUMLIpnFvkKV"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Copper Thorn",
+      "_id": "0AoBQBhZx8Pvy4Gn",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.0AoBQBhZx8Pvy4Gn"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Echoing Stoneroot",
+      "_id": "fx19hkVIbIsBtuz5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.fx19hkVIbIsBtuz5"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Dusklight Jackal",
+      "_id": "u86xbv1VyyoUIqUW",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.u86xbv1VyyoUIqUW"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Steel Shadow Reed",
+      "_id": "9AMeMg7XUeI615Rc",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.9AMeMg7XUeI615Rc"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Golden Firethorn",
+      "_id": "HqUBq0wThFTRHErv",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.HqUBq0wThFTRHErv"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Rippled Birch Shade",
+      "_id": "haGiWkrsWmH455Ko",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.haGiWkrsWmH455Ko"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Twisting Vine",
+      "_id": "vBLIeCJvcvZJA27y",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.vBLIeCJvcvZJA27y"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Ironbark Fang",
+      "_id": "qJ60ICm96ym9DTYQ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.qJ60ICm96ym9DTYQ"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Wandering Cedar",
+      "_id": "D6q8S2zFyrETBssF",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.D6q8S2zFyrETBssF"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Shadowed Aspen",
+      "_id": "T7HAKeunxHzXuqaY",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.T7HAKeunxHzXuqaY"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Sunrise Acacia",
+      "_id": "gr8NLDz6B9sPyPm1",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.gr8NLDz6B9sPyPm1"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Echo Fang",
+      "_id": "JlYls0TCCjwDJE1Z",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.JlYls0TCCjwDJE1Z"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Dusk Pine",
+      "_id": "FKDhAaXLx5vCrlEe",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.FKDhAaXLx5vCrlEe"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Silverthorn",
+      "_id": "Fh9fe8A9oZDHSNPf",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.Fh9fe8A9oZDHSNPf"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Quiet Elephant",
+      "_id": "LnUv6pTWgvUBijUN",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.LnUv6pTWgvUBijUN"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Ironthorn Bloom",
+      "_id": "GxCdGohfeRJ55kVx",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.GxCdGohfeRJ55kVx"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Cinder Reed",
+      "_id": "L3veF7qEBpo2Lz4H",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OqnFnDsL8JGTgMfk.L3veF7qEBpo2Lz4H"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "zLLzTj4D5j3oo0Tz",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.llfjFdESQOrLgVvm",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "OqnFnDsL8JGTgMfk",
+  "sort": 0,
+  "_key": "!tables!OqnFnDsL8JGTgMfk"
+}

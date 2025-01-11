@@ -1,0 +1,865 @@
+{
+  "name": "Elf Last Name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "text": "Windrider",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "FySpLAhqhR9d9JsC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.FySpLAhqhR9d9JsC"
+    },
+    {
+      "type": "text",
+      "text": "Nightshade",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "YV3nlBsMFeUVuZeN",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.YV3nlBsMFeUVuZeN"
+    },
+    {
+      "type": "text",
+      "text": "Moonwhisper",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "hOU8iIiXxfTxNRj9",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.hOU8iIiXxfTxNRj9"
+    },
+    {
+      "type": "text",
+      "text": "Silverleaf",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "CSOPH6bxXge2X5LD",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.CSOPH6bxXge2X5LD"
+    },
+    {
+      "type": "text",
+      "text": "Starborn",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ELBVnxYznLIbR7p5",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.ELBVnxYznLIbR7p5"
+    },
+    {
+      "type": "text",
+      "text": "Evergreen",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "c4vB692ZtEftXpNG",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.c4vB692ZtEftXpNG"
+    },
+    {
+      "type": "text",
+      "text": "Frostbloom",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "65ws3PvAbUELnmr6",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.65ws3PvAbUELnmr6"
+    },
+    {
+      "type": "text",
+      "text": "Stormrider",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Jc2Rz8afFkj6m1na",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.Jc2Rz8afFkj6m1na"
+    },
+    {
+      "type": "text",
+      "text": "Lightfoot",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "BEPGKyxxtygQ8RMr",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.BEPGKyxxtygQ8RMr"
+    },
+    {
+      "type": "text",
+      "text": "Swiftarrow",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "QeBHAKNtra1V07h4",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.QeBHAKNtra1V07h4"
+    },
+    {
+      "type": "text",
+      "text": "Moonshadow",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "D2AggZKAVtcKKEcz",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.D2AggZKAVtcKKEcz"
+    },
+    {
+      "type": "text",
+      "text": "Frostmane",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "FWtbnTPRrd4m9fS7",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.FWtbnTPRrd4m9fS7"
+    },
+    {
+      "type": "text",
+      "text": "Leafsong",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "QuQcl9CjJXkxhkKD",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.QuQcl9CjJXkxhkKD"
+    },
+    {
+      "type": "text",
+      "text": "Dawnbreaker",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "7YS8Fek66kdFC07P",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.7YS8Fek66kdFC07P"
+    },
+    {
+      "type": "text",
+      "text": "Swiftwind",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "cMaRbwpfRt2iHDWI",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.cMaRbwpfRt2iHDWI"
+    },
+    {
+      "type": "text",
+      "text": "Fireheart",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "hx4LJYBP3QD7QMKq",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.hx4LJYBP3QD7QMKq"
+    },
+    {
+      "type": "text",
+      "text": "Silvermane",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "c8kZApKyljmxtk5R",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.c8kZApKyljmxtk5R"
+    },
+    {
+      "type": "text",
+      "text": "Morningstar",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "7r60Y1Vh50BnF0ym",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.7r60Y1Vh50BnF0ym"
+    },
+    {
+      "type": "text",
+      "text": "Whisperwind",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ygboM7BXZRL0mpEg",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.ygboM7BXZRL0mpEg"
+    },
+    {
+      "type": "text",
+      "text": "Nightfall",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "dtUX58ouOcMuxhUY",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.dtUX58ouOcMuxhUY"
+    },
+    {
+      "type": "text",
+      "text": "Sunfire",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "IUu19U5nAEsmKgnK",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.IUu19U5nAEsmKgnK"
+    },
+    {
+      "type": "text",
+      "text": "Windchaser",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "TL22vxuKs4CG4DOo",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.TL22vxuKs4CG4DOo"
+    },
+    {
+      "type": "text",
+      "text": "Shadowleaf",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "pcB5cURwSAU93qyS",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.pcB5cURwSAU93qyS"
+    },
+    {
+      "type": "text",
+      "text": "Starfury",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Y8R1ou1KsFgyrxXv",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.Y8R1ou1KsFgyrxXv"
+    },
+    {
+      "type": "text",
+      "text": "Stormcaller",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "z8rkVoWca9pKJOsm",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.z8rkVoWca9pKJOsm"
+    },
+    {
+      "type": "text",
+      "text": "Brightwing",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "BCat8FJo1TRLZpaQ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.BCat8FJo1TRLZpaQ"
+    },
+    {
+      "type": "text",
+      "text": "Moonblade",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "56y0DROU6CYXdRVM",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.56y0DROU6CYXdRVM"
+    },
+    {
+      "type": "text",
+      "text": "Shadowstrike",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "wgOJ24ISuFyCd2p7",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.wgOJ24ISuFyCd2p7"
+    },
+    {
+      "type": "text",
+      "text": "Silversong",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "INtVhZlKdANvjGqP",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.INtVhZlKdANvjGqP"
+    },
+    {
+      "type": "text",
+      "text": "Ravenwood",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "D628Lpq7eDKJDDwq",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.D628Lpq7eDKJDDwq"
+    },
+    {
+      "type": "text",
+      "text": "Wildrunner",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "0qLPqmOkUWcr8Ppn",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.0qLPqmOkUWcr8Ppn"
+    },
+    {
+      "type": "text",
+      "text": "Duskwalker",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "VJSDkSnxNVT4WT78",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.VJSDkSnxNVT4WT78"
+    },
+    {
+      "type": "text",
+      "text": "Stargazer",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ODon6pJgmPfrp0id",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.ODon6pJgmPfrp0id"
+    },
+    {
+      "type": "text",
+      "text": "Moonbrook",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ZGcdbxGHzF5kcNlg",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.ZGcdbxGHzF5kcNlg"
+    },
+    {
+      "type": "text",
+      "text": "Mistral",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "CcHr6jAhB5h2ZbTF",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.CcHr6jAhB5h2ZbTF"
+    },
+    {
+      "type": "text",
+      "text": "Whitestar",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "RTrx1ei9q4iKltvk",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.RTrx1ei9q4iKltvk"
+    },
+    {
+      "type": "text",
+      "text": "Dawnrider",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "cXVZlUC4wyzYVIMA",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.cXVZlUC4wyzYVIMA"
+    },
+    {
+      "type": "text",
+      "text": "Moonstone",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "aZ06HxicCA4XzhM4",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.aZ06HxicCA4XzhM4"
+    },
+    {
+      "type": "text",
+      "text": "Firethorn",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "EFeMPYcRHz6TRfcp",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.EFeMPYcRHz6TRfcp"
+    },
+    {
+      "type": "text",
+      "text": "Shadowvale",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "iTsRbtoXUYnqY81E",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.iTsRbtoXUYnqY81E"
+    },
+    {
+      "type": "text",
+      "text": "Goldleaf",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "YkqHBAoJcjT2MP7t",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.YkqHBAoJcjT2MP7t"
+    },
+    {
+      "type": "text",
+      "text": "Frostwillow",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "n9GsUpDvogfZOclX",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.n9GsUpDvogfZOclX"
+    },
+    {
+      "type": "text",
+      "text": "Hawkflight",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "WHoVRdDZh0DzDWnO",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.WHoVRdDZh0DzDWnO"
+    },
+    {
+      "type": "text",
+      "text": "Starseeker",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "mw71N1nvtl05euNv",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.mw71N1nvtl05euNv"
+    },
+    {
+      "type": "text",
+      "text": "Moonlily",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "tbhTXNIm8SMHxXVz",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.tbhTXNIm8SMHxXVz"
+    },
+    {
+      "type": "text",
+      "text": "Elmshade",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "RNJNtaK6GB6yf9cS",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.RNJNtaK6GB6yf9cS"
+    },
+    {
+      "type": "text",
+      "text": "Nightglade",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Z3RpLsWTxQAsdlib",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.Z3RpLsWTxQAsdlib"
+    },
+    {
+      "type": "text",
+      "text": "Silverbrook",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "lDvaje7TxC28I5kM",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.lDvaje7TxC28I5kM"
+    },
+    {
+      "type": "text",
+      "text": "Starweaver",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Ct6FTU3F8mKZe4Im",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.Ct6FTU3F8mKZe4Im"
+    },
+    {
+      "type": "text",
+      "text": "Glimmerwind",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "wopEHrbuHLJS0CYg",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.wopEHrbuHLJS0CYg"
+    },
+    {
+      "type": "text",
+      "text": "Brightdawn",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "vjLOFn3pbZKDJBD2",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.vjLOFn3pbZKDJBD2"
+    },
+    {
+      "type": "text",
+      "text": "Thornfield",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "VLYfS1BY6G72nUwA",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yC31uFuuJbZZTvO3.VLYfS1BY6G72nUwA"
+    }
+  ],
+  "formula": "1d52",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.cEMT2yQSkVWSqkEP"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.URgEZSF5K5ymnMFv",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "folder": "aB7umNK9URM3DM2s",
+  "_id": "yC31uFuuJbZZTvO3",
+  "sort": 0,
+  "_key": "!tables!yC31uFuuJbZZTvO3"
+}

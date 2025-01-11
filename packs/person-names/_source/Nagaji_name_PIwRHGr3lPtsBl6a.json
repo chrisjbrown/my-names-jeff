@@ -1,0 +1,779 @@
+{
+  "name": "Nagaji name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Akarin",
+      "_id": "i4cDrgWZ0F1BBjjN",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.i4cDrgWZ0F1BBjjN"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Bishara",
+      "_id": "mS8WghmZDysI40oC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.mS8WghmZDysI40oC"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Charika",
+      "_id": "wzVhbrjeEAG63HH8",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.wzVhbrjeEAG63HH8"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Dhanis",
+      "_id": "Uy0xX8rO9hYULjtH",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.Uy0xX8rO9hYULjtH"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Ekasha",
+      "_id": "uo7CIQnkHPQO24Up",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.uo7CIQnkHPQO24Up"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Fenyar",
+      "_id": "Q8uNQKByoBkW2V3M",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.Q8uNQKByoBkW2V3M"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Garvata",
+      "_id": "UDGsyNQw2009cPFf",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.UDGsyNQw2009cPFf"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Hassira",
+      "_id": "f6LJHzQc0wwGsyvt",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.f6LJHzQc0wwGsyvt"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Ishami",
+      "_id": "OA80ZZxALHXnb0rF",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.OA80ZZxALHXnb0rF"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Janaka",
+      "_id": "2LWvKuTJagwlg8qu",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.2LWvKuTJagwlg8qu"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Kharil",
+      "_id": "rEhUgXmQOpunwoz9",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.rEhUgXmQOpunwoz9"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Lakiri",
+      "_id": "zb3fBnVU9r8LdoeP",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.zb3fBnVU9r8LdoeP"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Manesh",
+      "_id": "ZEDGllekV6rYMgv1",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.ZEDGllekV6rYMgv1"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Nalori",
+      "_id": "GFEe9UU5cBHYllGC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.GFEe9UU5cBHYllGC"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Ovika",
+      "_id": "s6ZMvNj9D6rSXhvE",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.s6ZMvNj9D6rSXhvE"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Paryon",
+      "_id": "v97dw5vCgKaK3TwZ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.v97dw5vCgKaK3TwZ"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Quisira",
+      "_id": "oQXIZ4KxEBg6UEPL",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.oQXIZ4KxEBg6UEPL"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Ravanik",
+      "_id": "C7iHdCRbT85JFdUX",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.C7iHdCRbT85JFdUX"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Shavina",
+      "_id": "MkU37JoMaCFqlC5H",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.MkU37JoMaCFqlC5H"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Takir",
+      "_id": "eTT3hoAe3lkSwkzA",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.eTT3hoAe3lkSwkzA"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Ulona",
+      "_id": "LxB24UQaU0ZEw2jc",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.LxB24UQaU0ZEw2jc"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Varnesh",
+      "_id": "Gih6ICOgY7porQUU",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.Gih6ICOgY7porQUU"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Weshal",
+      "_id": "2cQFbQGAkVLCNTqT",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.2cQFbQGAkVLCNTqT"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Xanari",
+      "_id": "lf11vYkCoZLRsXGf",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.lf11vYkCoZLRsXGf"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Yashira",
+      "_id": "ilQsjz5kvDesOalJ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.ilQsjz5kvDesOalJ"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Zalyar",
+      "_id": "fHcvWZIm3KH15dbH",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.fHcvWZIm3KH15dbH"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Adirak",
+      "_id": "Qc1Fg0jItzKPxcTP",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.Qc1Fg0jItzKPxcTP"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Balira",
+      "_id": "2YqoeG2L6FAm6Qc2",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.2YqoeG2L6FAm6Qc2"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Cholasi",
+      "_id": "fZ2BbS2Dp3m7jM1I",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.fZ2BbS2Dp3m7jM1I"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Desari",
+      "_id": "VdLCUBhEfZyOHJG4",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.VdLCUBhEfZyOHJG4"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Eshak",
+      "_id": "lqmEAMesL112UFY9",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.lqmEAMesL112UFY9"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Farovik",
+      "_id": "FXkY20SIriuFiEHu",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.FXkY20SIriuFiEHu"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Galina",
+      "_id": "0vM5CKi3e88nlH9x",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.0vM5CKi3e88nlH9x"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Hasira",
+      "_id": "AKOEqp2OO5mQqLBT",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.AKOEqp2OO5mQqLBT"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Indok",
+      "_id": "CuiLv95Wa2JWZV2f",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.CuiLv95Wa2JWZV2f"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Jalvik",
+      "_id": "sFBajbNWqHeCUQoB",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.sFBajbNWqHeCUQoB"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Kovar",
+      "_id": "NVQufCZosKMSpgZm",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.NVQufCZosKMSpgZm"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Lashik",
+      "_id": "QzXSgr2aSeknNtap",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.QzXSgr2aSeknNtap"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Mishaka",
+      "_id": "714AbgynZVeXOjpO",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.714AbgynZVeXOjpO"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Nolira",
+      "_id": "Z47wfGFDT4jIO9jo",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.Z47wfGFDT4jIO9jo"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Oranesh",
+      "_id": "fkFdTHyBBODB8w7N",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.fkFdTHyBBODB8w7N"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Pavrik",
+      "_id": "1Q57niFGw2b9uWGT",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.1Q57niFGw2b9uWGT"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Qisala",
+      "_id": "TY5cKlXEXMCdcDxH",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.TY5cKlXEXMCdcDxH"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Ravira",
+      "_id": "n0bvuI0Rzw5VbGhh",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.n0bvuI0Rzw5VbGhh"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Silorin",
+      "_id": "0qO87Y5dj54UiTXH",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.0qO87Y5dj54UiTXH"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Tivalar",
+      "_id": "Sh7ZnsdP16lecsLC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.Sh7ZnsdP16lecsLC"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Ushani",
+      "_id": "XID4SlOegyURXdcY",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.XID4SlOegyURXdcY"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Vynak",
+      "_id": "EhoDj0RXCFvAbRH4",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.EhoDj0RXCFvAbRH4"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Weshar",
+      "_id": "jeMc1FRZO2glNB5n",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.jeMc1FRZO2glNB5n"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Zynakar",
+      "_id": "erj2o81b8Q75wUvh",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!PIwRHGr3lPtsBl6a.erj2o81b8Q75wUvh"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "wexUsUCLUDc3uyIN",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.ZYCRwwXFxPRPonWA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "PIwRHGr3lPtsBl6a",
+  "sort": 0,
+  "_key": "!tables!PIwRHGr3lPtsBl6a"
+}

@@ -1,0 +1,779 @@
+{
+  "name": "Ratfolk name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Azzik",
+      "_id": "VfQZZU7LMyIhqW35",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.VfQZZU7LMyIhqW35"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Binti",
+      "_id": "vqobWI5pJoHt8LQu",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.vqobWI5pJoHt8LQu"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Chirok",
+      "_id": "jQ0KSA7QiJa4P2l7",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.jQ0KSA7QiJa4P2l7"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Dikkit",
+      "_id": "QUnYbJUcdCr3oZro",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.QUnYbJUcdCr3oZro"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Ezri",
+      "_id": "VpH3KW8NVtyciKRW",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.VpH3KW8NVtyciKRW"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Fiks",
+      "_id": "Idj2NK11M5EAlH6E",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.Idj2NK11M5EAlH6E"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Guzzik",
+      "_id": "VH0M7BOE2I5hMJG7",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.VH0M7BOE2I5hMJG7"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Hittik",
+      "_id": "WId7uKIxn5pIfxyl",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.WId7uKIxn5pIfxyl"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Inkis",
+      "_id": "o9psKZayZWH6cgZu",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.o9psKZayZWH6cgZu"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Jiff",
+      "_id": "wX6bcJzhhTkKUYO3",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.wX6bcJzhhTkKUYO3"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Knizzo",
+      "_id": "XGIKCBiPv1IvXxwT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.XGIKCBiPv1IvXxwT"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Lazik",
+      "_id": "M7AcAgoAv6gDYuUk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.M7AcAgoAv6gDYuUk"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Mizzi",
+      "_id": "KX4LvUnEvKwVs1h5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.KX4LvUnEvKwVs1h5"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Narg",
+      "_id": "camNyEvjRHQc7zMK",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.camNyEvjRHQc7zMK"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Ozzit",
+      "_id": "39QOIstfPx8AM1z7",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.39QOIstfPx8AM1z7"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Pikki",
+      "_id": "aAoHmuk78EBQb9Vk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.aAoHmuk78EBQb9Vk"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Quiss",
+      "_id": "mFHZRbBgrLqKlvht",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.mFHZRbBgrLqKlvht"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Rokni",
+      "_id": "dDDDhkk2rUgBIWv5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.dDDDhkk2rUgBIWv5"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Skit",
+      "_id": "5vBAawEVCPwT9F6I",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.5vBAawEVCPwT9F6I"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Tazzo",
+      "_id": "BKym9sAvUjJT3yUw",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.BKym9sAvUjJT3yUw"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Urrik",
+      "_id": "w58mc6zFBXAqiDtJ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.w58mc6zFBXAqiDtJ"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Vexin",
+      "_id": "RraRxZKr99kjr9D6",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.RraRxZKr99kjr9D6"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Wikko",
+      "_id": "EaHODrPaxkGqo1mo",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.EaHODrPaxkGqo1mo"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Xinni",
+      "_id": "LRa4UnZ8tgHViFgt",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.LRa4UnZ8tgHViFgt"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Yessik",
+      "_id": "0YJP6ywOIskGgHfE",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.0YJP6ywOIskGgHfE"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Ziknar",
+      "_id": "2Q6nk0kFEFG6VWNs",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.2Q6nk0kFEFG6VWNs"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Akkit",
+      "_id": "kUDJpkVAmMqNa3YT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.kUDJpkVAmMqNa3YT"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Bazzik",
+      "_id": "LSxyJYwYjzY57TQP",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.LSxyJYwYjzY57TQP"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Chit",
+      "_id": "VgWw6GmieU3a3nPV",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.VgWw6GmieU3a3nPV"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Dizzi",
+      "_id": "qieaELKW0ukNekrL",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.qieaELKW0ukNekrL"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Ennik",
+      "_id": "4dZOg50RnrbTvu6q",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.4dZOg50RnrbTvu6q"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Fritt",
+      "_id": "OJpYzMiAr0TqbkIg",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.OJpYzMiAr0TqbkIg"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Grekki",
+      "_id": "fWTC8nzUbPzySjNm",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.fWTC8nzUbPzySjNm"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Hox",
+      "_id": "wrsyUMGLFbqO5tPV",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.wrsyUMGLFbqO5tPV"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Ikrit",
+      "_id": "WcDVdOp1ndDk0fpf",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.WcDVdOp1ndDk0fpf"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Jasko",
+      "_id": "ERXpYEy1Fi7ltoVe",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.ERXpYEy1Fi7ltoVe"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Krinn",
+      "_id": "dpgwFYiJqunmGiKS",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.dpgwFYiJqunmGiKS"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Lixit",
+      "_id": "nYGpWrk1gVzIFUAj",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.nYGpWrk1gVzIFUAj"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Moxit",
+      "_id": "7sXqob2QoGQfkwxw",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.7sXqob2QoGQfkwxw"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Nix",
+      "_id": "NT9ddTXZ0ZlyEISg",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.NT9ddTXZ0ZlyEISg"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Orrik",
+      "_id": "YYBBTE7qxmkwAsDW",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.YYBBTE7qxmkwAsDW"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Pix",
+      "_id": "at2Rq0U0cqu5i2yU",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.at2Rq0U0cqu5i2yU"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Quirrin",
+      "_id": "pu7YIHe040SMTWbE",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.pu7YIHe040SMTWbE"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Ressi",
+      "_id": "tK4DnLTRsrWYhglo",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.tK4DnLTRsrWYhglo"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Skidik",
+      "_id": "ATZsuKdbZ3Nxoc8M",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.ATZsuKdbZ3Nxoc8M"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Tikkat",
+      "_id": "eDoUXQVn7mET5vBr",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.eDoUXQVn7mET5vBr"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Uzik",
+      "_id": "J9daUmOivLkneckH",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.J9daUmOivLkneckH"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Viknir",
+      "_id": "89pDP22Hm6bMyi9T",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.89pDP22Hm6bMyi9T"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Wiskit",
+      "_id": "8lwP71ExDRKjwuO5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.8lwP71ExDRKjwuO5"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Zerik",
+      "_id": "WwrQtK96todODNsv",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FvtKjVqcJkBhBJ9t.WwrQtK96todODNsv"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "7sSX5CMbA6cDxrJv",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.Jmwr3EKUkhVYhQyf",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "FvtKjVqcJkBhBJ9t",
+  "sort": 0,
+  "_key": "!tables!FvtKjVqcJkBhBJ9t"
+}

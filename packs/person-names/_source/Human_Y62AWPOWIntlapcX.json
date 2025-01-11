@@ -1,0 +1,22 @@
+{
+  "name": "Human",
+  "sorting": "a",
+  "folder": "QP5ZG0grH789w8zC",
+  "type": "RollTable",
+  "_id": "Y62AWPOWIntlapcX",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610044281,
+    "modifiedTime": 1736610044281,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "_key": "!folders!Y62AWPOWIntlapcX"
+}
