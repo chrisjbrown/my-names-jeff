@@ -1,22 +1,7 @@
-2025/01/11-14:52:55.901157 30d02d000 Recovering log #40
-2025/01/11-14:52:55.904055 30d02d000 Level-0 table #42: started
-2025/01/11-14:52:55.904618 30d02d000 Level-0 table #42: 33237 bytes OK
-2025/01/11-14:52:55.904972 30d02d000 Delete type=3 #39
-2025/01/11-14:52:55.905019 30d02d000 Delete type=0 #40
-2025/01/11-14:52:58.768997 305f9f000 Compacting 1@0 + 1@1 files
-2025/01/11-14:52:58.772084 305f9f000 Generated table #44@0: 1500 keys, 133538 bytes
-2025/01/11-14:52:58.772101 305f9f000 Compacted 1@0 + 1@1 files => 133538 bytes
-2025/01/11-14:52:58.772177 305f9f000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/11-15:49:12.109559 305f9f000 Level-0 table #46: started
-2025/01/11-15:49:12.111549 305f9f000 Level-0 table #46: 74496 bytes OK
-2025/01/11-15:49:12.112189 305f9f000 Delete type=2 #32
-2025/01/11-15:49:12.114093 305f9f000 Delete type=0 #43
-2025/01/11-15:49:12.117819 305f9f000 Delete type=2 #42
-2025/01/11-15:49:12.119895 305f9f000 Manual compaction at level-0 from '!folders!01XnESWatM49ohAl' @ 72057594037927935 : 1 .. '!tables.results!xShWEo6uULMnplxG.zKBf2rCsronDXoxg' @ 0 : 0; will stop at '!tables.results!x5nk8UmFvAM71Msf.ywDyPDabSJ7V31g6' @ 3552 : 1
-2025/01/11-15:49:12.119902 305f9f000 Compacting 1@0 + 1@1 files
-2025/01/11-15:49:12.122743 305f9f000 Generated table #47@0: 2225 keys, 191898 bytes
-2025/01/11-15:49:12.122750 305f9f000 Compacted 1@0 + 1@1 files => 191898 bytes
-2025/01/11-15:49:12.122790 305f9f000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/11-15:49:12.122844 305f9f000 Delete type=2 #44
-2025/01/11-15:49:12.123177 305f9f000 Delete type=2 #46
-2025/01/11-15:49:12.123808 305f9f000 Manual compaction at level-0 from '!tables.results!x5nk8UmFvAM71Msf.ywDyPDabSJ7V31g6' @ 3552 : 1 .. '!tables.results!xShWEo6uULMnplxG.zKBf2rCsronDXoxg' @ 0 : 0; will stop at (end)
+2025/01/11-16:05:35.002377 30b824000 Recovering log #50
+2025/01/11-16:05:35.002685 30b824000 Delete type=3 #48
+2025/01/11-16:05:35.002722 30b824000 Delete type=0 #50
+2025/01/11-16:06:08.337529 305f9f000 Level-0 table #56: started
+2025/01/11-16:06:08.337651 305f9f000 Level-0 table #56: 0 bytes OK
+2025/01/11-16:06:08.338084 305f9f000 Delete type=0 #54
+2025/01/11-16:06:08.338774 305f9f000 Manual compaction at level-0 from '!folders!01XnESWatM49ohAl' @ 72057594037927935 : 1 .. '!tables.results!xShWEo6uULMnplxG.zKBf2rCsronDXoxg' @ 0 : 0; will stop at (end)
