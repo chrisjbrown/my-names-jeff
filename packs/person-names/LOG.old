@@ -1,14 +1,6 @@
-2025/01/11-16:20:17.102851 30d02d000 Recovering log #55
-2025/01/11-16:20:17.103120 30d02d000 Delete type=3 #53
-2025/01/11-16:20:17.103159 30d02d000 Delete type=0 #55
-2025/01/11-16:21:08.692781 305f9f000 Level-0 table #60: started
-2025/01/11-16:21:08.693069 305f9f000 Level-0 table #60: 637 bytes OK
-2025/01/11-16:21:08.693235 305f9f000 Delete type=0 #58
-2025/01/11-16:21:08.693872 305f9f000 Manual compaction at level-0 from '!folders!01XnESWatM49ohAl' @ 72057594037927935 : 1 .. '!tables.results!xShWEo6uULMnplxG.zKBf2rCsronDXoxg' @ 0 : 0; will stop at '!tables!QFQ1xPqCuYi7JmNF' @ 4521 : 1
-2025/01/11-16:21:08.693877 305f9f000 Compacting 1@0 + 1@1 files
-2025/01/11-16:21:08.696072 305f9f000 Generated table #61@0: 2176 keys, 189098 bytes
-2025/01/11-16:21:08.696079 305f9f000 Compacted 1@0 + 1@1 files => 189098 bytes
-2025/01/11-16:21:08.696118 305f9f000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/11-16:21:08.696156 305f9f000 Delete type=2 #60
-2025/01/11-16:21:08.696245 305f9f000 Delete type=2 #52
-2025/01/11-16:21:08.696997 305f9f000 Manual compaction at level-0 from '!tables!QFQ1xPqCuYi7JmNF' @ 4521 : 1 .. '!tables.results!xShWEo6uULMnplxG.zKBf2rCsronDXoxg' @ 0 : 0; will stop at (end)
+2025/01/11-16:40:02.755664 30e64f000 Log #6: 0 ops saved to Table #65 OK
+2025/01/11-16:40:02.755751 30e64f000 Archiving /Users/christopherbrown/Library/Application Support/FoundryVTT/Data/modules/my-names-jeff/packs/person-names/000006.log: OK
+2025/01/11-16:40:02.755772 30e64f000 Log #64: 0 ops saved to Table #66 OK
+2025/01/11-16:40:02.755816 30e64f000 Archiving /Users/christopherbrown/Library/Application Support/FoundryVTT/Data/modules/my-names-jeff/packs/person-names/000064.log: OK
+2025/01/11-16:40:02.755941 30e64f000 Archiving /Users/christopherbrown/Library/Application Support/FoundryVTT/Data/modules/my-names-jeff/packs/person-names/MANIFEST-000062: OK
+2025/01/11-16:40:02.756186 30e64f000 **** Repaired leveldb /Users/christopherbrown/Library/Application Support/FoundryVTT/Data/modules/my-names-jeff/packs/person-names; recovered 0 files; 0 bytes. Some data may have been lost. ****
