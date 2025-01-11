@@ -13,7 +13,7 @@ export default class RenamerApplication extends SvelteApplication
    {
       return foundry.utils.mergeObject(super.defaultOptions, {
          title: 'TemplateESM.title',
-         width: 300,
+         width: 'auto',
 
          svelte: {
             class: RenamerApplicationShell,

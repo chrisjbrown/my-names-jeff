@@ -94,6 +94,9 @@
    }
 
    .list {
+      display: grid;
+      grid-template-columns: repeat(3, auto);
+      gap: 5px;
       button {
          margin-top: 5px;
          white-space: nowrap;
