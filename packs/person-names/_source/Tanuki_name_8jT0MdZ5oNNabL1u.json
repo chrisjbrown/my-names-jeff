@@ -1,0 +1,779 @@
+{
+  "name": "Tanuki name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Akiko",
+      "_id": "7c50t0gnAVqFvoRT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.7c50t0gnAVqFvoRT"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Bunta",
+      "_id": "vplQmHg4CrI5PNd7",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.vplQmHg4CrI5PNd7"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Chitose",
+      "_id": "s0LYFBpcPWKrWsG5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.s0LYFBpcPWKrWsG5"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Daiki",
+      "_id": "b8oa7q85G69WUv4z",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.b8oa7q85G69WUv4z"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Etsuko",
+      "_id": "Jzjb7CkpDeZ2rLsZ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.Jzjb7CkpDeZ2rLsZ"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Fumiko",
+      "_id": "Zg54u6o38un9qVY2",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.Zg54u6o38un9qVY2"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Genji",
+      "_id": "8KkMikRkBDRb1W0V",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.8KkMikRkBDRb1W0V"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Hikaru",
+      "_id": "vG7AIks8vgfNZRlA",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.vG7AIks8vgfNZRlA"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Isamu",
+      "_id": "UI0Gs8NfDLYni7td",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.UI0Gs8NfDLYni7td"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Junko",
+      "_id": "QCAZelIBEp9qyWNS",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.QCAZelIBEp9qyWNS"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Kenta",
+      "_id": "qu6yFCWHuugDMc5K",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.qu6yFCWHuugDMc5K"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Kaoru",
+      "_id": "zGWGi4Hp9HbbQ8fm",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.zGWGi4Hp9HbbQ8fm"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Masaru",
+      "_id": "b0SCdiLKHMepOhRk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.b0SCdiLKHMepOhRk"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Nobuko",
+      "_id": "2ySZn6VErNSanm7u",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.2ySZn6VErNSanm7u"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Osamu",
+      "_id": "VNmNXtvF4rgyk7ZF",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.VNmNXtvF4rgyk7ZF"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Rina",
+      "_id": "jJmjn5gdrSj4VhJn",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.jJmjn5gdrSj4VhJn"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Shingo",
+      "_id": "M9LByNfoetREIuwg",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.M9LByNfoetREIuwg"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Takumi",
+      "_id": "4sRUKGQGeevsNuIL",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.4sRUKGQGeevsNuIL"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Umeko",
+      "_id": "VYxKnTRMhESNmola",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.VYxKnTRMhESNmola"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Yukio",
+      "_id": "kokxkFGFpCHzJxe2",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.kokxkFGFpCHzJxe2"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Aiko",
+      "_id": "vp7btO6epeZXHHMs",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.vp7btO6epeZXHHMs"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Benjiro",
+      "_id": "nGeUPaEINw85fmhC",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.nGeUPaEINw85fmhC"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Chikara",
+      "_id": "oLn3wf2NqCpmbz6S",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.oLn3wf2NqCpmbz6S"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Daisuke",
+      "_id": "SYW4LAOniPYxp8k8",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.SYW4LAOniPYxp8k8"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Emiko",
+      "_id": "Zszz0JSUiCTBaw1T",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.Zszz0JSUiCTBaw1T"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Fujio",
+      "_id": "oK44B942IlnqoRur",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.oK44B942IlnqoRur"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Goro",
+      "_id": "PDyAHSzBvWLG6UBk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.PDyAHSzBvWLG6UBk"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Hanako",
+      "_id": "poQ44zTY9W9edKqF",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.poQ44zTY9W9edKqF"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Ichika",
+      "_id": "t7xWtQvHxi2dAfn1",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.t7xWtQvHxi2dAfn1"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Jomei",
+      "_id": "8awRWQbSTRQaHyYo",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.8awRWQbSTRQaHyYo"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Kiyoshi",
+      "_id": "x8R8sEUxrWmpZjxa",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.x8R8sEUxrWmpZjxa"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Leiko",
+      "_id": "aODKsnbcfn9vCPad",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.aODKsnbcfn9vCPad"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Mikio",
+      "_id": "HyauUnDrWkVqVaxm",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.HyauUnDrWkVqVaxm"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Noriko",
+      "_id": "TTOjzai6HImeZtiV",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.TTOjzai6HImeZtiV"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Osamu",
+      "_id": "lN6tDXEbdtNJFuRy",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.lN6tDXEbdtNJFuRy"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Rikuto",
+      "_id": "GXuygOvWjAIpvcQC",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.GXuygOvWjAIpvcQC"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Sayuri",
+      "_id": "8S4PdH918HhfDaLi",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.8S4PdH918HhfDaLi"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Tomio",
+      "_id": "gqpQfJ9lLzP96T3n",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.gqpQfJ9lLzP96T3n"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Ume",
+      "_id": "7crZkFkM891eioJu",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.7crZkFkM891eioJu"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Yoriko",
+      "_id": "FSSJ8splkpIXbDBw",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.FSSJ8splkpIXbDBw"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Arata",
+      "_id": "qhDGvPjahgeNNoK1",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.qhDGvPjahgeNNoK1"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Chiyo",
+      "_id": "w4UCgMZ1bJ3WxZu4",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.w4UCgMZ1bJ3WxZu4"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Eiji",
+      "_id": "h0AgMLvWS8cHl8GF",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.h0AgMLvWS8cHl8GF"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Fuyu",
+      "_id": "yGlhqm8IwfGQ7pec",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.yGlhqm8IwfGQ7pec"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Haruto",
+      "_id": "zItp3uDPMTXVTjBv",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.zItp3uDPMTXVTjBv"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Kohana",
+      "_id": "lFnaU9Gg2ZPmEBTa",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.lFnaU9Gg2ZPmEBTa"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Minoru",
+      "_id": "owQP5W61Apwx9sbc",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.owQP5W61Apwx9sbc"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Naoki",
+      "_id": "5IWyAYZ5jOLEmHIb",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.5IWyAYZ5jOLEmHIb"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Renji",
+      "_id": "7WuHqdEEsV1qJwQ5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.7WuHqdEEsV1qJwQ5"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Shiori",
+      "_id": "YI2ChJbreaK9Zx1e",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8jT0MdZ5oNNabL1u.YI2ChJbreaK9Zx1e"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "01XnESWatM49ohAl",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.j8RieCfeoa2zBLyF",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "8jT0MdZ5oNNabL1u",
+  "sort": 0,
+  "_key": "!tables!8jT0MdZ5oNNabL1u"
+}

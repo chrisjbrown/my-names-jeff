@@ -1,0 +1,779 @@
+{
+  "name": "Leshy name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Bramble of the Glade",
+      "_id": "izgZKGHXXDxb0jK3",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.izgZKGHXXDxb0jK3"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Whispering Petal",
+      "_id": "DCTLIXXX3DV3oPzK",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.DCTLIXXX3DV3oPzK"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Moss on the Breeze",
+      "_id": "DFCNu9rpLueRY88f",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.DFCNu9rpLueRY88f"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Thorn in Bloom",
+      "_id": "P8kWDJwIxYk3Yg54",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.P8kWDJwIxYk3Yg54"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Willow of Dawn",
+      "_id": "SQtELygnUYo88kfn",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.SQtELygnUYo88kfn"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Fern Among Shadows",
+      "_id": "LoIjGCMin4Q82co6",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.LoIjGCMin4Q82co6"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Root of the Meadow",
+      "_id": "PSH5lDsD50qQr00w",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.PSH5lDsD50qQr00w"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Golden Blossom",
+      "_id": "yLxUXU7EVdAP716a",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.yLxUXU7EVdAP716a"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Sprout of Starlight",
+      "_id": "jcYrbmneClzutVad",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.jcYrbmneClzutVad"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Sunlight on Dew",
+      "_id": "rEVCyTLikCtKM58v",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.rEVCyTLikCtKM58v"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Whisker of Ivy",
+      "_id": "JQhZRx95EgmEgp97",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.JQhZRx95EgmEgp97"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Shade Under Bark",
+      "_id": "gIbY6FPOjjmoGrzr",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.gIbY6FPOjjmoGrzr"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Glittering Thorn",
+      "_id": "TDfN1lzgJBIJHnfZ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.TDfN1lzgJBIJHnfZ"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Lily Among Stones",
+      "_id": "s1JsHj58TPhZGGLT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.s1JsHj58TPhZGGLT"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Dew on Petals",
+      "_id": "sn7YYeucFeqPMQAT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.sn7YYeucFeqPMQAT"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Ashes of the Grove",
+      "_id": "OR3o7gaqJNOvro9r",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.OR3o7gaqJNOvro9r"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Bloom in Frost",
+      "_id": "2u4tAL4PcdjTqQYE",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.2u4tAL4PcdjTqQYE"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Riverside Moss",
+      "_id": "QdhHaN8YQ7HDFKAT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.QdhHaN8YQ7HDFKAT"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Pebble Under Root",
+      "_id": "qXffth7c1UXzwnMJ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.qXffth7c1UXzwnMJ"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Frost on Thorns",
+      "_id": "6nlrI8W5M1ZZ8KgK",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.6nlrI8W5M1ZZ8KgK"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Clover in Shadow",
+      "_id": "I80IHKGCHE083l0S",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.I80IHKGCHE083l0S"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Star Among Blossoms",
+      "_id": "uZWOrzdrQsDsErTP",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.uZWOrzdrQsDsErTP"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Fern of the Glade",
+      "_id": "Lt8sDjgzLf57C4C8",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.Lt8sDjgzLf57C4C8"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Branch of Twilight",
+      "_id": "i7Fjba1fiTDLTVjG",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.i7Fjba1fiTDLTVjG"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Glow on Meadow",
+      "_id": "bAPVvrFQSOQhBpNx",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.bAPVvrFQSOQhBpNx"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Ivy of the Peaks",
+      "_id": "I373Q8WwnUI5o0zF",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.I373Q8WwnUI5o0zF"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Blossom Beneath Stars",
+      "_id": "D40zGypUywmATgBD",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.D40zGypUywmATgBD"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Root of Crystals",
+      "_id": "SZM4DKq6N1cLPamR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.SZM4DKq6N1cLPamR"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Sunlit Branch",
+      "_id": "tdbNaTXHth601IZe",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.tdbNaTXHth601IZe"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Thistle in the Wind",
+      "_id": "Flp0FAXNhYTJRuqT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.Flp0FAXNhYTJRuqT"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Golden Leaf",
+      "_id": "F3C814q5UjFkE6yc",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.F3C814q5UjFkE6yc"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Pine Beneath Sky",
+      "_id": "HL4EgeoZgBa3Qu6B",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.HL4EgeoZgBa3Qu6B"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Stream Between Roots",
+      "_id": "SXgpbZSa96U1wSOX",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.SXgpbZSa96U1wSOX"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Fungus Under Glow",
+      "_id": "s8F5M2sKVh8jQwdf",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.s8F5M2sKVh8jQwdf"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Rain on Bark",
+      "_id": "4UlhLmQKKPrbHBo0",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.4UlhLmQKKPrbHBo0"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Crag of Vines",
+      "_id": "Y0ly5W4fSSUd2SPF",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.Y0ly5W4fSSUd2SPF"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Snowy Blossom",
+      "_id": "OvE3e1klRslSDXpv",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.OvE3e1klRslSDXpv"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Stump Among Stones",
+      "_id": "qKiORhBP2mHUtF5O",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.qKiORhBP2mHUtF5O"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Branch in Bloom",
+      "_id": "xAEzAbaF1yXvdLOX",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.xAEzAbaF1yXvdLOX"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Petal on the Stream",
+      "_id": "2q0O011FQAzObPJI",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.2q0O011FQAzObPJI"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Shimmering Root",
+      "_id": "PNzgKhH6G2AuOd6S",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.PNzgKhH6G2AuOd6S"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Drift of Leaves",
+      "_id": "pYsOwFAxvC48cLpk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.pYsOwFAxvC48cLpk"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Glow of the Grove",
+      "_id": "h6tX5prqkZeqHAbP",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.h6tX5prqkZeqHAbP"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Meadowlit Branch",
+      "_id": "pJ7zOLbie1cd1xVF",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.pJ7zOLbie1cd1xVF"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Bark of Dawn",
+      "_id": "lJHo4QRriKCSwJUx",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.lJHo4QRriKCSwJUx"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Root of Twilight",
+      "_id": "AVWxMLGtab3XDV9M",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.AVWxMLGtab3XDV9M"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Cinder Among Ashes",
+      "_id": "OGZoeyNozySX9zfo",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.OGZoeyNozySX9zfo"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Frosted Vine",
+      "_id": "rpWLOgNeUT1MOx42",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.rpWLOgNeUT1MOx42"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Glade Under Stars",
+      "_id": "pddOAcKbyPuAuCKZ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.pddOAcKbyPuAuCKZ"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Sunset on Petals",
+      "_id": "Buz6NbL2vO5KcUbU",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!euXHHehI3T9FvVJU.Buz6NbL2vO5KcUbU"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "nHHvjUCG0qpaeOXP",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.PRaq4sxk1PtxA2Eq",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "euXHHehI3T9FvVJU",
+  "sort": 0,
+  "_key": "!tables!euXHHehI3T9FvVJU"
+}

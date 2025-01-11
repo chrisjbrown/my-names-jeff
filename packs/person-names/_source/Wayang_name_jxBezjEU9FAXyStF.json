@@ -1,0 +1,779 @@
+{
+  "name": "Wayang name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Putri Sang Penari",
+      "_id": "1gDArkIo9NnvjMrL",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.1gDArkIo9NnvjMrL"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Hakim Laut Dalam",
+      "_id": "KzwvYfZZRo2UYAcC",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.KzwvYfZZRo2UYAcC"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Raja Bayangan Gelap",
+      "_id": "qaIFxhhkGUfsufge",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.qaIFxhhkGUfsufge"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Adik Bulan Penuh",
+      "_id": "UUgScEpOa4EuyERN",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.UUgScEpOa4EuyERN"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Putri Cahaya Sumber",
+      "_id": "YSSu2ZOaL1MGnNw9",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.YSSu2ZOaL1MGnNw9"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Hakim Angin Lembut",
+      "_id": "ame9GU7quFKElceg",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.ame9GU7quFKElceg"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Raja Cermin Dunia",
+      "_id": "BCyy38NJTojZsiNA",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.BCyy38NJTojZsiNA"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Adik Angin Malam",
+      "_id": "LFaYTx1SAwuf1gCE",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.LFaYTx1SAwuf1gCE"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Putri Langit Pagi",
+      "_id": "0q9mHpV40SPJ3Ggj",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.0q9mHpV40SPJ3Ggj"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Hakim Cahaya Hening",
+      "_id": "j3PQGWiEf1zKLDH0",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.j3PQGWiEf1zKLDH0"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Raja Ombak Tenang",
+      "_id": "VJSXqM7sDrEmlbyr",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.VJSXqM7sDrEmlbyr"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Adik Hutan Misteri",
+      "_id": "ItRVAmkKeXhmtoG5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.ItRVAmkKeXhmtoG5"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Putri Bintang Senja",
+      "_id": "yW2KeZ6bEdWCY3CD",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.yW2KeZ6bEdWCY3CD"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Hakim Hujan Petir",
+      "_id": "JnG5kNlFIgiEz3WL",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.JnG5kNlFIgiEz3WL"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Raja Api Terang",
+      "_id": "Tmt7grTMDHu2Qssz",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.Tmt7grTMDHu2Qssz"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Adik Pencipta Ombak",
+      "_id": "ejUMINR5GdtMndjC",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.ejUMINR5GdtMndjC"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Putri Gerhana Bulan",
+      "_id": "dU9PuLJpcQLT75gG",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.dU9PuLJpcQLT75gG"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Hakim Lautan Dalam",
+      "_id": "FTcDneeGoQS6ItBU",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.FTcDneeGoQS6ItBU"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Raja Laut Hitam",
+      "_id": "BGQ1paq3XX36Jadi",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.BGQ1paq3XX36Jadi"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Adik Cinta Petir",
+      "_id": "VfR1dxzujB9LtF7j",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.VfR1dxzujB9LtF7j"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Putri Guntur Siang",
+      "_id": "GgnfiIzlKVllm9jO",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.GgnfiIzlKVllm9jO"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Hakim Bulan Tersenyum",
+      "_id": "pkiCCnMivcvyL45j",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.pkiCCnMivcvyL45j"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Raja Hutan Suci",
+      "_id": "6POH2mylRuFCxhFm",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.6POH2mylRuFCxhFm"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Adik Kupu-Kupu Pagi",
+      "_id": "zuW1ANNV11c1Pg5N",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.zuW1ANNV11c1Pg5N"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Putri Air Jernih",
+      "_id": "Hd0DegPuBBiJEt77",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.Hd0DegPuBBiJEt77"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Hakim Jantung Gunung",
+      "_id": "jzRyMI2e0OGOHyem",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.jzRyMI2e0OGOHyem"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Raja Badai Laut",
+      "_id": "nKw50nGusEYUmsyz",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.nKw50nGusEYUmsyz"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Adik Bulan Penuh",
+      "_id": "QEtQhbLeo7dzPETe",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.QEtQhbLeo7dzPETe"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Putri Angin Laut",
+      "_id": "jh0eK0dKIpDfkvw2",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.jh0eK0dKIpDfkvw2"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Hakim Matahari Terbenam",
+      "_id": "QUVausAkKKEdc6md",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.QUVausAkKKEdc6md"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Raja Hutan Api",
+      "_id": "sPdjzAwGNmYda9Ys",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.sPdjzAwGNmYda9Ys"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Adik Ombak Abadi",
+      "_id": "NlIdfiDwdlZQnpur",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.NlIdfiDwdlZQnpur"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Putri Rembulan Malam",
+      "_id": "ZjyGFoyP12wzrEYk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.ZjyGFoyP12wzrEYk"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Hakim Lembah Tertutup",
+      "_id": "fiRK9X4hhXcaVLS2",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.fiRK9X4hhXcaVLS2"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Raja Hutan Rimba",
+      "_id": "iGk9hg5CmmqNyH0v",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.iGk9hg5CmmqNyH0v"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Adik Gunung Batu",
+      "_id": "1rkmG7RQdq1W1LGE",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.1rkmG7RQdq1W1LGE"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Putri Laut Tertutup",
+      "_id": "QnDzDQmyzsV8h5ya",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.QnDzDQmyzsV8h5ya"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Hakim Suara Angin",
+      "_id": "5gN5rKCH3pk3arlG",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.5gN5rKCH3pk3arlG"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Raja Ombak Tersembunyi",
+      "_id": "63m323cmapc6zh1z",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.63m323cmapc6zh1z"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Adik Angin Kecepatan",
+      "_id": "lqIPXJYQOXEnnTHB",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.lqIPXJYQOXEnnTHB"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Putri Badai Biru",
+      "_id": "UAZKg0DT1bYt4k01",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.UAZKg0DT1bYt4k01"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Hakim Lautan Kegelapan",
+      "_id": "N10OIDmJP0zktmOI",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.N10OIDmJP0zktmOI"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Raja Penjaga Cakrawala",
+      "_id": "UXeYO6lcODupIsrd",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.UXeYO6lcODupIsrd"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Adik Senja Berbisik",
+      "_id": "cR6pU8BUPojof53p",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.cR6pU8BUPojof53p"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Putri Gerakan Alam",
+      "_id": "lWBvwrY6xuW50GPJ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.lWBvwrY6xuW50GPJ"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Hakim Cahaya Dunia",
+      "_id": "9Y93yQ7TIMfI0mZx",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.9Y93yQ7TIMfI0mZx"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Raja Matahari Pagi",
+      "_id": "veI0hloE8wFUZv7o",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.veI0hloE8wFUZv7o"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Adik Kembang Malam",
+      "_id": "fUBl6K1WCFhdTvt3",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.fUBl6K1WCFhdTvt3"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Putri Cahaya Terang",
+      "_id": "cYXlfS77O6kDfi5N",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.cYXlfS77O6kDfi5N"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Hakim Bayangan Tersembunyi",
+      "_id": "Tr1t24C6BFTfsXtE",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jxBezjEU9FAXyStF.Tr1t24C6BFTfsXtE"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "8og0hT5cXemthrlK",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.TYRc9Kp1qjdJLv2E",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "jxBezjEU9FAXyStF",
+  "sort": 0,
+  "_key": "!tables!jxBezjEU9FAXyStF"
+}

@@ -1,0 +1,779 @@
+{
+  "name": "Minotaur name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Akorion",
+      "_id": "IpdkKZuzdG7xbmwZ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.IpdkKZuzdG7xbmwZ"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Braxidos",
+      "_id": "LnzqH1PJr8rnYQvL",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.LnzqH1PJr8rnYQvL"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Caltharion",
+      "_id": "UCDWXcmUIqBj9y41",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.UCDWXcmUIqBj9y41"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Diontheras",
+      "_id": "lgYPKNA1t8v6Yy0N",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.lgYPKNA1t8v6Yy0N"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Exomandris",
+      "_id": "sKOl6bYGXx7jBhLw",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.sKOl6bYGXx7jBhLw"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Forthiaris",
+      "_id": "0qLReZPum45JfIqe",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.0qLReZPum45JfIqe"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Graxidos",
+      "_id": "ENUsMvoJRXaWH61X",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.ENUsMvoJRXaWH61X"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Helmarion",
+      "_id": "760CDwAsVBvkH35D",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.760CDwAsVBvkH35D"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Ikalantos",
+      "_id": "ywDyPDabSJ7V31g6",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.ywDyPDabSJ7V31g6"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Jorathis",
+      "_id": "OEc9L1xrYz5pYbVv",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.OEc9L1xrYz5pYbVv"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Kaltheros",
+      "_id": "VMwuVSXd61RErqEE",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.VMwuVSXd61RErqEE"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Lathandros",
+      "_id": "UmNDiHix6qtQ4Jf4",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.UmNDiHix6qtQ4Jf4"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Magnarion",
+      "_id": "PolAguu7w56B1yP6",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.PolAguu7w56B1yP6"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Naxemion",
+      "_id": "e9q3rWmJrW6vBiNM",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.e9q3rWmJrW6vBiNM"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Olexiaris",
+      "_id": "IzSl6EuB9lOgd0NK",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.IzSl6EuB9lOgd0NK"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Pyrandros",
+      "_id": "ORUTAigniDxOdUqP",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.ORUTAigniDxOdUqP"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Quorathis",
+      "_id": "m4e0AUicI6RSnBxd",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.m4e0AUicI6RSnBxd"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Ravionas",
+      "_id": "oVPOeWlw72UmCcL5",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.oVPOeWlw72UmCcL5"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Saltharios",
+      "_id": "QHNuBcWILEJRbpzf",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.QHNuBcWILEJRbpzf"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Tromandis",
+      "_id": "SIZG1yzZ6f2NT5bQ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.SIZG1yzZ6f2NT5bQ"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Ulmarath",
+      "_id": "SoALOaQTLKEFRnqa",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.SoALOaQTLKEFRnqa"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Vexarion",
+      "_id": "n1wXjs6nI2msAVMO",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.n1wXjs6nI2msAVMO"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Waldaros",
+      "_id": "yZYPTUbO6gM6TXUD",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.yZYPTUbO6gM6TXUD"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Xarothion",
+      "_id": "xDnRLL2RjXfOl3Ef",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.xDnRLL2RjXfOl3Ef"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Ykalorion",
+      "_id": "p6fXTjF9eUIxOTmr",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.p6fXTjF9eUIxOTmr"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Zymarthis",
+      "_id": "JO6FF4HwsZSCnIqt",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.JO6FF4HwsZSCnIqt"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Athionas",
+      "_id": "FFIHgxAFAUqLttAl",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.FFIHgxAFAUqLttAl"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Brysalion",
+      "_id": "Pxa95G7SoGz4e0Sp",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.Pxa95G7SoGz4e0Sp"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Coltheras",
+      "_id": "Gq884QW7giwZb5MB",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.Gq884QW7giwZb5MB"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Draxion",
+      "_id": "FbIXWCiu4khbycjS",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.FbIXWCiu4khbycjS"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Exarionas",
+      "_id": "ROCFVoqm5WitLTvr",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.ROCFVoqm5WitLTvr"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Fynandros",
+      "_id": "yBFkD5rDodGZhcvW",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.yBFkD5rDodGZhcvW"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Grykalas",
+      "_id": "FfQbaqPkCchTDPYT",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.FfQbaqPkCchTDPYT"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Holarath",
+      "_id": "4Mw3ERf0AcqFQya7",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.4Mw3ERf0AcqFQya7"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Ixlionas",
+      "_id": "EU9eJS0DZK5FUXnE",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.EU9eJS0DZK5FUXnE"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Jorrathas",
+      "_id": "uhbtrJlCrukV0dAT",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.uhbtrJlCrukV0dAT"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Korvion",
+      "_id": "hONFRY1hG4EreHpd",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.hONFRY1hG4EreHpd"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Lyxarion",
+      "_id": "VQIiNybneZvhP3Lx",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.VQIiNybneZvhP3Lx"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Mytharos",
+      "_id": "UtEimYyoPPpndoz1",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.UtEimYyoPPpndoz1"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Nythalios",
+      "_id": "1F76A8bfqFuvSKrK",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.1F76A8bfqFuvSKrK"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Orkalios",
+      "_id": "AokFUNgSl0dU0eZP",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.AokFUNgSl0dU0eZP"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Paxionas",
+      "_id": "p7LaFwHNMz8Jjckx",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.p7LaFwHNMz8Jjckx"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Quinarios",
+      "_id": "xa2QXzlJ7aadrSIp",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.xa2QXzlJ7aadrSIp"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Rynathos",
+      "_id": "6SkOMUWGhT6X5A71",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.6SkOMUWGhT6X5A71"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Sarmathion",
+      "_id": "ANvYqgDafgAu6Pig",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.ANvYqgDafgAu6Pig"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Thalador",
+      "_id": "J1yDZpxoaIfwxFpB",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.J1yDZpxoaIfwxFpB"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Uronas",
+      "_id": "IcvgtSum8z7lgcmr",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.IcvgtSum8z7lgcmr"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Valmion",
+      "_id": "WXHOghnV6z0JSSfi",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.WXHOghnV6z0JSSfi"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Xanarios",
+      "_id": "xKVxe7dgo1k4QUht",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.xKVxe7dgo1k4QUht"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Zolkarion",
+      "_id": "OjAFLkdWeiALjF5I",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CHE9wmW1Uio1k3yY.OjAFLkdWeiALjF5I"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "fCMVFXkro7awdWGs",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.x5nk8UmFvAM71Msf",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "CHE9wmW1Uio1k3yY",
+  "sort": 0,
+  "_key": "!tables!CHE9wmW1Uio1k3yY"
+}

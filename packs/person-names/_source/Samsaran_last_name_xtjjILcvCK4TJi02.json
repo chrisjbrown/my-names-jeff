@@ -1,0 +1,779 @@
+{
+  "name": "Samsaran last name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Balancekeeper",
+      "_id": "AhfnDho9v0F1y2G1",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.AhfnDho9v0F1y2G1"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Lightbearer",
+      "_id": "cmLp31EuEw2fVlgq",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.cmLp31EuEw2fVlgq"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Harmonius",
+      "_id": "Jfil4mS5Jx3zOskv",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.Jfil4mS5Jx3zOskv"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Starwatcher",
+      "_id": "LyqUkrimZUnQ5aju",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.LyqUkrimZUnQ5aju"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Truthseeker",
+      "_id": "eHZLN7yJdZloSVcj",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.eHZLN7yJdZloSVcj"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Pathfinder",
+      "_id": "eexuirhhtzbL5Psm",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.eexuirhhtzbL5Psm"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Soulweaver",
+      "_id": "tQMDThK9Vu2P3RsG",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.tQMDThK9Vu2P3RsG"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Wisdomkeeper",
+      "_id": "2efzcPJ1fb4ZBArI",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.2efzcPJ1fb4ZBArI"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Moonwhisper",
+      "_id": "UgOh70yUrG56D7EV",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.UgOh70yUrG56D7EV"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Dreamscribe",
+      "_id": "OoBYBZPZkpk5aqvh",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.OoBYBZPZkpk5aqvh"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Dawnbringer",
+      "_id": "aTZhTLr4nsVN6GWR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.aTZhTLr4nsVN6GWR"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Spiritguide",
+      "_id": "LxfdiUz9nFLpqzbh",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.LxfdiUz9nFLpqzbh"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Eclipsebinder",
+      "_id": "eSXHEo3si9PTjVQ6",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.eSXHEo3si9PTjVQ6"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Celestial",
+      "_id": "iFtkCkvWfUH5tN5a",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.iFtkCkvWfUH5tN5a"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Starglow",
+      "_id": "cJ9pJxGOMqpCAUHP",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.cJ9pJxGOMqpCAUHP"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Mindful",
+      "_id": "44o5KtvcakAhKUVy",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.44o5KtvcakAhKUVy"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Heartbound",
+      "_id": "Jjh5B63vcWoBWd5S",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.Jjh5B63vcWoBWd5S"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Shadowquill",
+      "_id": "PlHRiaqL3tCXpcqw",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.PlHRiaqL3tCXpcqw"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Clarityborn",
+      "_id": "K3uedEmczJ1leg0I",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.K3uedEmczJ1leg0I"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Wavekeeper",
+      "_id": "hQhjtumtRxFRq7EJ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.hQhjtumtRxFRq7EJ"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Wisplight",
+      "_id": "SjPgwefYMIwj17NR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.SjPgwefYMIwj17NR"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Soulanchor",
+      "_id": "HHirm47SeDPiBhyT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.HHirm47SeDPiBhyT"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Fateweaver",
+      "_id": "TG9w3JMGF13xCl7s",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.TG9w3JMGF13xCl7s"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Timeless",
+      "_id": "qGP79fd5seybPmWh",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.qGP79fd5seybPmWh"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Truthbinder",
+      "_id": "jvNiPMzmQjDT9sKQ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.jvNiPMzmQjDT9sKQ"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Lightwaker",
+      "_id": "yXACtxkzOoOwmxOR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.yXACtxkzOoOwmxOR"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Eternity",
+      "_id": "3IdtwI41AsaRSEjB",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.3IdtwI41AsaRSEjB"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Skykeeper",
+      "_id": "zbiMgMAW2BfrNKrY",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.zbiMgMAW2BfrNKrY"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Hopebringer",
+      "_id": "xP1s1PfToxmR4gtv",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.xP1s1PfToxmR4gtv"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Shardbound",
+      "_id": "91cwmyOJR8A8lwSS",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.91cwmyOJR8A8lwSS"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Peaceweaver",
+      "_id": "AygVmilM2qrv5qPX",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.AygVmilM2qrv5qPX"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Worldseer",
+      "_id": "cFicmKa7wmvHN91s",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.cFicmKa7wmvHN91s"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Voidtreader",
+      "_id": "sn0ozfk5JZCnR8MO",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.sn0ozfk5JZCnR8MO"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Lawbringer",
+      "_id": "bAXCs5Nfd6GaE3vn",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.bAXCs5Nfd6GaE3vn"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Gracekeeper",
+      "_id": "T1nKetrlD0xh2BhU",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.T1nKetrlD0xh2BhU"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Twilight",
+      "_id": "XLMzRXWVueaelwJC",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.XLMzRXWVueaelwJC"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Auraguide",
+      "_id": "a62D8PLppClaPScN",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.a62D8PLppClaPScN"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Heartscribe",
+      "_id": "ZQUVJzLHSDYIJzAh",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.ZQUVJzLHSDYIJzAh"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Luminescence",
+      "_id": "K5AwaqKuAtJPdH0A",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.K5AwaqKuAtJPdH0A"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Calmbinder",
+      "_id": "PuXMuweQ26RuoMSv",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.PuXMuweQ26RuoMSv"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Songlight",
+      "_id": "gR6fWUCRUwL46Qv2",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.gR6fWUCRUwL46Qv2"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Duskweaver",
+      "_id": "MnEqA3GtKizMKyEd",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.MnEqA3GtKizMKyEd"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Brightcall",
+      "_id": "yudzKj6Su6fvkZey",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.yudzKj6Su6fvkZey"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Wayfinder",
+      "_id": "Yb0LvdIBOqDzRh3Y",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.Yb0LvdIBOqDzRh3Y"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Gloryseeker",
+      "_id": "IvPjO64fP2L0hC9g",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.IvPjO64fP2L0hC9g"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Shadowkeeper",
+      "_id": "Wh7jsyOhPybLtMBa",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.Wh7jsyOhPybLtMBa"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Truthglimmer",
+      "_id": "8Vi3eTIl1kBNUfuS",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.8Vi3eTIl1kBNUfuS"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Fatescribe",
+      "_id": "Bb2jtWmjBkDTDOUf",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.Bb2jtWmjBkDTDOUf"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Celestbound",
+      "_id": "fkCPjijd6HSkAxtS",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.fkCPjijd6HSkAxtS"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Dreamward",
+      "_id": "irydPa9HOmtKhtJ4",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!xtjjILcvCK4TJi02.irydPa9HOmtKhtJ4"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "Pk7crIksU72uTM3N",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.PMLzNWZ8oBLK4P9h",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "xtjjILcvCK4TJi02",
+  "sort": 0,
+  "_key": "!tables!xtjjILcvCK4TJi02"
+}

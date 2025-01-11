@@ -1,0 +1,22 @@
+{
+  "name": "Fantasy",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "Fnx8SmUih2boS1MH",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042303,
+    "modifiedTime": 1736610043554,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "_key": "!folders!Fnx8SmUih2boS1MH"
+}

@@ -1,0 +1,817 @@
+{
+  "name": "Elf First Name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "text": "Aelar",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "4MK6QCLQE0Bu067y",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.4MK6QCLQE0Bu067y"
+    },
+    {
+      "type": "text",
+      "text": "Alara",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "NtCpYEmrRQevvRzj",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.NtCpYEmrRQevvRzj"
+    },
+    {
+      "type": "text",
+      "text": "Ariandel",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "w1y81Jg9tZ3h2fbO",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.w1y81Jg9tZ3h2fbO"
+    },
+    {
+      "type": "text",
+      "text": "Arannis",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "PaDkZKdk8meNmuZh",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.PaDkZKdk8meNmuZh"
+    },
+    {
+      "type": "text",
+      "text": "Auriel",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "0JZYboJ54h0PbSQ3",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.0JZYboJ54h0PbSQ3"
+    },
+    {
+      "type": "text",
+      "text": "Celeborn",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "2GhWpz3IMGS6a0vQ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.2GhWpz3IMGS6a0vQ"
+    },
+    {
+      "type": "text",
+      "text": "Cerelia",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "cd11u4l0RcoPEfc3",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.cd11u4l0RcoPEfc3"
+    },
+    {
+      "type": "text",
+      "text": "Daelin",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "xZGD6ReiER0g7Wu4",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.xZGD6ReiER0g7Wu4"
+    },
+    {
+      "type": "text",
+      "text": "Eldarian",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "UlepqIxOc1G8a1pD",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.UlepqIxOc1G8a1pD"
+    },
+    {
+      "type": "text",
+      "text": "Elowen",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "FljZcH53UrgF25nC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.FljZcH53UrgF25nC"
+    },
+    {
+      "type": "text",
+      "text": "Elysia",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "IODCe7WLCsVtVUCt",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.IODCe7WLCsVtVUCt"
+    },
+    {
+      "type": "text",
+      "text": "Erevan",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "bpYJgqmNgWdciKqt",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.bpYJgqmNgWdciKqt"
+    },
+    {
+      "type": "text",
+      "text": "Faelan",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "16H1Iufk6a06hcRj",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.16H1Iufk6a06hcRj"
+    },
+    {
+      "type": "text",
+      "text": "Fenoria",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "E7sqwC0Xmp1NRvyh",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.E7sqwC0Xmp1NRvyh"
+    },
+    {
+      "type": "text",
+      "text": "Galadriel",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "n2XlfEktzQBYnwZ7",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.n2XlfEktzQBYnwZ7"
+    },
+    {
+      "type": "text",
+      "text": "Galen",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "vhKo7ckmp6cUgVia",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.vhKo7ckmp6cUgVia"
+    },
+    {
+      "type": "text",
+      "text": "Haldir",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "lyeT9iG4qOygy918",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.lyeT9iG4qOygy918"
+    },
+    {
+      "type": "text",
+      "text": "Ilyria",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "X1DqTBFbgBkEXRmN",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.X1DqTBFbgBkEXRmN"
+    },
+    {
+      "type": "text",
+      "text": "Keledan",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "GfJDKNluAgycCvCH",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.GfJDKNluAgycCvCH"
+    },
+    {
+      "type": "text",
+      "text": "Larethian",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ElbpQJxEOdFID6Yp",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.ElbpQJxEOdFID6Yp"
+    },
+    {
+      "type": "text",
+      "text": "Loriana",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "wQOzW4kevGUckLdG",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.wQOzW4kevGUckLdG"
+    },
+    {
+      "type": "text",
+      "text": "Maelis",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Qmn7hdAQpscOnYZF",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.Qmn7hdAQpscOnYZF"
+    },
+    {
+      "type": "text",
+      "text": "Maerwynn",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Ewg8d7bb6DwYEYg3",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.Ewg8d7bb6DwYEYg3"
+    },
+    {
+      "type": "text",
+      "text": "Nimloth",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "ZVCTF3u2pxfyNFGd",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.ZVCTF3u2pxfyNFGd"
+    },
+    {
+      "type": "text",
+      "text": "Orion",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "cw7Y4ndKDYOckytK",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.cw7Y4ndKDYOckytK"
+    },
+    {
+      "type": "text",
+      "text": "Quelara",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Fs1AFZyjM5fYgpNm",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.Fs1AFZyjM5fYgpNm"
+    },
+    {
+      "type": "text",
+      "text": "Ravenna",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "JPv0pHquO77edDIg",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.JPv0pHquO77edDIg"
+    },
+    {
+      "type": "text",
+      "text": "Saelora",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "LbPoJctNQuzeKHj6",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.LbPoJctNQuzeKHj6"
+    },
+    {
+      "type": "text",
+      "text": "Silvaris",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "7xsHhuWl7L9MNem9",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.7xsHhuWl7L9MNem9"
+    },
+    {
+      "type": "text",
+      "text": "Sylindra",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "pXHYd6UQRIWP7J3h",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.pXHYd6UQRIWP7J3h"
+    },
+    {
+      "type": "text",
+      "text": "Thalindra",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "qIs5Kcjnr8IoICLQ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.qIs5Kcjnr8IoICLQ"
+    },
+    {
+      "type": "text",
+      "text": "Thranduil",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "nKFdFJ2uvspMoc9G",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.nKFdFJ2uvspMoc9G"
+    },
+    {
+      "type": "text",
+      "text": "Virel",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "5YECNXJyroaLzHjc",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.5YECNXJyroaLzHjc"
+    },
+    {
+      "type": "text",
+      "text": "Yavanna",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "xHhmwd76B06Bp1kT",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.xHhmwd76B06Bp1kT"
+    },
+    {
+      "type": "text",
+      "text": "Zephyr",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "X6unP242JLQ8rzdw",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.X6unP242JLQ8rzdw"
+    },
+    {
+      "type": "text",
+      "text": "Aerendyl",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "a0M77JyUbfCwrIK9",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.a0M77JyUbfCwrIK9"
+    },
+    {
+      "type": "text",
+      "text": "Alaris",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "IEhCsL7FTaqWa0AF",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.IEhCsL7FTaqWa0AF"
+    },
+    {
+      "type": "text",
+      "text": "Aurora",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "PSxYEUJLwu9d5UxK",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.PSxYEUJLwu9d5UxK"
+    },
+    {
+      "type": "text",
+      "text": "Baelen",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "639m6XjNJ00mlpbP",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.639m6XjNJ00mlpbP"
+    },
+    {
+      "type": "text",
+      "text": "Caladwen",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "hAtQmElVEWsHfKQh",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.hAtQmElVEWsHfKQh"
+    },
+    {
+      "type": "text",
+      "text": "Caelan",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "1oDOyQiwWs7Zn5dt",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.1oDOyQiwWs7Zn5dt"
+    },
+    {
+      "type": "text",
+      "text": "Darian",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "8SP2QoaTQ4gPh1cy",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.8SP2QoaTQ4gPh1cy"
+    },
+    {
+      "type": "text",
+      "text": "Eirena",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "g7PMdK6MQDbDBCwQ",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.g7PMdK6MQDbDBCwQ"
+    },
+    {
+      "type": "text",
+      "text": "Elara",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "m9w9RpwM5PVGoHq6",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.m9w9RpwM5PVGoHq6"
+    },
+    {
+      "type": "text",
+      "text": "Erevan",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "PhlBqxCNI9vZltkr",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.PhlBqxCNI9vZltkr"
+    },
+    {
+      "type": "text",
+      "text": "Finwe",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "30PBq4qi8PlE32ee",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.30PBq4qi8PlE32ee"
+    },
+    {
+      "type": "text",
+      "text": "Galathil",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "NkprNYKLRVPHl7Uw",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.NkprNYKLRVPHl7Uw"
+    },
+    {
+      "type": "text",
+      "text": "Haelen",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "Y8137vILbrYmyNfk",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.Y8137vILbrYmyNfk"
+    },
+    {
+      "type": "text",
+      "text": "Ithilwen",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "pszKMQa33MALh183",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!UAHqXGedhTpYUbOx.pszKMQa33MALh183"
+    }
+  ],
+  "formula": "1d49",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.cMQOaX6xLiYNiO6c"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.pI9rMxXDiru1VHKA",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "folder": "aB7umNK9URM3DM2s",
+  "_id": "UAHqXGedhTpYUbOx",
+  "sort": 0,
+  "_key": "!tables!UAHqXGedhTpYUbOx"
+}

@@ -1,0 +1,779 @@
+{
+  "name": "Tripkee name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Aelgor",
+      "_id": "FYFvix8oe3qRtJb0",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.FYFvix8oe3qRtJb0"
+    },
+    {
+      "type": "text",
+      "range": [
+        2,
+        2
+      ],
+      "text": "Bokzun",
+      "_id": "Lm606UCxjFHrZGiv",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.Lm606UCxjFHrZGiv"
+    },
+    {
+      "type": "text",
+      "range": [
+        3,
+        3
+      ],
+      "text": "Cchraa",
+      "_id": "fnH06Z2p37GuOUvM",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.fnH06Z2p37GuOUvM"
+    },
+    {
+      "type": "text",
+      "range": [
+        4,
+        4
+      ],
+      "text": "Draalu",
+      "_id": "PwAYVBst6SNadSgc",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.PwAYVBst6SNadSgc"
+    },
+    {
+      "type": "text",
+      "range": [
+        5,
+        5
+      ],
+      "text": "Eepruu",
+      "_id": "x4YiXM2an4GmfBPS",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.x4YiXM2an4GmfBPS"
+    },
+    {
+      "type": "text",
+      "range": [
+        6,
+        6
+      ],
+      "text": "Ghuul",
+      "_id": "JgQixpvJk3dKG9rA",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.JgQixpvJk3dKG9rA"
+    },
+    {
+      "type": "text",
+      "range": [
+        7,
+        7
+      ],
+      "text": "Hrahk",
+      "_id": "pPrLCRqf1Rm0s6N8",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.pPrLCRqf1Rm0s6N8"
+    },
+    {
+      "type": "text",
+      "range": [
+        8,
+        8
+      ],
+      "text": "Iluvi",
+      "_id": "Ui4CUejAat0hS051",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.Ui4CUejAat0hS051"
+    },
+    {
+      "type": "text",
+      "range": [
+        9,
+        9
+      ],
+      "text": "Jraak",
+      "_id": "eHKnhXWiMOtji53H",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.eHKnhXWiMOtji53H"
+    },
+    {
+      "type": "text",
+      "range": [
+        10,
+        10
+      ],
+      "text": "Kixra",
+      "_id": "SPr8qHG6swj1gYiQ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.SPr8qHG6swj1gYiQ"
+    },
+    {
+      "type": "text",
+      "range": [
+        11,
+        11
+      ],
+      "text": "Lhruu",
+      "_id": "lFxyBmx1XOLPJmTm",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.lFxyBmx1XOLPJmTm"
+    },
+    {
+      "type": "text",
+      "range": [
+        12,
+        12
+      ],
+      "text": "Mraash",
+      "_id": "jv15haXkNTvm7MVp",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.jv15haXkNTvm7MVp"
+    },
+    {
+      "type": "text",
+      "range": [
+        13,
+        13
+      ],
+      "text": "Noktu",
+      "_id": "fO7GmE7SsNaod5re",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.fO7GmE7SsNaod5re"
+    },
+    {
+      "type": "text",
+      "range": [
+        14,
+        14
+      ],
+      "text": "Ortaal",
+      "_id": "bXTDOhAOtCZrL6TI",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.bXTDOhAOtCZrL6TI"
+    },
+    {
+      "type": "text",
+      "range": [
+        15,
+        15
+      ],
+      "text": "Pooklo",
+      "_id": "gcN1EvNjxyxv3DUR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.gcN1EvNjxyxv3DUR"
+    },
+    {
+      "type": "text",
+      "range": [
+        16,
+        16
+      ],
+      "text": "Qorku",
+      "_id": "NMAHCOj8qlq7dkUK",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.NMAHCOj8qlq7dkUK"
+    },
+    {
+      "type": "text",
+      "range": [
+        17,
+        17
+      ],
+      "text": "Rraaku",
+      "_id": "U9SK3buQBPf2NDXI",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.U9SK3buQBPf2NDXI"
+    },
+    {
+      "type": "text",
+      "range": [
+        18,
+        18
+      ],
+      "text": "Sikra",
+      "_id": "Oqc7LE648q0zQK5X",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.Oqc7LE648q0zQK5X"
+    },
+    {
+      "type": "text",
+      "range": [
+        19,
+        19
+      ],
+      "text": "Tyrta",
+      "_id": "z3dXSshLhZJgOGQ7",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.z3dXSshLhZJgOGQ7"
+    },
+    {
+      "type": "text",
+      "range": [
+        20,
+        20
+      ],
+      "text": "Urvaa",
+      "_id": "jkiGONlH9GU7A4w9",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.jkiGONlH9GU7A4w9"
+    },
+    {
+      "type": "text",
+      "range": [
+        21,
+        21
+      ],
+      "text": "Vhruuk",
+      "_id": "N9ZTBkNBMqDqnSA0",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.N9ZTBkNBMqDqnSA0"
+    },
+    {
+      "type": "text",
+      "range": [
+        22,
+        22
+      ],
+      "text": "Wruud",
+      "_id": "PxnIh8uOYGky1RNl",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.PxnIh8uOYGky1RNl"
+    },
+    {
+      "type": "text",
+      "range": [
+        23,
+        23
+      ],
+      "text": "Xauza",
+      "_id": "fcFFGUZQ39xeGErK",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.fcFFGUZQ39xeGErK"
+    },
+    {
+      "type": "text",
+      "range": [
+        24,
+        24
+      ],
+      "text": "Yhraav",
+      "_id": "XcLzAQMOXrKyily8",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.XcLzAQMOXrKyily8"
+    },
+    {
+      "type": "text",
+      "range": [
+        25,
+        25
+      ],
+      "text": "Zhaalu",
+      "_id": "xFPdEZuvA9MSiBcT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.xFPdEZuvA9MSiBcT"
+    },
+    {
+      "type": "text",
+      "range": [
+        26,
+        26
+      ],
+      "text": "Ahrron",
+      "_id": "ljzcj6zpDpNw5CQT",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.ljzcj6zpDpNw5CQT"
+    },
+    {
+      "type": "text",
+      "range": [
+        27,
+        27
+      ],
+      "text": "Bubbaal",
+      "_id": "fFUJjj2yBCYpGGzJ",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.fFUJjj2yBCYpGGzJ"
+    },
+    {
+      "type": "text",
+      "range": [
+        28,
+        28
+      ],
+      "text": "Cllorrk",
+      "_id": "OZ15LoglNswBSap5",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.OZ15LoglNswBSap5"
+    },
+    {
+      "type": "text",
+      "range": [
+        29,
+        29
+      ],
+      "text": "Deerak",
+      "_id": "qO2wzCk15sYc6EXl",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.qO2wzCk15sYc6EXl"
+    },
+    {
+      "type": "text",
+      "range": [
+        30,
+        30
+      ],
+      "text": "Fhulra",
+      "_id": "0LmAiIGNK8W2c4T7",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.0LmAiIGNK8W2c4T7"
+    },
+    {
+      "type": "text",
+      "range": [
+        31,
+        31
+      ],
+      "text": "Ghhurr",
+      "_id": "nZNCsH3EJuuj7AHf",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.nZNCsH3EJuuj7AHf"
+    },
+    {
+      "type": "text",
+      "range": [
+        32,
+        32
+      ],
+      "text": "Hruumu",
+      "_id": "sWSZMD92PNACPHJP",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.sWSZMD92PNACPHJP"
+    },
+    {
+      "type": "text",
+      "range": [
+        33,
+        33
+      ],
+      "text": "Ikaal",
+      "_id": "MEo5PDPVDzr2UZ9m",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.MEo5PDPVDzr2UZ9m"
+    },
+    {
+      "type": "text",
+      "range": [
+        34,
+        34
+      ],
+      "text": "Jhoor",
+      "_id": "kmWvAajl0B8frRID",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.kmWvAajl0B8frRID"
+    },
+    {
+      "type": "text",
+      "range": [
+        35,
+        35
+      ],
+      "text": "Klaak",
+      "_id": "ovc0tzNDkMvcDxIk",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.ovc0tzNDkMvcDxIk"
+    },
+    {
+      "type": "text",
+      "range": [
+        36,
+        36
+      ],
+      "text": "Luurka",
+      "_id": "mb7mSBQhlgbso5BA",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.mb7mSBQhlgbso5BA"
+    },
+    {
+      "type": "text",
+      "range": [
+        37,
+        37
+      ],
+      "text": "Morha",
+      "_id": "zYcAd0YuLhmbtg9p",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.zYcAd0YuLhmbtg9p"
+    },
+    {
+      "type": "text",
+      "range": [
+        38,
+        38
+      ],
+      "text": "Nuuruu",
+      "_id": "s4Pwi3ODEiMwsxb9",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.s4Pwi3ODEiMwsxb9"
+    },
+    {
+      "type": "text",
+      "range": [
+        39,
+        39
+      ],
+      "text": "Okoa",
+      "_id": "Bj01hMbpy5lPoPaU",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.Bj01hMbpy5lPoPaU"
+    },
+    {
+      "type": "text",
+      "range": [
+        40,
+        40
+      ],
+      "text": "Prraash",
+      "_id": "ONolDHHbZInA2qbR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.ONolDHHbZInA2qbR"
+    },
+    {
+      "type": "text",
+      "range": [
+        41,
+        41
+      ],
+      "text": "Rhuu",
+      "_id": "vqc6Qzm6IWjkx1lq",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.vqc6Qzm6IWjkx1lq"
+    },
+    {
+      "type": "text",
+      "range": [
+        42,
+        42
+      ],
+      "text": "Soora",
+      "_id": "OS5Jl2owt23aIUzP",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.OS5Jl2owt23aIUzP"
+    },
+    {
+      "type": "text",
+      "range": [
+        43,
+        43
+      ],
+      "text": "Tloora",
+      "_id": "2DL8sXjRBtNhZ1Zp",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.2DL8sXjRBtNhZ1Zp"
+    },
+    {
+      "type": "text",
+      "range": [
+        44,
+        44
+      ],
+      "text": "Uruuk",
+      "_id": "HmMpEW5lSeLQ6eMq",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.HmMpEW5lSeLQ6eMq"
+    },
+    {
+      "type": "text",
+      "range": [
+        45,
+        45
+      ],
+      "text": "Vruul",
+      "_id": "w6Y0qYZHoSZQl6vM",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.w6Y0qYZHoSZQl6vM"
+    },
+    {
+      "type": "text",
+      "range": [
+        46,
+        46
+      ],
+      "text": "Wruuu",
+      "_id": "ncNLUMy3PY4mOIwg",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.ncNLUMy3PY4mOIwg"
+    },
+    {
+      "type": "text",
+      "range": [
+        47,
+        47
+      ],
+      "text": "Xorrk",
+      "_id": "JlLB1n5nKLXJaSui",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.JlLB1n5nKLXJaSui"
+    },
+    {
+      "type": "text",
+      "range": [
+        48,
+        48
+      ],
+      "text": "Yhraak",
+      "_id": "JLa7yP0VuXd2m8xx",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.JLa7yP0VuXd2m8xx"
+    },
+    {
+      "type": "text",
+      "range": [
+        49,
+        49
+      ],
+      "text": "Zruuk",
+      "_id": "mYcbjEce5lP4cleR",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.mYcbjEce5lP4cleR"
+    },
+    {
+      "type": "text",
+      "range": [
+        50,
+        50
+      ],
+      "text": "Aarvak",
+      "_id": "DsMAqRuWTKaQEXNb",
+      "img": null,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!vpCvBOB6Y4Lko7Td.DsMAqRuWTKaQEXNb"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5jRzs2GsaJ8QLJuW",
+  "ownership": {
+    "default": 0,
+    "epE5hKR0hhfLRd1O": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.my-names-jeff.person-names.RollTable.nbdZ5h8XinvjieAN",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736610042388,
+    "modifiedTime": 1736610042388,
+    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+  },
+  "formula": "1d50",
+  "_id": "vpCvBOB6Y4Lko7Td",
+  "sort": 0,
+  "_key": "!tables!vpCvBOB6Y4Lko7Td"
+}

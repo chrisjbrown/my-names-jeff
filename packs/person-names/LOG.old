@@ -1,6 +1,3 @@
-2025/01/11-16:40:02.755664 30e64f000 Log #6: 0 ops saved to Table #65 OK
-2025/01/11-16:40:02.755751 30e64f000 Archiving /Users/christopherbrown/Library/Application Support/FoundryVTT/Data/modules/my-names-jeff/packs/person-names/000006.log: OK
-2025/01/11-16:40:02.755772 30e64f000 Log #64: 0 ops saved to Table #66 OK
-2025/01/11-16:40:02.755816 30e64f000 Archiving /Users/christopherbrown/Library/Application Support/FoundryVTT/Data/modules/my-names-jeff/packs/person-names/000064.log: OK
-2025/01/11-16:40:02.755941 30e64f000 Archiving /Users/christopherbrown/Library/Application Support/FoundryVTT/Data/modules/my-names-jeff/packs/person-names/MANIFEST-000062: OK
-2025/01/11-16:40:02.756186 30e64f000 **** Repaired leveldb /Users/christopherbrown/Library/Application Support/FoundryVTT/Data/modules/my-names-jeff/packs/person-names; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/01/11-17:43:03.038360 1721ab000 Recovering log #69
+2025/01/11-17:43:03.039049 1721ab000 Delete type=0 #69
+2025/01/11-17:43:03.039096 1721ab000 Delete type=3 #67
