@@ -35,7 +35,7 @@ const premades = {
         names: [
           {
             label: 'Dragon name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.Ahblwav3O2D2YGOA'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.rlWetH2LKYBuUm4Q'
           },
         ]
       },
@@ -44,11 +44,11 @@ const premades = {
         names: [
           {
             label: 'Dwarf first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.ch5Q9eDia25s4U3q'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.la7lALKjYDJBByP0'
           },
           {
             label: 'Dwarf last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.AQBywLCajYDmBTay'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.SAs678VQ57jIwPv3'
           }
         ]
       },
@@ -57,11 +57,11 @@ const premades = {
         names: [
           {
             label: 'Elf first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.pI9rMxXDiru1VHKA'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.UAHqXGedhTpYUbOx'
           },
           {
             label: 'Elf last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.URgEZSF5K5ymnMFv'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.yC31uFuuJbZZTvO3'
           }
         ]
       },
@@ -70,11 +70,11 @@ const premades = {
         names: [
           {
             label: 'Gnome first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.pu23RxNtwvOxff80'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.rK0rsKlFMbKrZFxG'
           },
           {
             label: 'Gnome last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.CWxxFZUl7zxLW7FG'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.byH0ERUbUoSWXSBH'
           }
         ]
       },
@@ -83,11 +83,11 @@ const premades = {
         names: [
           {
             label: 'Goblin first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.2aEBh73vpcXVS6dP'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.YXhiK7Lv1rMIJkS3'
           },
           {
             label: 'Goblin last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.QL1RE50ZUs0k6yfv'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.Tnk02tvaJEKO1LLs'
           }
         ]
       },
@@ -96,11 +96,11 @@ const premades = {
         names: [
           {
             label: 'Halfling first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.QIgjNxaYpe2zLa4q'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.Hv7BOnQ9ekb3PzJn'
           },
           {
             label: 'Halfling last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.HjKWeUdSSVLvskj6'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.r49pqu5o0pPD3sJO'
           }
         ]
       },
@@ -109,11 +109,11 @@ const premades = {
         names: [
           {
             label: 'Human first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.b1UKEsT1IZREtBqt'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.0NsmJ0UkEnBeXmih'
           },
           {
             label: 'Human last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.hlSrvW0A8fpUtlya'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.rwVx4dIX6iXHmcIu'
           }
         ]
       },
@@ -122,11 +122,11 @@ const premades = {
         names: [
           {
             label: 'Orc first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.JDToupRQAQv7wRei'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.iAkHl8Kf7VVvgfoZ'
           },
           {
             label: 'Orc last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.xShWEo6uULMnplxG'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.BILtCKXAcTbACyB8'
           }
         ]
       },
@@ -135,11 +135,11 @@ const premades = {
         names: [
           {
             label: 'Tiefling first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.Dr2JJWS3tdlzBraR'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.R1hHQvobWuANpLCo'
           },
           {
             label: 'Tiefling last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.r9Q2AS9SuP9w9P1J'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.uL7nDaaorp1hga3a'
           }
         ]
       }
@@ -180,7 +180,7 @@ const premades = {
         names: [
           {
             label: 'Athamaru name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.J0VtTOTnCcFqf5r4'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.RZGUBTTEekd7ZG8L'
           }
         ]
       },
@@ -189,7 +189,7 @@ const premades = {
         names: [
           {
             label: 'Azarketi name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.WzWAInljREXRwkB9'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.uRjH4NxpG68M7dTL'
           }
         ]
       },
@@ -198,7 +198,7 @@ const premades = {
         names: [
           {
             label: 'Catfolk name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.FkQWxv2IAUWzNdP5'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.NGt2JJRXedOHV1r1'
           }
         ]
       },
@@ -207,7 +207,7 @@ const premades = {
         names: [
           {
             label: 'Centaur name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.eW5eovuAhTNotLKC'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.lpvGtFnBRWFdoRwq'
           }
         ]
       },
@@ -216,11 +216,11 @@ const premades = {
         names: [
           {
             label: 'Dwarf first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.ch5Q9eDia25s4U3q'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.la7lALKjYDJBByP0'
           },
           {
             label: 'Dwarf last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.AQBywLCajYDmBTay'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.SAs678VQ57jIwPv3'
           }
         ]
       },
@@ -229,11 +229,11 @@ const premades = {
         names: [
           {
             label: 'Elf first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.pI9rMxXDiru1VHKA'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.UAHqXGedhTpYUbOx'
           },
           {
             label: 'Elf last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.URgEZSF5K5ymnMFv'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.yC31uFuuJbZZTvO3'
           }
         ]
       },
@@ -242,7 +242,7 @@ const premades = {
         names: [
           {
             label: 'Fetchling name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.YEFd28RuKseuPa1K'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.JIoBoHJji0gH42Sx'
           }
         ]
       },
@@ -251,7 +251,7 @@ const premades = {
         names: [
           {
             label: 'Hobgoblin name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.C89qZBSrjZD0eApH'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.iQk73TkVjjqy1EqL'
           }
         ]
       },
@@ -260,7 +260,7 @@ const premades = {
         names: [
           {
             label: 'Kholo name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.llfjFdESQOrLgVvm'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.OqnFnDsL8JGTgMfk'
           }
         ]
       },
@@ -269,7 +269,7 @@ const premades = {
         names: [
           {
             label: 'Kitsune name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.rKTLYsY9XiIUUGch'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.XLdsCDY8JxQ54WJ6'
           }
         ]
       },
@@ -278,7 +278,7 @@ const premades = {
         names: [
           {
             label: 'Kobold name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.irukMRzncAhXZKpH'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.fVUpQjDXdV1j9NQW'
           }
         ]
       },
@@ -287,7 +287,7 @@ const premades = {
         names: [
           {
             label: 'Lizardfolk name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.r5dUIhZeWavViHG4'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.eV3ydwAEGrj2iJmu'
           }
         ]
       },
@@ -296,7 +296,7 @@ const premades = {
         names: [
           {
             label: 'Merfolk name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.nvjS17AUqrdldspF'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.uokSBQG8hwiPXlTx'
           }
         ]
       },
@@ -305,7 +305,7 @@ const premades = {
         names: [
           {
             label: 'Minotaur name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.x5nk8UmFvAM71Msf'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.CHE9wmW1Uio1k3yY'
           }
         ]
       },
@@ -314,7 +314,7 @@ const premades = {
         names: [
           {
             label: 'Nagaji name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.ZYCRwwXFxPRPonWA'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.PIwRHGr3lPtsBl6a'
           }
         ]
       },
@@ -323,7 +323,7 @@ const premades = {
         names: [
           {
             label: 'Ratfolk name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.Jmwr3EKUkhVYhQyf'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.FvtKjVqcJkBhBJ9t'
           }
         ]
       },
@@ -332,11 +332,11 @@ const premades = {
         names: [
           {
             label: 'Samsaran first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.oba2jykyH205SDyR'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.a5W4tJ9VlcC8u91S'
           },
           {
             label: 'Samsaran last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.PMLzNWZ8oBLK4P9h'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.xtjjILcvCK4TJi02'
           }
         ]
       },
@@ -345,7 +345,7 @@ const premades = {
         names: [
           {
             label: 'Tanuki name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.j8RieCfeoa2zBLyF'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.8jT0MdZ5oNNabL1u'
           },
         ]
       },
@@ -354,7 +354,7 @@ const premades = {
         names: [
           {
             label: 'Tengu name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.XDgwbebqWMxS9G4V'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.zRC0OK343HxCuibJ'
           },
         ]
       },
@@ -363,7 +363,7 @@ const premades = {
         names: [
           {
             label: 'Tripkee name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.nbdZ5h8XinvjieAN'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.vpCvBOB6Y4Lko7Td'
           },
         ]
       },
@@ -372,7 +372,7 @@ const premades = {
         names: [
           {
             label: 'Vanara name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.2GPhMSEen5hRlaGF'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.lKLXsP392AV2vj2L'
           },
         ]
       },
@@ -381,7 +381,7 @@ const premades = {
         names: [
           {
             label: 'Wayang name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.TYRc9Kp1qjdJLv2E'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.jxBezjEU9FAXyStF'
           },
         ]
       },
@@ -390,11 +390,11 @@ const premades = {
         names: [
           {
             label: 'Gnome first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.pu23RxNtwvOxff80'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.rK0rsKlFMbKrZFxG'
           },
           {
             label: 'Gnome last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.CWxxFZUl7zxLW7FG'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.byH0ERUbUoSWXSBH'
           }
         ]
       },
@@ -403,11 +403,11 @@ const premades = {
         names: [
           {
             label: 'Goblin first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.2aEBh73vpcXVS6dP'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.YXhiK7Lv1rMIJkS3'
           },
           {
             label: 'Goblin last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.QL1RE50ZUs0k6yfv'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.Tnk02tvaJEKO1LLs'
           }
         ]
       },
@@ -416,11 +416,11 @@ const premades = {
         names: [
           {
             label: 'Halfling first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.QIgjNxaYpe2zLa4q'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.Hv7BOnQ9ekb3PzJn'
           },
           {
             label: 'Halfling last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.HjKWeUdSSVLvskj6'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.r49pqu5o0pPD3sJO'
           }
         ]
       },
@@ -429,11 +429,11 @@ const premades = {
         names: [
           {
             label: 'Human first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.b1UKEsT1IZREtBqt'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.0NsmJ0UkEnBeXmih'
           },
           {
             label: 'Human last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.hlSrvW0A8fpUtlya'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.rwVx4dIX6iXHmcIu'
           }
         ]
       },
@@ -442,7 +442,7 @@ const premades = {
         names: [
           {
             label: 'Leshy name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.PRaq4sxk1PtxA2Eq'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.euXHHehI3T9FvVJU'
           }
         ]
       },
@@ -451,11 +451,11 @@ const premades = {
         names: [
           {
             label: 'Orc first name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.JDToupRQAQv7wRei'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.iAkHl8Kf7VVvgfoZ'
           },
           {
             label: 'Orc last name',
-            uuid: 'Compendium.my-names-jeff.person-names.RollTable.xShWEo6uULMnplxG'
+            uuid: 'Compendium.my-names-jeff.person-names.RollTable.BILtCKXAcTbACyB8'
           }
         ]
       }

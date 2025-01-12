@@ -769,10 +769,11 @@
     "systemId": "pf2e",
     "systemVersion": "6.8.1",
     "createdTime": 1736610042388,
-    "modifiedTime": 1736610042388,
-    "lastModifiedBy": "epE5hKR0hhfLRd1O"
+    "modifiedTime": 1736677180181,
+    "lastModifiedBy": "BAFyLhyBO4cVmCsh"
   },
   "_id": "eV3ydwAEGrj2iJmu",
   "sort": 0,
+  "formula": "1d50",
   "_key": "!tables!eV3ydwAEGrj2iJmu"
 }
