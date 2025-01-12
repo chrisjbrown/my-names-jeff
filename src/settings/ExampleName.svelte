@@ -20,7 +20,7 @@
  </script>
  
 <div class="example">
-    {{localize('mnj.settings.custom.example')}}: {exampleNames}
+    {localize('mnj.settings.custom.example')}: {exampleNames}
 </div>
  
  <style lang="scss">
