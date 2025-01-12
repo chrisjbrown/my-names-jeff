@@ -40,16 +40,15 @@
     {
       "name": "person-names",
       "label": "Person Names",
-      "path": "packs/person-names",
+      "path": "./packs/person-names",
       "type": "RollTable",
-      "private": false,
-      "flags": {}
+      "module": "my-names-jeff"
     }
   ],
-  "url": "https://github.com/typhonjs-fvtt-demo/my-names-jeff",
-  "readme": "https://github.com/typhonjs-fvtt-demo/my-names-jeff/blob/master/README.md",
-  "bugs": "https://github.com/typhonjs-fvtt-demo/my-names-jeff/issues",
-  "changelog": "https://github.com/typhonjs-fvtt-demo/my-names-jeff/releases/latest/",
+  "url": "https://github.com/chrisjbrown/my-names-jeff",
+  "readme": "https://github.com/chrisjbrown/my-names-jeff/blob/master/README.md",
+  "bugs": "https://github.com/chrisjbrown/my-names-jeff/issues",
+  "changelog": "https://github.com/chrisjbrown/my-names-jeff/releases/latest/",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
   "socket": false,
