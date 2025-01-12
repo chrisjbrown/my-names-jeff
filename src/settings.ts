@@ -4,10 +4,10 @@ import { constants } from './constants';
 
 export default function registerSystemSettings() {
     gameSettings.init()
-    game.settings.registerMenu(constants.moduleId, "names", {
-        name: "names",
-        hint: "names",
-        label: "names",
+    game.settings.registerMenu(constants.moduleId, "configureNames", {
+        name: "mnj.settings.configureNames",
+        hint: "mnj.settings.configureNamesHint",
+        label: "mnj.settings.configureNames",
         scope: "world",
         config: true,
         type: ClientSettingApp,

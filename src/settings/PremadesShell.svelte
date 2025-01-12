@@ -1,5 +1,6 @@
 <script lang=ts>
    import { ApplicationShell }   from '#runtime/svelte/component/application';
+   import { localize }              from '#runtime/util/i18n';
    import { premades } from "../constants";
    import ExampleName from './ExampleName.svelte';
    import { gameSettings } from './settingsStore';
@@ -106,7 +107,7 @@
    <div>
       <div>
          <fieldset>
-            <legend>Enable premades</legend>
+            <legend>{localize('mnj.settings.premades.enable')}</legend>
             {#each Object.keys(premades) as premadeKey}
             <label class="premade">
                <input type="checkbox" on:change={(e) => onSettingChange(e, premadeKey)} checked={$enabledPremades.includes(premadeKey)} />
@@ -115,51 +116,54 @@
             {/each}
          </fieldset>
       </div>
-      <div class="custom-types">
-         <button on:click={onAddType}>Add type</button>
-         {#each $types as type, typeIndex}
-            <fieldset class="type" on:drop={(e) => onDrop(e, typeIndex)}>
-               <legend class="legend">
-                  <button on:click={() => onToggleAccordion(typeIndex)} class="toggle">
-                     {#if openAccordionsIndexes.includes(typeIndex)}
-                     <i class="fas fa-chevron-up"></i>
+      <fieldset class="custom-types">
+         <legend>{localize('mnj.settings.custom.customNames')}</legend>
+         <div>
+            <button on:click={onAddType}>{localize('mnj.settings.custom.addType')}</button>
+            {#each $types as type, typeIndex}
+               <fieldset class="type" on:drop={(e) => onDrop(e, typeIndex)}>
+                  <legend class="legend">
+                     <button on:click={() => onToggleAccordion(typeIndex)} class="toggle">
+                        {#if openAccordionsIndexes.includes(typeIndex)}
+                        <i class="fas fa-chevron-up"></i>
+                        {:else}
+                        <i class="fas fa-chevron-down"></i>
+                        {/if}
+                     </button>
+                     <input type="text" placeholder="label" bind:value={type.label} />
+                     <button on:click={() => onDelete(typeIndex)} class="delete">
+                        <i class="fas fa-trash" title="Remove"></i>
+                     </button>
+                  </legend>
+                  {#if openAccordionsIndexes.includes(typeIndex)}
+                     <ol class="name-list">
+                     {#each type.names as name, nameIndex}
+                        <li class="name-item">
+                           <div class="move">
+                              <button on:click={() => onMoveUp(typeIndex, nameIndex)} disabled={nameIndex === 0}>
+                                 <i class="fas fa-chevron-up" title="Up"></i>
+                              </button>
+                              <button on:click={() => onMoveDown(typeIndex, nameIndex)} disabled={nameIndex === type.names.length - 1}>
+                                 <i class="fas fa-chevron-down" title="Down"></i>
+                              </button>
+                           </div>
+                           <button on:click={() => onRemoveName(typeIndex, nameIndex)} class="remove">
+                              <i class="fas fa-trash" title="Remove"></i>
+                           </button>
+                           <button on:click={() => onRollName(name)}>{name.label}</button>
+                        </li>
+                     {/each}
+                     </ol>
+                     {#if type.names.length > 0}
+                        <ExampleName tables={type.names.map((n) => n.uuid)} />
                      {:else}
-                     <i class="fas fa-chevron-down"></i>
+                        <div class="drop">{localize('mnj.settings.custom.dropRolltable')}</div>
                      {/if}
-                  </button>
-                  <input type="text" placeholder="label" bind:value={type.label} />
-                  <button on:click={() => onDelete(typeIndex)} class="delete">
-                     <i class="fas fa-trash" title="Remove"></i>
-                  </button>
-               </legend>
-               {#if openAccordionsIndexes.includes(typeIndex)}
-                  <ol class="name-list">
-                  {#each type.names as name, nameIndex}
-                     <li class="name-item">
-                        <div class="move">
-                           <button on:click={() => onMoveUp(typeIndex, nameIndex)} disabled={nameIndex === 0}>
-                              <i class="fas fa-chevron-up" title="Up"></i>
-                           </button>
-                           <button on:click={() => onMoveDown(typeIndex, nameIndex)} disabled={nameIndex === type.names.length - 1}>
-                              <i class="fas fa-chevron-down" title="Down"></i>
-                           </button>
-                        </div>
-                        <button on:click={() => onRemoveName(typeIndex, nameIndex)} class="remove">
-                           <i class="fas fa-trash" title="Remove"></i>
-                        </button>
-                        <button on:click={() => onRollName(name)}>{name.label}</button>
-                     </li>
-                  {/each}
-                  </ol>
-                  {#if type.names.length > 0}
-                     <ExampleName tables={type.names.map((n) => n.uuid)} />
-                  {:else}
-                     <div class="drop">drop rolltable</div>
                   {/if}
-               {/if}
-            </fieldset>
-         {/each}
-      </div>
+               </fieldset>
+            {/each}
+         </div>
+      </fieldset>
    </div>
 </ApplicationShell>
 

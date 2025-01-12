@@ -35,7 +35,7 @@ export class ClientSettingApp extends SvelteApplication
       return foundry.utils.mergeObject(super.defaultOptions, {
          id: 'premades-client-setting',
          classes: ['trl'],
-         title: 'Premade names',
+         title: 'mnj.settings.premades.premadeNames',
          resizable: true,
          width: 500,
          height: 'auto',

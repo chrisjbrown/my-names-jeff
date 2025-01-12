@@ -1,4 +1,5 @@
 <script lang=ts>
+    import { localize }              from '#runtime/util/i18n';
     export let tables = [];
     let prevTables = []
     let exampleNames = []
@@ -19,7 +20,7 @@
  </script>
  
 <div class="example">
-    Example: {exampleNames}
+    {{localize('mnj.settings.custom.example')}}: {exampleNames}
 </div>
  
  <style lang="scss">

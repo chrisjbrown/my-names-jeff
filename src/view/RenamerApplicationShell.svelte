@@ -1,8 +1,10 @@
 <script lang=ts>
    import { premades as allPremades } from "../constants";
    import { ApplicationShell }   from '#runtime/svelte/component/application';
+   import { localize }              from '#runtime/util/i18n';
    import { getContext }            from 'svelte';
    import { gameSettings } from '../settings/settingsStore';
+   
 
    const { application } = getContext('#external');
    export let elementRoot;
@@ -36,14 +38,14 @@
 <!-- ApplicationShell exports `elementRoot` which is the outer application shell element -->
 <ApplicationShell bind:elementRoot>
    <main>
-      <h1>Select a name group</h1>
+      <h1>{localize('mnj.renamer.selectName')}</h1>
       <div class="groups">
          {#if noNames }
-            <span>no names configured</span>
+            <span>{localize('mnj.renamer.noNames')}</span>
          {:else}
             {#if $types.length > 0}
                <div class="group">
-                  <h3>Custom</h3>
+                  <h3>{localize('mnj.renamer.custom')}</h3>
                   <div class="list">
                      {#each $types as type}
                         <button on:click={() => onRollName(type)}>
