@@ -40,9 +40,10 @@
     {
       "name": "person-names",
       "label": "Person Names",
-      "path": "./packs/person-names",
+      "path": "packs/person-names",
       "type": "RollTable",
-      "module": "my-names-jeff"
+      "private": false,
+      "flags": {}
     }
   ],
   "url": "https://github.com/chrisjbrown/my-names-jeff",
