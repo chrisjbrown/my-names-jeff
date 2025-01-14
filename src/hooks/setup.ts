@@ -1,4 +1,4 @@
-import registerSystemSettings from '../settings';
+import registerSystemSettings from "../settings";
 export default function setup() {
-	registerSystemSettings();
+   registerSystemSettings();
 }
