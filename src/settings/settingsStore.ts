@@ -18,7 +18,6 @@ class MNJGameSetting extends TJSGameSettings {
             key: settings.types,
             options: {
                name: "types",
-               hint: "types",
                scope: "world",
                config: false,
                type: Array,
@@ -30,7 +29,6 @@ class MNJGameSetting extends TJSGameSettings {
             key: settings.premades,
             options: {
                name: "premades",
-               hint: "premades",
                scope: "world",
                config: false,
                type: Array,
@@ -42,11 +40,21 @@ class MNJGameSetting extends TJSGameSettings {
             key: settings.enabledPremades,
             options: {
                name: "enabledPremades",
-               hint: "enabledPremades",
                scope: "world",
                config: false,
                type: Array,
                default: [],
+            },
+         },
+         {
+            namespace,
+            key: settings.pf2eAutoNamer,
+            options: {
+               name: "pf2eAutoNamer",
+               scope: "world",
+               config: false,
+               type: Boolean,
+               default: false,
             },
          },
       ];

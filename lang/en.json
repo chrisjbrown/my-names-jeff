@@ -13,7 +13,9 @@
         "addType": "Add type",
         "dropRolltable": "Drop rolltable",
         "example": "Example"
-      }
+      },
+      "pf2eAutoNamer": "Auto rename pf2e tokens",
+      "pf2eAutoNamerHint": "Tries to auto rename token based on traits"
     },
     "renamer": {
       "custom": "custom",
