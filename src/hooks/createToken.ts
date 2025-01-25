@@ -1,13 +1,12 @@
-import { constants, premades } from "../constants";
+import { premades } from "../constants";
 
 export default async function createToken(token, data) {
-   const pf2eAutoNamer = game.settings.get(constants.moduleId, "pf2eAutoNamer");
-   if (!game.user.isGM || token.actorLink || !pf2eAutoNamer) {
+   if (token.actorLink) {
       return;
    }
 
    const premadeMatch = premades.pf2e.types.find((premade) => {
-      return Array.from(token.actor.traits).find((trait) => trait === premade.traitKey);
+      return token.actor.traits.has(premade.traitKey);
    });
 
    if (premadeMatch) {
