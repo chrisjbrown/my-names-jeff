@@ -15,6 +15,7 @@ const settings = {
    types: "types",
    premades: "premades",
    enabledPremades: "enabledPremades",
+   pf2eAutoNamer: "pf2eAutoNamer",
 };
 
 /**
@@ -24,6 +25,7 @@ const sessionConstants = {
    types: `${constants.moduleId}.${settings.types}`,
    premades: `${constants.moduleId}.${settings.premades}`,
    enabledPremades: `${constants.moduleId}.${settings.enabledPremades}`,
+   pf2eAutoNamer: `${constants.moduleId}.${settings.pf2eAutoNamer}`,
 };
 
 const premades = {
@@ -176,6 +178,7 @@ const premades = {
       label: "Pathfinder2e",
       types: [
          {
+            traitKey: "athamaru",
             label: "Athamaru",
             names: [
                {
@@ -185,6 +188,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "azarketi",
             label: "Azarketi",
             names: [
                {
@@ -194,6 +198,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "catfolk",
             label: "Catfolk",
             names: [
                {
@@ -203,6 +208,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "centaur",
             label: "Centaur",
             names: [
                {
@@ -212,6 +218,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "dwarf",
             label: "Dwarf",
             names: [
                {
@@ -225,6 +232,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "elf",
             label: "Elf",
             names: [
                {
@@ -238,6 +246,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "fetchling",
             label: "Fetchling",
             names: [
                {
@@ -247,6 +256,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "hobgoblin",
             label: "Hobgoblin",
             names: [
                {
@@ -256,6 +266,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "kholo",
             label: "Kholo",
             names: [
                {
@@ -265,6 +276,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "kitsune",
             label: "Kitsune",
             names: [
                {
@@ -274,6 +286,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "kobold",
             label: "Kobold",
             names: [
                {
@@ -283,6 +296,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "lizardfolk",
             label: "Lizardfolk",
             names: [
                {
@@ -292,6 +306,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "merfolk",
             label: "Merfolk",
             names: [
                {
@@ -301,6 +316,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "minotaur",
             label: "Minotaur",
             names: [
                {
@@ -310,6 +326,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "nagaji",
             label: "Nagaji",
             names: [
                {
@@ -319,6 +336,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "ratfolk",
             label: "Ratfolk",
             names: [
                {
@@ -328,6 +346,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "samsaran",
             label: "Samsaran",
             names: [
                {
@@ -341,6 +360,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "tanuki",
             label: "Tanuki",
             names: [
                {
@@ -350,6 +370,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "tengu",
             label: "Tengu",
             names: [
                {
@@ -359,6 +380,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "tripkee",
             label: "Tripkee",
             names: [
                {
@@ -368,6 +390,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "vanara",
             label: "Vanara",
             names: [
                {
@@ -377,6 +400,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "wayang",
             label: "Wayang",
             names: [
                {
@@ -386,6 +410,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "gnome",
             label: "Gnome",
             names: [
                {
@@ -399,6 +424,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "goblin",
             label: "Goblin",
             names: [
                {
@@ -412,6 +438,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "halfling",
             label: "Halfling",
             names: [
                {
@@ -425,6 +452,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "human",
             label: "Human",
             names: [
                {
@@ -438,6 +466,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "leshy",
             label: "Leshy",
             names: [
                {
@@ -447,6 +476,7 @@ const premades = {
             ],
          },
          {
+            traitKey: "orc",
             label: "Orc",
             names: [
                {

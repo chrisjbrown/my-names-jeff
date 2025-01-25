@@ -1,7 +1,7 @@
 import RenamerApplication from "../view/RenamerApplication";
 
 export default function renderTokenHUD(hud, html) {
-   if (!game.user.isGM || hud.object.document.actorLink) {
+   if (hud.object.document.actorLink) {
       return;
    }
 
