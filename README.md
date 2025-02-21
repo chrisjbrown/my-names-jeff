@@ -35,7 +35,7 @@ I've extended these names for other fantasy and sci-fi races by using AI to gene
 2. When dropping an unlinked NPC token the module will look for the first trait tag that matches any premade name key
     - <div><img src="./media/kitsune-trait.png" alt="Step-3" width="300"/></div>
 3. If found it will rename the token when it is dropped on the canvas, if not it will leave it alone
-    - ![Auto rename](./media/auto-renamer.gif)
+![Auto rename](./media/auto-renamer.gif)
 
 # Installation
 
