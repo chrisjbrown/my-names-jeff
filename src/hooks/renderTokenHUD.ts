@@ -5,7 +5,7 @@ export default function renderTokenHUD(hud, html) {
       return;
    }
 
-   html[0].querySelector('.control-icon[data-action="config"]').insertAdjacentHTML(
+   html.querySelector('.control-icon[data-action="config"]').insertAdjacentHTML(
       "beforebegin",
       `
         <div class="control-icon" data-action="token-name">
@@ -17,8 +17,8 @@ export default function renderTokenHUD(hud, html) {
    const tokenDocuments = game.canvas.tokens.controlled
       .filter((token) => !token.document.actorLink)
       .map((token) => token.document);
-   const tokenNameButton = html.find('.control-icon[data-action="token-name"]');
-   tokenNameButton.on("click", async (event) => {
+   const tokenNameButton = html.querySelector('.control-icon[data-action="token-name"]');
+   tokenNameButton.addEventListener("click", async (event) => {
       event.preventDefault();
       new RenamerApplication({ props: { documents: tokenDocuments } }).render(true, { focus: true });
    });
