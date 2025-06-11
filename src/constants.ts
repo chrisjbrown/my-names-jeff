@@ -155,7 +155,7 @@ const premades = {
             names: [
                {
                   label: "Android",
-                  uuid: "Compendium.my-names-jeff.person-names.RollTable.dBvxeWBH4oskiJQn",
+                  uuid: "Compendium.my-names-jeff.person-names.RollTable.WI2xv1m9tK7EsgYQ",
                },
             ],
          },
@@ -164,11 +164,11 @@ const premades = {
             names: [
                {
                   label: "Human first name",
-                  uuid: "Compendium.my-names-jeff.person-names.RollTable.8rUbEtIpuDyBABP6",
+                  uuid: "Compendium.my-names-jeff.person-names.RollTable.8b39kBbUyYNQzUNB",
                },
                {
                   label: "Human last name",
-                  uuid: "Compendium.my-names-jeff.person-names.RollTable.OOREJSGRfOKKdAdv",
+                  uuid: "Compendium.my-names-jeff.person-names.RollTable.Fyd3cU486weOQcTi",
                },
             ],
          },
